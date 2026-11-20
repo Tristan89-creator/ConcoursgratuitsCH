@@ -1,10 +1,10 @@
-# ConcoursCH v1.1 — découverte automatique sans serveur dédié
+# ConcoursgratuitsCH v1.1 — découverte automatique sans serveur dédié
 
 ## Nouveauté
 Une collecte Python lit des résultats RSS publics (Google News) en français, allemand et italien, puis produit `discoveries.json`. Les résultats sont des **pistes non vérifiées**, et non des concours certifiés gratuits, ouverts ou valides. L'application filtre par langue/mot-clé, permet d'ouvrir le lien et de l'ajouter au suivi. Aucun profil personnel n'est envoyé au script.
 
 ## Activer gratuitement avec GitHub Pages + Actions
-1. Créer un dépôt GitHub et y placer **le contenu du dossier ConcoursCH à la racine**, y compris `.github/workflows/discover.yml` (dossier caché).
+1. Créer un dépôt GitHub et y placer **le contenu du dossier ConcoursgratuitsCH à la racine**, y compris `.github/workflows/discover.yml` (dossier caché).
 2. Dans Settings > Pages, publier depuis la branche principale, dossier `/ (root)`.
 3. Dans Settings > Actions > General, autoriser les workflows; dans Workflow permissions, accorder `Read and write permissions` si nécessaire. Les paramètres et quotas dépendent du compte et du dépôt.
 4. Dans Actions, lancer `Update concours discovery` > `Run workflow` une première fois. Le script écrit `discoveries.json` si des résultats sont disponibles. Ensuite GitHub Actions essaie deux exécutions par jour (planification non garantie à l'heure exacte).

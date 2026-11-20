@@ -18,7 +18,7 @@ for lang,geo,query in SEARCHES:
     params=urllib.parse.urlencode({'q':query+' when:30d','hl':lang,'gl':'CH','ceid':geo})
     url='https://news.google.com/rss/search?'+params
     try:
-        req=urllib.request.Request(url,headers={'User-Agent':'ConcoursCH/1.1 (public RSS reader)'})
+        req=urllib.request.Request(url,headers={'User-Agent':'ConcoursgratuitsCH/1.1 (public RSS reader)'})
         with urllib.request.urlopen(req,timeout=18) as resp: data=resp.read(2_000_000)
         root=ET.fromstring(data)
         for node in root.findall('.//item'):
