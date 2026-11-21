@@ -44,6 +44,21 @@ $('#review-yes').addEventListener('click',()=>confirmReview($('#review-panel').d
 $('#review-no').addEventListener('click',()=>confirmReview($('#review-panel').dataset.id,false));
 function item(c){let url=validUrl(c.url);let status=statusText(c);return `<article class="contest"><div class="row"><h3>${esc(c.name)}</h3><span class="pill">${status}</span></div><p class="muted">${c.end?'Fin : '+esc(c.end)+' · ':''}${esc(c.notes||'')}</p><div class="actions">${url?`<a class="btn secondary" href="${esc(url)}" target="_blank" rel="noopener noreferrer" data-open-id="${esc(c.id)}">Ouvrir le site ↗</a>`:''}${c.status!=='done'?`<button class="btn" data-status="done" data-id="${esc(c.id)}">J'ai participé</button>`:''}${c.status!=='manual'?`<button class="btn ghost" data-status="manual" data-id="${esc(c.id)}">Action manuelle</button>`:''}${c.status!=='pending'?`<button class="btn ghost" data-status="pending" data-id="${esc(c.id)}">À faire</button>`:''}<button class="btn danger" data-delete="${esc(c.id)}">Supprimer</button></div></article>`}
 function render(){let all=db.contests,done=all.filter(x=>x.status==='done'),pending=all.filter(x=>x.status==='pending'),manual=all.filter(x=>x.status==='manual'),review=all.filter(x=>x.status==='review');$('#count-all').textContent=all.length;$('#count-done').textContent=done.length;$('#count-pending').textContent=pending.length;$('#count-manual').textContent=manual.length;$('#count-review').textContent=review.length;$('#home-list').innerHTML=[...review,...pending,...manual].slice(0,5).map(item).join('')||'<div class="empty">Aucun concours en attente.</div>';let f=$('#filter').value;$('#contest-list').innerHTML=all.filter(x=>f==='all'||x.status===f).map(item).join('')||'<div class="empty">Aucun concours dans cette catégorie.</div>';$('#history-list').innerHTML=done.map(item).join('')||'<div class="empty">Aucune participation confirmée.</div>';$('#copy-fields').innerHTML=Object.entries({first:'Prénom',last:'Nom',email:'E-mail',phone:'Téléphone',street:'Adresse',zip:'Code postal',city:'Localité',canton:'Canton'}).filter(([k])=>unlockedProfile&&unlockedProfile[k]).map(([k,v])=>`<button class="btn secondary" data-copy="${k}">Copier ${esc(v)}</button>`).join('')||'<p class="muted">Enregistre ton profil pour afficher les boutons de copie.</p>'}
+// Dashboard counters are navigational buttons. Keep all data local.
+document.addEventListener('click',e=>{
+ const button=e.target.closest('[data-dashboard-filter]');
+ if(!button)return;
+ const filter=button.dataset.dashboardFilter;
+ if(!['review','all','done','pending','manual'].includes(filter))return;
+ if(filter==='done'){
+  tab('history');
+ }else{
+  $('#filter').value=filter;
+  tab('search');
+  // Move the filtered personal contest list into view (below discoveries).
+  $('#contest-list').closest('.panel').scrollIntoView({block:'start',behavior:'auto'});
+ }
+});
 $('#filter').addEventListener('change',render);
 $('#add-form').addEventListener('submit',e=>{e.preventDefault();let f=new FormData(e.target),url=validUrl(f.get('url'));if(!url){toast('Utilise une adresse http ou https valide');return}db.contests.unshift({id:crypto.randomUUID?crypto.randomUUID():String(Date.now()),name:String(f.get('name')).trim(),url,end:String(f.get('end')||''),notes:String(f.get('notes')||''),status:'pending',created:new Date().toISOString()});save();e.target.reset();render();toast('Concours enregistré')});
 document.addEventListener('click',async e=>{let b=e.target.closest('[data-status],[data-delete],[data-copy]');if(!b)return;if(b.dataset.status){let c=db.contests.find(x=>x.id===b.dataset.id);if(c){c.status=b.dataset.status;if(c.status==='done')c.completed=new Date().toISOString();delete c.reviewPrompted;save();render();renderDiscoveries();showReview()}}else if(b.dataset.delete){if(confirm('Supprimer ce concours ?')){db.contests=db.contests.filter(x=>x.id!==b.dataset.delete);save();render();renderDiscoveries();showReview()}}else if(b.dataset.copy){let value=unlockedProfile?.[b.dataset.copy];if(!value)return;try{await navigator.clipboard.writeText(value);toast('Copié !')}catch{toast('Copie indisponible dans ce navigateur')}}});
