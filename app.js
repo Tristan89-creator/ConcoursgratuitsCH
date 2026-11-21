@@ -39,14 +39,30 @@ updateVaultUI();render();
 if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});render();
 
 // Public, static discovery catalog. No personal data is sent to the discovery source.
+function categoryFor(x){
+ const title=(x.name||'').toLocaleLowerCase();
+ if(/voyage|vacance|séjour|hotel|hôtel|reise|ferien|flug|vols?|trip|urlaub|viaggio/.test(title))return 'voyage';
+ if(/bon d.achat|gutschein|cadeau|argent|cash|francs|chf|voucher|geschenkkarte/.test(title))return 'argent';
+ if(/iphone|smartphone|ordinateur|laptop|tv|télévision|tablet|console|playstation|elektronik/.test(title))return 'tech';
+ if(/chocolat|repas|restaurant|food|cuisine|essen|aliment|dîner|dinner/.test(title))return 'food';
+ if(/concert|ticket|billet|festival|cinéma|cinema|spectacle|match|event|événement/.test(title))return 'events';
+ return 'other';
+}
 function renderDiscoveries(){
- const q=($('#discovery-query').value||'').toLocaleLowerCase(),lang=$('#discovery-lang').value;
- const matches=discoveries.filter(x=>(lang==='all'||x.language===lang)&&((x.name||'')+' '+(x.source||'')).toLocaleLowerCase().includes(q));
- $('#discovery-list').innerHTML=matches.length?matches.slice(0,80).map(x=>{
+ const q=($('#discovery-query').value||'').toLocaleLowerCase().trim(),lang=$('#discovery-lang').value,cat=$('#discovery-category').value,age=$('#discovery-age').value;
+ const matches=discoveries.filter(x=>{
+  if(lang!=='all'&&x.language!==lang)return false;
+  if(cat!=='all'&&categoryFor(x)!==cat)return false;
+  if(q&&!((x.name||'')+' '+(x.source||'')).toLocaleLowerCase().includes(q))return false;
+  if(age!=='all'){const date=Date.parse((x.published||'')+'T00:00:00Z');if(!Number.isFinite(date)||Date.now()-date>Number(age)*86400000)return false;}
+  return true;
+ });
+ $('#discovery-count').textContent=matches.length+' résultat(s) sur '+discoveries.length+' liens candidats — gratuité et éligibilité non vérifiées';
+ $('#discovery-list').innerHTML=matches.length?matches.slice(0,100).map(x=>{
  const url=validUrl(x.url);if(!url)return '';
  const saved=db.contests.some(c=>c.url===url);
- return `<article class="contest"><h3>${esc(x.name)}</h3><p class="muted">${esc(x.source||'Source non précisée')} · ${esc(x.language.toUpperCase())} · Publié le ${esc(x.published||'date inconnue')}<br><strong>Concours non vérifié</strong></p><div class="actions"><a class="btn secondary" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Consulter ↗</a><button class="btn" data-discover="${esc(x.id)}" ${saved?'disabled':''}>${saved?'Déjà enregistré':'+ Ajouter à mes concours'}</button></div></article>`;
- }).join(''):'<div class="empty">Aucun résultat. Le catalogue peut être vide si la collecte n’est pas encore activée sur GitHub.</div>';
+ return `<article class="contest"><h3>${esc(x.name)}</h3><p class="muted">${esc(x.source||'Source non précisée')} · ${esc((x.language||'?').toUpperCase())} · ${esc(x.published||'Date inconnue')} · ${esc(categoryFor(x))}<br><strong>⚠️ Lien candidat non vérifié : contrôler la gratuité, la date et les conditions suisses</strong></p><div class="actions"><a class="btn secondary" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Consulter ↗</a><button class="btn" data-discover="${esc(x.id)}" ${saved?'disabled':''}>${saved?'Déjà enregistré':'+ Ajouter à mes concours'}</button></div></article>`;
+ }).join(''):'<div class="empty">Aucun résultat avec ces filtres. Essaie « Toutes les dates » et « Toutes les catégories ».</div>';
 }
 async function loadDiscoveries(){
  $('#discovery-date').textContent='Chargement…';
@@ -62,6 +78,8 @@ async function loadDiscoveries(){
 $('#refresh-discoveries').addEventListener('click',loadDiscoveries);
 $('#discovery-query').addEventListener('input',renderDiscoveries);
 $('#discovery-lang').addEventListener('change',renderDiscoveries);
+$('#discovery-category').addEventListener('change',renderDiscoveries);
+$('#discovery-age').addEventListener('change',renderDiscoveries);
 document.addEventListener('click',e=>{
  const b=e.target.closest('[data-discover]');if(!b)return;
  const x=discoveries.find(x=>x.id===b.dataset.discover);if(!x)return;
@@ -70,3 +88,8 @@ document.addEventListener('click',e=>{
  save();render();renderDiscoveries();toast('Ajouté à mes concours');
 });
 loadDiscoveries();
+
+// Assisted copy only. Never send private profile data to external sites automatically.
+async function copyProfileText(value){if(!unlockedProfile){toast('Déverrouille ton profil');return}if(!value.trim()){toast('Information manquante');return}try{await navigator.clipboard.writeText(value);toast('Copié — colle dans le formulaire officiel')}catch{toast('Copie impossible sur cet appareil')}}
+$('#copy-fullname').addEventListener('click',()=>copyProfileText([unlockedProfile?.first,unlockedProfile?.last].filter(Boolean).join(' ')));
+$('#copy-address').addEventListener('click',()=>copyProfileText([unlockedProfile?.street,[unlockedProfile?.zip,unlockedProfile?.city].filter(Boolean).join(' '),unlockedProfile?.canton].filter(Boolean).join('\n')));

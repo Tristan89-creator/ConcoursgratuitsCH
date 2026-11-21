@@ -1,3 +1,7 @@
+# ConcoursgratuitsCH v1.3
+
+Voir `MISE_A_JOUR_V13.md` pour les instructions de mise à jour.
+
 # ConcoursgratuitsCH v1.1 — découverte automatique sans serveur dédié
 
 ## Nouveauté
