@@ -1,7 +1,7 @@
 name: Update concours discovery
 on:
   schedule:
-    - cron: '23 7,19 * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
