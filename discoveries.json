@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:03:46+00:00",
+  "updated": "2026-11-21T19:57:47+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -120,6 +120,15 @@
       "verified": false
     },
     {
+      "id": "8cfc91bee52c7f26bf",
+      "name": "Grosse Gefühle auf der Kinoleinwand: Gewinnen Sie Tickets für «Gabin» und «Buure» - BauernZeitung",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3RBdm12LWI3RC1OTDhGQkhJZk1pNlZ6YWl1cldSZjNrVkhkRjBZQXNVNnpCbTg1MEVxZnlLY0tWcmlRUElqRWVDWFR3V2RlNnZ2SFBVbjdCWjJpV3ZzNWJpVDVhd3NoaXN1VVRBUWc2bmhLWGs2M05TSHViVzZSa2JlWm9uZFRzOE93RGlIZzJGM0ZFM0lBdWRxOFpsMUJTS244NzFkazJlV1RUZEl1MEpZVQ?oc=5",
+      "source": "BauernZeitung",
+      "language": "de",
+      "published": "2026-11-18",
+      "verified": false
+    },
+    {
       "id": "abe43c5a38069c989d",
       "name": "Gewinnen Sie zwei VIP-Tickets für das Heimspiel des FCL gegen den FC Lugano - Luzerner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZMlJYMUN1bmFUMkNNdWVRNFZqcWNPMzA3bm80aUhjTThyRDExVWM5cE5SaE9yYWNac3F3NGJkZVpNUVFLa2xpUlhGOTVfTXQwZzlLbzQzbjBzeUkxal9tV1BHS1AyNlRDLXNHOElWOXlFeDEzSkQ3aw?oc=5",
@@ -183,6 +192,15 @@
       "verified": false
     },
     {
+      "id": "f7157b06c643acc9b1",
+      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Grenchner Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3B5THF1XzZEVnNOMm5lc05ZS3pQZV90Rk9xQUdLdjdNeHNMN0RkVG4zTXFSRzJDMDV6Q29EOFJJWDgzdkpCWkNTZzMwSWpXWnBqTDQtTHliSk0zRHBkckl5Ymo4RUJoWjMyWnpaTEc2Z3ZacWd5MHdFUWU5bnc3X0dPc05sNXNBclZidlVETHl4cjB1bHAwZEUzNGtKNW5qc3ItZWxKMXpuU1RlM2pqcE1qWHBKWlBmQVZ5UHdkMmprS1BNajJKdEJNSmhvMVBQaVkw?oc=5",
+      "source": "Grenchner Tagblatt",
+      "language": "de",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
       "id": "15099b875950967552",
       "name": "KI bildet, Musik verbindet: «Vireo» und «MusikSpitex» gewinnen Age Innovation Prize - LEADER Digital",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0kySWdRSjVIc1NqOXRjeGgwVURaTWpJdWl0NGc1a09hZ0tBV2RlV0RpbTcxYjJLYjdmOVZuS19JWElXSU13OWU0OG96dkZXZmh0S0NBT3JoYk41Yzc1NWQ4SkpVei0xbllLM0RsbWowR1htd1lCXzNLTWg3d2w5bjV2cDR3M0dGalFKYXFFOUZpTVVWOWlhNWRIUmV1b0JXTDFVT1RoSHJyakZEcHZYbEEzUGRvZWl1XzdLVk5lRQ?oc=5",
@@ -201,28 +219,10 @@
       "verified": false
     },
     {
-      "id": "b796099cf86a006332",
-      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Solothurner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXFNMXNqNTRreVUyQ3FGV3hFa2pmaENfSi1mOUlrSkI0SGFrck84ZFlaU0FLUTh6OGtlclByRDlGdEpuZW9mblN3cE4tSHRBMGlNY3E5c0RGUENMVDFZUGJaLTlrMnRyN29rYzRqUERqdGE1MS02clVmVmpWNjc1WHZsbDRVQVNDWWlDanFNaWtUYlVXeWNOM3JzT0lJeTlYcHN3SmdYOVBrdzZoYTE2ZGFwcDl3LU9STExDOWF0SzdFN09STFB2bC1fdHRkZVNXYlRBXw?oc=5",
-      "source": "Solothurner Zeitung",
-      "language": "de",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
       "id": "9f5d14a8f62f69c32e",
       "name": "Häkelspass zu gewinnen! - www.bote.ch",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
       "source": "www.bote.ch",
-      "language": "de",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
-      "id": "2c14e67f55b4846c07",
-      "name": "Gewinnen Sie 1× 2 Tickets für das DesignSchenken vom 27. – 29. November 2026 in der Spinnerei Emmenbrücke - Badener Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQlNVNDE1Y1pqWVNydFVIRWdhbzJUSXA0MzlvQTZBbkVndi11RTVLNC10aEpIVEM2LUJ4ZmNPeHliV3g5QWJaUDVIMTNZOUNnMDZqWlU3b1FGVmhvU1NFS3ZmdFVRV044b2pJUmNPcTlPSE8xRzVIVV9YUkpUXzZ3V0ZBQkxqOXBIZFRMOEdYLTBXNHZpbU5RWFNDcWptZElmaHNxMlczUmgwNXNYMlJTM0VyajVnN0xPVWhORVFyT2NfOFJLUFVhVHR1dlB2YTVrVi1aaXZpQk14MUl3bVJwWWg1ZVNoWUpaWUpIVFRrY3FPdlAzQmN6UjM2M1ZBeU4x?oc=5",
-      "source": "Badener Tagblatt",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -327,6 +327,15 @@
       "verified": false
     },
     {
+      "id": "9cbffcc01f2e33c025",
+      "name": "EVZ vs. Geneve-Servette HC : Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SWUNvdGhRSHZDdWJTLTY3eVJRVWxuOXhqamlPajhQZ3BvODlLcHpYbmx6bERLRXUzRDZ5TGdnVzVKOEtySmcxNDY0Z1hMR2Y3bGVBZHZ3Nm5qUUJ3LTBIN0VvQ3loNWdnZmY2QlJHTQ?oc=5",
+      "source": "St. Galler Tagblatt",
+      "language": "de",
+      "published": "2026-11-12",
+      "verified": false
+    },
+    {
       "id": "e965b3a067cbdbcf01",
       "name": "Concours: Gagner des invitations pour le film « COMMENT BRAQUER UNE BANQUE » - Daily Movies",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQy1zZE45ZUxWS19EaTVkOFBLVzYzQnFiWHFnYVo5YVg0QnYzUDZmbG5kUUVGYVpwS01WOGswa0xSSm1od1pnbjFSUXJ3NXpSRmIweHRsVVVsSWNjUmdDUEphMTd3N2dfc05nLUFHN3VnZ3JXajladlJYbUFQSFFwY3BuOXJ4Q1dST2k2SlA3MkFQV2xCaFJsSlhvMGtQZndf0gGmAUFVX3lxTE40U3VaVWhZOHdZTmlyUlBpWG9WTjdCcGd4Z09MMXNyWG1waDU0SnBhYUhQUjhkbWxLSWNRSmVsMXNKQXRQejVJWXdITThDMmo2cGoyVTdmNTk0S0JncFdZeUR5bFN2b0p5LWU2SW5ndHYzdG5EVWIxS2RmZE1xZ3A3TzJzSHFYa29aekVGZDU1RU93NVE5ODZ5Z2NlR1hmUzlBMzR2UGc?oc=5",
@@ -381,15 +390,6 @@
       "verified": false
     },
     {
-      "id": "5fa3531b985d3dbf9e",
-      "name": "Gagnez vos entrées pour découvrir les coulisses de l'énergie sur notre stand - oiken.ch",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1HdEJNWlI1MnRhaUc1Y24tNjRVdk5mODVNU2FoUzUxQUFjcmlWSy14UXVDNXFCTXZoTXJ3dg?oc=5",
-      "source": "oiken.ch",
-      "language": "fr",
-      "published": "2026-11-09",
-      "verified": false
-    },
-    {
       "id": "0b5b451fcb261baf8d",
       "name": "Reisegutscheine, Wellness und mehr: Albbrucker Weihnachtsgewinnspiel lockt mit Gewinnen - Südkurier",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFRFYlFFcjNBQ2F0UThxNDZyN3k2QUVoMm92dzcyeWhaVXo2T0pLR2pja1BlT1hXVzhFbS1DaWE1bGo3c01Ual93dGNsZ3ZUUFpWTWlTazZGNU5TN2dWOGxkV3lXWUY2dTVHMkphLUVQU002bjV0VE05aHJOaVBDWEpSSE5XQzJNNWw0amVXMWd4RGNaV0U3OEVKZDNzLWgxcmIxOXdScTNUSjgydTNuLVcyWHpWZnFLWHZpM21kTjVNRmdQ?oc=5",
@@ -405,6 +405,15 @@
       "source": "Architektur Basel",
       "language": "de",
       "published": "2026-11-09",
+      "verified": false
+    },
+    {
+      "id": "d3c354b0714baa6bbd",
+      "name": "500$ à gagner chez Stratos Pizzéria! - Rythme 100.1 Mauricie",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQczRUVTFvRWxsZGNLcFdYR2U1dUNiQ2M0MDAtdThleS1PNmVfSTNaWjN2WGhyMlNhVVBnc1NFMEdQYzRyQjRHbklDem5YdGtRYzdYVGl1ZGszQnZXakVBNUxERHF2ekRVVi1URlpJeXM0WjFiMWlkdUUyYWpoMF9kQXBiNjdaUQ?oc=5",
+      "source": "Rythme 100.1 Mauricie",
+      "language": "fr",
+      "published": "2026-11-08",
       "verified": false
     },
     {
@@ -436,9 +445,9 @@
     },
     {
       "id": "04198a647f2757d694",
-      "name": "Concours App - fressnapf",
+      "name": "Concours App - Fressnapf",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPZVlZQmw2ZC1HMzZfV0U1M1BUeXlUSXlJbnpGcjBYc3BoOWpROS1XRkRqSjRwNk5veXFMdXJsSmZPYmdlYzRCdEN0ZU8yZmwzVTRYM3k4bW5sTnB4ck5nQWdR?oc=5",
-      "source": "fressnapf",
+      "source": "Fressnapf",
       "language": "fr",
       "published": "2026-11-05",
       "verified": false
@@ -466,6 +475,15 @@
       "name": "The Gin Fest à Montbenon: 3 x 2 billets à gagner - Terre&Nature",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3J2MFhZT3RHeTZxVXBaeUQxNzdvOUtTRTEyYllNMlVYSVEzR2ZmR1lSdHNIdmwxazd2bml3b2ZkdC0tREFXOGxRakhrMkFkVnRJZ1Y0RGJLWWFCdC1OQjNjMmwwUGpXcm5HY2FPVWptaW53NmJXcU9lVk5udHcxY3dIOFdhaHNTNy1lSg?oc=5",
       "source": "Terre&Nature",
+      "language": "fr",
+      "published": "2026-11-03",
+      "verified": false
+    },
+    {
+      "id": "e329e2f4b441119fb8",
+      "name": "Conditions de participation du concours « App ». - Fressnapf",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnU1M0pDQ0E4TXpBZlNlamRIV0dhMVdZQnB2U1k1N2FkS21BTDhrdFBjRjQ1NTg1SEFpc2kxMFp5MGxOU1NlUFNRa3NzNXA3Y1lUcmlPenBXSEZMWnNsa1NSM04wdWN3dWJzR0E3dDdwSE40VnhSQ2tIeDRoMFFVNzVGdw?oc=5",
+      "source": "Fressnapf",
       "language": "fr",
       "published": "2026-11-03",
       "verified": false
