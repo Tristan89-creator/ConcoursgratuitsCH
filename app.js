@@ -138,10 +138,12 @@ function categoryFor(x){
  return 'other';
 }
 function renderDiscoveries(){
- const q=($('#discovery-query').value||'').toLocaleLowerCase().trim(),lang=$('#discovery-lang').value,cat=$('#discovery-category').value,age=$('#discovery-age').value;
+ const q=($('#discovery-query').value||'').toLocaleLowerCase().trim(),age=$('#discovery-age').value;
+ const langs=new Set([...document.querySelectorAll('#discovery-languages input:checked')].map(el=>el.value));
+ const cats=new Set([...document.querySelectorAll('#discovery-categories input:checked')].map(el=>el.value));
  const matches=discoveries.filter(x=>{
-  if(lang!=='all'&&x.language!==lang)return false;
-  if(cat!=='all'&&categoryFor(x)!==cat)return false;
+  if(langs.size&&!langs.has(x.language))return false;
+  if(cats.size&&!cats.has(categoryFor(x)))return false;
   if(q&&!((x.name||'')+' '+(x.source||'')).toLocaleLowerCase().includes(q))return false;
   if(age!=='all'){const date=Date.parse((x.published||'')+'T00:00:00Z');if(!Number.isFinite(date)||Date.now()-date>Number(age)*86400000)return false;}
   return true;
@@ -161,14 +163,14 @@ async function loadDiscoveries(){
   if(!r.ok)throw Error('Catalogue indisponible');
   const data=await r.json();if(!Array.isArray(data.items))throw Error('Format invalide');
   discoveries=data.items.filter(x=>x&&typeof x.name==='string'&&validUrl(x.url)).slice(0,200);
-  $('#discovery-date').textContent=data.updated?'Mis à jour : '+new Date(data.updated).toLocaleString('fr-CH'):'Collecte pas encore exécutée';
+  $('#discovery-date').textContent=data.updated?'Dernière recherche : '+new Date(data.updated).toLocaleString('fr-CH'):'Collecte pas encore exécutée';
  }catch(err){discoveries=[];$('#discovery-date').textContent='Impossible de charger le catalogue';toast(err.message)}
  renderDiscoveries();
 }
 $('#refresh-discoveries').addEventListener('click',loadDiscoveries);
 $('#discovery-query').addEventListener('input',renderDiscoveries);
-$('#discovery-lang').addEventListener('change',renderDiscoveries);
-$('#discovery-category').addEventListener('change',renderDiscoveries);
+document.querySelectorAll('#discovery-languages input, #discovery-categories input').forEach(el=>el.addEventListener('change',renderDiscoveries));
+$('#reset-discovery-filters').addEventListener('click',()=>{document.querySelectorAll('#discovery-languages input, #discovery-categories input').forEach(el=>el.checked=false);$('#discovery-query').value='';$('#discovery-age').value='all';renderDiscoveries()});
 $('#discovery-age').addEventListener('change',renderDiscoveries);
 $('#favorite-category').value=prefs.favorite||'all';$('#favorite-language').value=prefs.language||'all';
 $('#favorite-category').addEventListener('change',e=>{prefs.favorite=e.target.value;savePrefs();renderDiscoveries()});
