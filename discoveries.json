@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T07:49:41+00:00",
+  "updated": "2026-11-21T08:24:12+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -228,6 +228,15 @@
       "verified": false
     },
     {
+      "id": "3ed6cda017edccbbb3",
+      "name": "26x 2für1 Gutscheinbücher für die Region Zugerland zu gewinnen - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkhGTF9iMUZaRmhCWnFYMktlNFdfdmJ0LUFNRks1WmtHMlRrUlQ0NmkxQW9zNkl1MWhXME5HSVBxOEF2emRBak5CUF83TU9uRzZBUU5iU2FFTTlIdW5rU1pXOWs3NDZaNDZOSjN2NXBsZDF3dXBvM0JNLVdvcjR6Rl9LcXU5RmQyYm5HdmlzVDVRYkQ0NFdzb0RQUUtZYUhuU3RhR2xxMEVKejF6TmhTLVFLWkt5eHZ1dnlJ?oc=5",
+      "source": "Luzerner Zeitung",
+      "language": "de",
+      "published": "2026-11-15",
+      "verified": false
+    },
+    {
       "id": "dae10260506a4d8aec",
       "name": "Concours et tirages au sort - welovesnow.ch",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZUgyOEFxS1N3ZXhtMnpCX1Z1eS0yeF9WWldrS3hZV3E1cGxNeG1lUVBUazhTaGVUZERRRmhGeFVMVlVCQl9vMzZvMDdNQjVRbHFTMnlnYUdIV2h2YUZiU0dLNA?oc=5",
@@ -252,15 +261,6 @@
       "source": "Blick",
       "language": "de",
       "published": "2026-11-14",
-      "verified": false
-    },
-    {
-      "id": "89ba1cb896c4c1cc07",
-      "name": "Concours de Genève : Mats Thiersch remporte la direction d'orchestre - rts.ch",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnRxeDMzWG51bmp3M2JPM0t5VU9jRzhGdzhVa1ZyaWZXYzNlak42dkRRSFZoWVQtWjFkUjI1ME52X2NhRXFubnd6elFyYk1BalRZUDZ5SDdHcWJGNjM2VHlERjhlX3poYUc3V2lmUGQ5djRhX1dWRmpTR2dYSVVLNFBCZW1IV3l4Q1ZqN3BiYktxNHUtZDY3RFlyREZEZTZndDF6SWQ1UmhTaDNFQlB5QTJidXhmcEU5bGdnNkNGNWkzOE05Y2NreERPTDNzVFk?oc=5",
-      "source": "rts.ch",
-      "language": "fr",
-      "published": "2026-11-13",
       "verified": false
     },
     {
@@ -408,15 +408,6 @@
       "verified": false
     },
     {
-      "id": "8879420a742d43d037",
-      "name": "Concours l’Agenda du Mois : Décembre 2026 - www.loisirs.ch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNWpXTG5RVkwzS0NmRVoyYk9vejVnaHZoRmYtMlU4a0I1MnJUQ1E2dWlUUXh4cWd3dW1LeVEtZkp3aTZIT1pnV3NqaXFucld4clBzeWZuYkU1LVctNmpXU1NtSFZTV2M?oc=5",
-      "source": "www.loisirs.ch",
-      "language": "fr",
-      "published": "2026-11-05",
-      "verified": false
-    },
-    {
       "id": "04198a647f2757d694",
       "name": "Concours App - Fressnapf",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPZVlZQmw2ZC1HMzZfV0U1M1BUeXlUSXlJbnpGcjBYc3BoOWpROS1XRkRqSjRwNk5veXFMdXJsSmZPYmdlYzRCdEN0ZU8yZmwzVTRYM3k4bW5sTnB4ck5nQWdR?oc=5",
@@ -477,15 +468,6 @@
       "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-03",
-      "verified": false
-    },
-    {
-      "id": "a48b44bede68d01959",
-      "name": "Concours: Gagne tes places pour la grande finale de PRÊT ? PARTEZ, PITCH ! - 20 Minuten",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXBaVnhxWVRGSExHYkg3d3RsbVVOeC1TLUNLWnNRcDBRLWdFdFRkTjhxRGNhOGdELUpwNlVyaWlPbjBOV3pmVS0zU3VOWjh1UEtMcG9SZDdwdU1iUFc2Q2o0TUJTVjdpUnRXTlI1QmxNNk1ZOU1MWnp4R01UX2Z1SkR4Zm8wUGFGa3QzbHZKYXNnWWZ1SXJ1MUhJXy1rYkYwQUpvU3Y4RjlaVG1UZkE?oc=5",
-      "source": "20 Minuten",
-      "language": "fr",
-      "published": "2026-11-02",
       "verified": false
     },
     {
@@ -603,24 +585,6 @@
       "source": "La Semeuse",
       "language": "fr",
       "published": "2026-10-24",
-      "verified": false
-    },
-    {
-      "id": "e902b4200a430bbe8c",
-      "name": "Un prix de 25’000 francs à la clé. Pro Natura lance un concours destiné aux agriculteurs fribourgeois - La Liberté",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSVptX2h2THQxNHAzRF9GTjU0X2N2dWU5Q2ZIRUk1eHdkNVpJTU5DSERlUE9sYTlFWDdSMTlOaklpLU93Vl8yZndYaUcyWU03OTdRSE1aZ25qVjRiNnFfOVQ2MG1QeVFmdTFVa21YeFVUUVBpMm1CUlpuTm83MWI4UHZSNUVhRldka0VadzgySWNDaVFzT2lNa3J5d1hXbUN4aE5ZR2UwN1BBa3NldG1rdWhLWV9YUkNzQk8zUVZ1dlJFak5hemR2ZE9LRnpZd1BO?oc=5",
-      "source": "La Liberté",
-      "language": "fr",
-      "published": "2026-10-22",
-      "verified": false
-    },
-    {
-      "id": "b20060ebca272f0304",
-      "name": "Tickets für den Famigros-Tag im Europa-Park 2027 gewinnen! - www.migros.ch",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mRENPdnYyNTZxQUNyUms2YXBoczdGZlJwaVVaaWQ0Sjh4bDNYYWJ3WDhudTA4cHMxcXdSNnBQTUc1dUNzLUZNQzdfUk1lOEw3NDZNd1c0TFZMVFhGV1BjS2V3dDFmcTI2?oc=5",
-      "source": "www.migros.ch",
-      "language": "de",
-      "published": "2026-10-22",
       "verified": false
     }
   ]
