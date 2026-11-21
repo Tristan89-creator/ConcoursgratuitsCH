@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:59:31+00:00",
+  "updated": "2026-11-21T17:55:59+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -183,10 +183,19 @@
       "verified": false
     },
     {
-      "id": "9f5d14a8f62f69c32e",
-      "name": "Häkelspass zu gewinnen! - www.bote.ch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
-      "source": "www.bote.ch",
+      "id": "f7157b06c643acc9b1",
+      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Grenchner Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3B5THF1XzZEVnNOMm5lc05ZS3pQZV90Rk9xQUdLdjdNeHNMN0RkVG4zTXFSRzJDMDV6Q29EOFJJWDgzdkpCWkNTZzMwSWpXWnBqTDQtTHliSk0zRHBkckl5Ymo4RUJoWjMyWnpaTEc2Z3ZacWd5MHdFUWU5bnc3X0dPc05sNXNBclZidlVETHl4cjB1bHAwZEUzNGtKNW5qc3ItZWxKMXpuU1RlM2pqcE1qWHBKWlBmQVZ5UHdkMmprS1BNajJKdEJNSmhvMVBQaVkw?oc=5",
+      "source": "Grenchner Tagblatt",
+      "language": "de",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
+      "id": "15099b875950967552",
+      "name": "KI bildet, Musik verbindet: «Vireo» und «MusikSpitex» gewinnen Age Innovation Prize - LEADER Digital",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0kySWdRSjVIc1NqOXRjeGgwVURaTWpJdWl0NGc1a09hZ0tBV2RlV0RpbTcxYjJLYjdmOVZuS19JWElXSU13OWU0OG96dkZXZmh0S0NBT3JoYk41Yzc1NWQ4SkpVei0xbllLM0RsbWowR1htd1lCXzNLTWg3d2w5bjV2cDR3M0dGalFKYXFFOUZpTVVWOWlhNWRIUmV1b0JXTDFVT1RoSHJyakZEcHZYbEEzUGRvZWl1XzdLVk5lRQ?oc=5",
+      "source": "LEADER Digital",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -201,19 +210,19 @@
       "verified": false
     },
     {
-      "id": "b796099cf86a006332",
-      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Solothurner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXFNMXNqNTRreVUyQ3FGV3hFa2pmaENfSi1mOUlrSkI0SGFrck84ZFlaU0FLUTh6OGtlclByRDlGdEpuZW9mblN3cE4tSHRBMGlNY3E5c0RGUENMVDFZUGJaLTlrMnRyN29rYzRqUERqdGE1MS02clVmVmpWNjc1WHZsbDRVQVNDWWlDanFNaWtUYlVXeWNOM3JzT0lJeTlYcHN3SmdYOVBrdzZoYTE2ZGFwcDl3LU9STExDOWF0SzdFN09STFB2bC1fdHRkZVNXYlRBXw?oc=5",
-      "source": "Solothurner Zeitung",
+      "id": "9f5d14a8f62f69c32e",
+      "name": "Häkelspass zu gewinnen! - www.bote.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
+      "source": "www.bote.ch",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
     },
     {
-      "id": "15099b875950967552",
-      "name": "KI bildet, Musik verbindet: «Vireo» und «MusikSpitex» gewinnen Age Innovation Prize - LEADER Digital",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0kySWdRSjVIc1NqOXRjeGgwVURaTWpJdWl0NGc1a09hZ0tBV2RlV0RpbTcxYjJLYjdmOVZuS19JWElXSU13OWU0OG96dkZXZmh0S0NBT3JoYk41Yzc1NWQ4SkpVei0xbllLM0RsbWowR1htd1lCXzNLTWg3d2w5bjV2cDR3M0dGalFKYXFFOUZpTVVWOWlhNWRIUmV1b0JXTDFVT1RoSHJyakZEcHZYbEEzUGRvZWl1XzdLVk5lRQ?oc=5",
-      "source": "LEADER Digital",
+      "id": "2c14e67f55b4846c07",
+      "name": "Gewinnen Sie 1× 2 Tickets für das DesignSchenken vom 27. – 29. November 2026 in der Spinnerei Emmenbrücke - Badener Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQlNVNDE1Y1pqWVNydFVIRWdhbzJUSXA0MzlvQTZBbkVndi11RTVLNC10aEpIVEM2LUJ4ZmNPeHliV3g5QWJaUDVIMTNZOUNnMDZqWlU3b1FGVmhvU1NFS3ZmdFVRV044b2pJUmNPcTlPSE8xRzVIVV9YUkpUXzZ3V0ZBQkxqOXBIZFRMOEdYLTBXNHZpbU5RWFNDcWptZElmaHNxMlczUmgwNXNYMlJTM0VyajVnN0xPVWhORVFyT2NfOFJLUFVhVHR1dlB2YTVrVi1aaXZpQk14MUl3bVJwWWg1ZVNoWUpaWUpIVFRrY3FPdlAzQmN6UjM2M1ZBeU4x?oc=5",
+      "source": "Badener Tagblatt",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -241,15 +250,6 @@
       "name": "Käsegenuss mit Seesicht? Mitmachen und 5 x 2 Tickets gewinnen! - www.migros.ch",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wVlY3eWpfM2gwclVFRUUzTTV4bVJONlYtX1RKR1hEU1VmY1JKVy0tRHFhT3pzbGlEaHNadkJNdTBRZ0JlUnp4WjdMbk1XdkZjY2xuSjl4RWVrWEY5V2RnUEVQWTNnRHBTcUVKYVVzQjY?oc=5",
       "source": "www.migros.ch",
-      "language": "de",
-      "published": "2026-11-15",
-      "verified": false
-    },
-    {
-      "id": "3ed6cda017edccbbb3",
-      "name": "26x 2für1 Gutscheinbücher für die Region Zugerland zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkhGTF9iMUZaRmhCWnFYMktlNFdfdmJ0LUFNRks1WmtHMlRrUlQ0NmkxQW9zNkl1MWhXME5HSVBxOEF2emRBak5CUF83TU9uRzZBUU5iU2FFTTlIdW5rU1pXOWs3NDZaNDZOSjN2NXBsZDF3dXBvM0JNLVdvcjR6Rl9LcXU5RmQyYm5HdmlzVDVRYkQ0NFdzb0RQUUtZYUhuU3RhR2xxMEVKejF6TmhTLVFLWkt5eHZ1dnlJ?oc=5",
-      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-15",
       "verified": false
@@ -323,6 +323,15 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15VEdjelNhYVZQam5uNGtZZm42MFhBTHRmY19yY3JuOEV0M2pobzFEck9taFVldC1tTXFtM181TUIza2NsUjJwNldobkswcDQ0T1poei14dEtKODZETVRkb2w3TmtKTm8wbE9rNGZjOGVnX3N4ZkFlTF9JMl8?oc=5",
       "source": "Le Matin",
       "language": "fr",
+      "published": "2026-11-12",
+      "verified": false
+    },
+    {
+      "id": "9cbffcc01f2e33c025",
+      "name": "EVZ vs. Geneve-Servette HC : Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SWUNvdGhRSHZDdWJTLTY3eVJRVWxuOXhqamlPajhQZ3BvODlLcHpYbmx6bERLRXUzRDZ5TGdnVzVKOEtySmcxNDY0Z1hMR2Y3bGVBZHZ3Nm5qUUJ3LTBIN0VvQ3loNWdnZmY2QlJHTQ?oc=5",
+      "source": "St. Galler Tagblatt",
+      "language": "de",
       "published": "2026-11-12",
       "verified": false
     },
@@ -405,6 +414,15 @@
       "source": "Architektur Basel",
       "language": "de",
       "published": "2026-11-09",
+      "verified": false
+    },
+    {
+      "id": "d3c354b0714baa6bbd",
+      "name": "500$ à gagner chez Stratos Pizzéria! - Rythme 100.1 Mauricie",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQczRUVTFvRWxsZGNLcFdYR2U1dUNiQ2M0MDAtdThleS1PNmVfSTNaWjN2WGhyMlNhVVBnc1NFMEdQYzRyQjRHbklDem5YdGtRYzdYVGl1ZGszQnZXakVBNUxERHF2ekRVVi1URlpJeXM0WjFiMWlkdUUyYWpoMF9kQXBiNjdaUQ?oc=5",
+      "source": "Rythme 100.1 Mauricie",
+      "language": "fr",
+      "published": "2026-11-08",
       "verified": false
     },
     {
