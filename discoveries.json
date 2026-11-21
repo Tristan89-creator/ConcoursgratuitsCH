@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:15:01+00:00",
+  "updated": "2026-11-21T14:15:32+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -30,15 +30,6 @@
       "verified": false
     },
     {
-      "id": "7fd4fe80922699aa5e",
-      "name": "Gagnez vos places pour le match GSHC vs Ambri-Piotta aux Vernets - Radio Lac",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzFjcFM3bWg0N09Xby1DSjlnNW5mZnVCT2FfbnlRUnotYmh0WGtPZkliVTBWX1huZVgwQ3BXdENWZjdJcnZfbEFiUUVTekkxc19NS2xTZGI2YnZCdTdmdEFKV2hSM2FvMjNEVnVtUkcwYnh2QUNLTFVfdXk3SUR1dzU0VGlSUEdxLXp6RjVLZDQ3X3NIeXBJcTEyOHcxNFk?oc=5",
-      "source": "Radio Lac",
-      "language": "fr",
-      "published": "2026-11-21",
-      "verified": false
-    },
-    {
       "id": "4322a888124c060cde",
       "name": "Un calendrier de l’Avent 100% genevois à gagner sur Radio Lac! - Radio Lac",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3kwTnVTWW5POVE5TkRUZS1iRGZFQ0h0dk5uZHpTeTR4cndtLXNvSm9pSkwweWRpNWhFeTlTN0dlY1RKRWk3ZDNDaGJKN0c1VTZSM202SE95ZWk4cUlPRWFfRTlQa2hYVXhoWUwwS2tjZm1pRkdaOVRoOEdYekNuMFVuaV9QajgwS2dpNldTdUJYcF9xdUZUMg?oc=5",
@@ -52,15 +43,6 @@
       "name": "Der grosse Wettbewerb aus dem Agrama-Special - BauernZeitung",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2x0Um1IazRQeXl5eC1rcXZwLUVYSVRrR2JGNGpEUlpvYXhic1ZaZnczUGItbGFKZ0UyOV9sNjVGSVNhRUJLQkc1cUZFbFVXaVl5aXNkaXlOR2JRUmhlNGJnUnhKdUp4WGRUV0tqREUzbVdBcUl0NjZ0QkEycXZvcks4b0lrbmpIbFVMNHJGQXVncG8wWjRsWmIyZmhSMHlFOVFBanBB?oc=5",
       "source": "BauernZeitung",
-      "language": "de",
-      "published": "2026-11-20",
-      "verified": false
-    },
-    {
-      "id": "2ac0d7d2661711931a",
-      "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnclk4UHZEM3VVUWNpVWl5Q0lfTTBrSmZUY0pzZVZEWks3X3BfbnVfZ3BiWWFUcjZxaDduc3kzR3o0QlMyUVNhZWNhSEVZbnptZjR5MUlqelRGZUp2MDhEeE1qcjVsUG5SMWstMnQ2ZDZCTGJXZkljTQ?oc=5",
-      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -219,19 +201,19 @@
       "verified": false
     },
     {
-      "id": "b796099cf86a006332",
-      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Solothurner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXFNMXNqNTRreVUyQ3FGV3hFa2pmaENfSi1mOUlrSkI0SGFrck84ZFlaU0FLUTh6OGtlclByRDlGdEpuZW9mblN3cE4tSHRBMGlNY3E5c0RGUENMVDFZUGJaLTlrMnRyN29rYzRqUERqdGE1MS02clVmVmpWNjc1WHZsbDRVQVNDWWlDanFNaWtUYlVXeWNOM3JzT0lJeTlYcHN3SmdYOVBrdzZoYTE2ZGFwcDl3LU9STExDOWF0SzdFN09STFB2bC1fdHRkZVNXYlRBXw?oc=5",
-      "source": "Solothurner Zeitung",
+      "id": "9f5d14a8f62f69c32e",
+      "name": "Häkelspass zu gewinnen! - www.bote.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
+      "source": "www.bote.ch",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
     },
     {
-      "id": "9f5d14a8f62f69c32e",
-      "name": "Häkelspass zu gewinnen! - www.bote.ch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
-      "source": "www.bote.ch",
+      "id": "b796099cf86a006332",
+      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Solothurner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXFNMXNqNTRreVUyQ3FGV3hFa2pmaENfSi1mOUlrSkI0SGFrck84ZFlaU0FLUTh6OGtlclByRDlGdEpuZW9mblN3cE4tSHRBMGlNY3E5c0RGUENMVDFZUGJaLTlrMnRyN29rYzRqUERqdGE1MS02clVmVmpWNjc1WHZsbDRVQVNDWWlDanFNaWtUYlVXeWNOM3JzT0lJeTlYcHN3SmdYOVBrdzZoYTE2ZGFwcDl3LU9STExDOWF0SzdFN09STFB2bC1fdHRkZVNXYlRBXw?oc=5",
+      "source": "Solothurner Zeitung",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -259,15 +241,6 @@
       "name": "Käsegenuss mit Seesicht? Mitmachen und 5 x 2 Tickets gewinnen! - www.migros.ch",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wVlY3eWpfM2gwclVFRUUzTTV4bVJONlYtX1RKR1hEU1VmY1JKVy0tRHFhT3pzbGlEaHNadkJNdTBRZ0JlUnp4WjdMbk1XdkZjY2xuSjl4RWVrWEY5V2RnUEVQWTNnRHBTcUVKYVVzQjY?oc=5",
       "source": "www.migros.ch",
-      "language": "de",
-      "published": "2026-11-15",
-      "verified": false
-    },
-    {
-      "id": "3ed6cda017edccbbb3",
-      "name": "26x 2für1 Gutscheinbücher für die Region Zugerland zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkhGTF9iMUZaRmhCWnFYMktlNFdfdmJ0LUFNRks1WmtHMlRrUlQ0NmkxQW9zNkl1MWhXME5HSVBxOEF2emRBak5CUF83TU9uRzZBUU5iU2FFTTlIdW5rU1pXOWs3NDZaNDZOSjN2NXBsZDF3dXBvM0JNLVdvcjR6Rl9LcXU5RmQyYm5HdmlzVDVRYkQ0NFdzb0RQUUtZYUhuU3RhR2xxMEVKejF6TmhTLVFLWkt5eHZ1dnlJ?oc=5",
-      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-15",
       "verified": false
@@ -345,6 +318,15 @@
       "verified": false
     },
     {
+      "id": "9cbffcc01f2e33c025",
+      "name": "EVZ vs. Geneve-Servette HC : Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SWUNvdGhRSHZDdWJTLTY3eVJRVWxuOXhqamlPajhQZ3BvODlLcHpYbmx6bERLRXUzRDZ5TGdnVzVKOEtySmcxNDY0Z1hMR2Y3bGVBZHZ3Nm5qUUJ3LTBIN0VvQ3loNWdnZmY2QlJHTQ?oc=5",
+      "source": "St. Galler Tagblatt",
+      "language": "de",
+      "published": "2026-11-12",
+      "verified": false
+    },
+    {
       "id": "e965b3a067cbdbcf01",
       "name": "Concours: Gagner des invitations pour le film « COMMENT BRAQUER UNE BANQUE » - Daily Movies",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQy1zZE45ZUxWS19EaTVkOFBLVzYzQnFiWHFnYVo5YVg0QnYzUDZmbG5kUUVGYVpwS01WOGswa0xSSm1od1pnbjFSUXJ3NXpSRmIweHRsVVVsSWNjUmdDUEphMTd3N2dfc05nLUFHN3VnZ3JXajladlJYbUFQSFFwY3BuOXJ4Q1dST2k2SlA3MkFQV2xCaFJsSlhvMGtQZndf0gGmAUFVX3lxTE40U3VaVWhZOHdZTmlyUlBpWG9WTjdCcGd4Z09MMXNyWG1waDU0SnBhYUhQUjhkbWxLSWNRSmVsMXNKQXRQejVJWXdITThDMmo2cGoyVTdmNTk0S0JncFdZeUR5bFN2b0p5LWU2SW5ndHYzdG5EVWIxS2RmZE1xZ3A3TzJzSHFYa29aekVGZDU1RU93NVE5ODZ5Z2NlR1hmUzlBMzR2UGc?oc=5",
@@ -399,15 +381,6 @@
       "verified": false
     },
     {
-      "id": "5fa3531b985d3dbf9e",
-      "name": "Gagnez vos entrées pour découvrir les coulisses de l'énergie sur notre stand - oiken.ch",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1HdEJNWlI1MnRhaUc1Y24tNjRVdk5mODVNU2FoUzUxQUFjcmlWSy14UXVDNXFCTXZoTXJ3dg?oc=5",
-      "source": "oiken.ch",
-      "language": "fr",
-      "published": "2026-11-09",
-      "verified": false
-    },
-    {
       "id": "0b5b451fcb261baf8d",
       "name": "Reisegutscheine, Wellness und mehr: Albbrucker Weihnachtsgewinnspiel lockt mit Gewinnen - Südkurier",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFRFYlFFcjNBQ2F0UThxNDZyN3k2QUVoMm92dzcyeWhaVXo2T0pLR2pja1BlT1hXVzhFbS1DaWE1bGo3c01Ual93dGNsZ3ZUUFpWTWlTazZGNU5TN2dWOGxkV3lXWUY2dTVHMkphLUVQU002bjV0VE05aHJOaVBDWEpSSE5XQzJNNWw0amVXMWd4RGNaV0U3OEVKZDNzLWgxcmIxOXdScTNUSjgydTNuLVcyWHpWZnFLWHZpM21kTjVNRmdQ?oc=5",
@@ -423,6 +396,15 @@
       "source": "Architektur Basel",
       "language": "de",
       "published": "2026-11-09",
+      "verified": false
+    },
+    {
+      "id": "d3c354b0714baa6bbd",
+      "name": "500$ à gagner chez Stratos Pizzéria! - Rythme 100.1 Mauricie",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQczRUVTFvRWxsZGNLcFdYR2U1dUNiQ2M0MDAtdThleS1PNmVfSTNaWjN2WGhyMlNhVVBnc1NFMEdQYzRyQjRHbklDem5YdGtRYzdYVGl1ZGszQnZXakVBNUxERHF2ekRVVi1URlpJeXM0WjFiMWlkdUUyYWpoMF9kQXBiNjdaUQ?oc=5",
+      "source": "Rythme 100.1 Mauricie",
+      "language": "fr",
+      "published": "2026-11-08",
       "verified": false
     },
     {
@@ -538,15 +520,6 @@
       "name": "Concours La Germaine 123 - infoJU",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tN01iNWFtMEFlSU1YejhfamdNR3B0cEliVlZzMWVlTFJqV1JNR3hlZlktOXBncGZEYjlfbTZnUzNzUnJXLXVYN2VZRjRNbkRxQmx4Ty1tR2dwYV9UY0l5eUQtYS1mekNuVmhDRkExLWlYMGNSZkhn?oc=5",
       "source": "infoJU",
-      "language": "fr",
-      "published": "2026-11-01",
-      "verified": false
-    },
-    {
-      "id": "7caa2ac1a4a3fab47e",
-      "name": "Concours Photo - Les Routiers Suisses",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZRm80N3JSR1VwS1BoNzJsQ216eHBQUlZFbmZPYmpVOUppUTJpSnNlS3VuU0F5Y0ppaXhfQzhsamQwVFpaeVJOM3pxUmNFc2d1TF9uOXN2WWNqSjdJNVg3RG43TF9HeHQ0dUsxNHZtcFRqZ3RDdWllUQ?oc=5",
-      "source": "Les Routiers Suisses",
       "language": "fr",
       "published": "2026-11-01",
       "verified": false
