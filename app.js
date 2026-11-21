@@ -42,7 +42,7 @@ window.addEventListener('focus',checkReturn);
 document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')checkReturn()});
 $('#review-yes').addEventListener('click',()=>confirmReview($('#review-panel').dataset.id,true));
 $('#review-no').addEventListener('click',()=>confirmReview($('#review-panel').dataset.id,false));
-function item(c){let url=validUrl(c.url);let status=statusText(c);return `<article class="contest"><div class="row"><h3>${esc(c.name)}</h3><span class="pill">${status}</span></div><p class="muted">${c.end?'Fin : '+esc(c.end)+' · ':''}${esc(c.notes||'')}</p><div class="actions">${url?`<a class="btn secondary" href="${esc(url)}" target="_blank" rel="noopener noreferrer" data-open-id="${esc(c.id)}">Ouvrir le site ↗</a>`:''}${c.status!=='done'?`<button class="btn" data-status="done" data-id="${esc(c.id)}">J'ai participé</button>`:''}${c.status!=='manual'?`<button class="btn ghost" data-status="manual" data-id="${esc(c.id)}">Action manuelle</button>`:''}${c.status!=='pending'?`<button class="btn ghost" data-status="pending" data-id="${esc(c.id)}">À faire</button>`:''}<button class="btn danger" data-delete="${esc(c.id)}">Supprimer</button></div></article>`}
+function item(c){let url=validUrl(c.url);let status=statusText(c);return `<article class="contest"><div class="row"><h3>${esc(c.name)}</h3><span class="pill">${status}</span></div><p class="muted">${c.end?'Fin : '+esc(c.end)+' · ':''}${esc(c.notes||'')}</p><div class="actions">${url?`<button class="btn" type="button" data-fast-id="${esc(c.id)}">⚡ Mode rapide</button><a class="btn secondary" href="${esc(url)}" target="_blank" rel="noopener noreferrer" data-open-id="${esc(c.id)}">Ouvrir le site ↗</a>`:''}${c.status!=='done'?`<button class="btn" data-status="done" data-id="${esc(c.id)}">J'ai participé</button>`:''}${c.status!=='manual'?`<button class="btn ghost" data-status="manual" data-id="${esc(c.id)}">Action manuelle</button>`:''}${c.status!=='pending'?`<button class="btn ghost" data-status="pending" data-id="${esc(c.id)}">À faire</button>`:''}<button class="btn danger" data-delete="${esc(c.id)}">Supprimer</button></div></article>`}
 function render(){let all=db.contests,done=all.filter(x=>x.status==='done'),pending=all.filter(x=>x.status==='pending'),manual=all.filter(x=>x.status==='manual'),review=all.filter(x=>x.status==='review');$('#count-all').textContent=all.length;$('#count-done').textContent=done.length;$('#count-pending').textContent=pending.length;$('#count-manual').textContent=manual.length;$('#count-review').textContent=review.length;$('#home-list').innerHTML=[...review,...pending,...manual].slice(0,5).map(item).join('')||'<div class="empty">Aucun concours en attente.</div>';let f=$('#filter').value;$('#contest-list').innerHTML=all.filter(x=>f==='all'||x.status===f).map(item).join('')||'<div class="empty">Aucun concours dans cette catégorie.</div>';$('#history-list').innerHTML=done.map(item).join('')||'<div class="empty">Aucune participation confirmée.</div>';renderStats(done);renderQuickCopy();$('#copy-fields').innerHTML=Object.entries({first:'Prénom',last:'Nom',email:'E-mail',phone:'Téléphone',street:'Adresse',zip:'Code postal',city:'Localité',canton:'Canton'}).filter(([k])=>unlockedProfile&&unlockedProfile[k]).map(([k,v])=>`<button class="btn secondary" data-copy="${k}">Copier ${esc(v)}</button>`).join('')||'<p class="muted">Enregistre ton profil pour afficher les boutons de copie.</p>'}
 // Statistiques basées sur les dates réelles de confirmation, sans inventer de dates anciennes.
 function localDay(d){return new Date(d.getFullYear(),d.getMonth(),d.getDate())}
@@ -130,7 +130,7 @@ function renderDiscoveries(){
  $('#discovery-list').innerHTML=matches.length?matches.slice(0,100).map(x=>{
  const url=validUrl(x.url);if(!url)return '';
  const existing=db.contests.find(c=>validUrl(c.url)===url);const saved=!!existing;
- return `<article class="contest"><h3>${esc(x.name)}</h3><p class="muted">${esc(x.source||'Source non précisée')} · ${esc((x.language||'?').toUpperCase())} · ${esc(x.published||'Date inconnue')} · ${esc(categoryFor(x))}<br><strong>⚠️ Lien candidat non vérifié : contrôler la gratuité, la date et les conditions suisses</strong></p><div class="actions"><a class="btn secondary" href="${esc(url)}" target="_blank" rel="noopener noreferrer" data-open-discovery="${esc(x.id)}">Consulter ↗</a><button class="btn" data-discover="${esc(x.id)}" ${saved?'disabled':''}>${saved?'Déjà enregistré':'+ Ajouter à mes concours'}</button>${existing?`<span class="pill">${esc(statusText(existing))}</span>`:''}</div></article>`;
+ return `<article class="contest"><h3>${esc(x.name)}</h3><p class="muted">${esc(x.source||'Source non précisée')} · ${esc((x.language||'?').toUpperCase())} · ${esc(x.published||'Date inconnue')} · ${esc(categoryFor(x))}<br><strong>⚠️ Lien candidat non vérifié : contrôler la gratuité, la date et les conditions suisses</strong></p><div class="actions"><button class="btn" type="button" data-fast-discovery="${esc(x.id)}">⚡ Mode rapide</button><a class="btn secondary" href="${esc(url)}" target="_blank" rel="noopener noreferrer" data-open-discovery="${esc(x.id)}">Consulter ↗</a><button class="btn" data-discover="${esc(x.id)}" ${saved?'disabled':''}>${saved?'Déjà enregistré':'+ Ajouter à mes concours'}</button>${existing?`<span class="pill">${esc(statusText(existing))}</span>`:''}</div></article>`;
  }).join(''):'<div class="empty">Aucun résultat avec ces filtres. Essaie « Toutes les dates » et « Toutes les catégories ».</div>';
 }
 async function loadDiscoveries(){
@@ -173,3 +173,29 @@ document.addEventListener('click',e=>{
 });
 // If the app was reloaded after leaving a site, offer the same confirmation.
 if(db.contests.some(c=>c.status==='review'))showReview();
+
+// v1.6 — Assistant de participation rapide : aucune interaction avec les formulaires externes.
+let fastContestId=null;
+function showFastMode(c){
+ if(!c)return;
+ fastContestId=c.id;
+ tab('home');
+ const panel=$('#fast-panel');
+ $('#fast-title').textContent=c.name;
+ const fields=[['first','Prénom'],['last','Nom'],['email','E-mail'],['phone','Téléphone'],['street','Rue'],['zip','Code postal'],['city','Localité'],['canton','Canton']];
+ $('#fast-fields').innerHTML=unlockedProfile?fields.filter(([k])=>unlockedProfile[k]).map(([k,label])=>`<button class="btn secondary" type="button" data-copy="${k}">📋 ${label}</button>`).join('')+'<button class="btn secondary" type="button" id="fast-fullname">📋 Nom complet</button>':'<p class="muted">🔒 Profil verrouillé. Google peut remplir tes coordonnées dans Chrome. Pour les champs manquants, déverrouille ton profil depuis l’onglet Profil.</p>';
+ $('#fast-open').href=validUrl(c.url)||'#';
+ $('#fast-open').dataset.openId=c.id;
+ panel.classList.remove('hidden');
+ panel.scrollIntoView({block:'start',behavior:'smooth'});
+}
+document.addEventListener('click',e=>{
+ const b=e.target.closest('[data-fast-id],[data-fast-discovery]');if(!b)return;
+ let c=null;
+ if(b.dataset.fastId)c=db.contests.find(x=>x.id===b.dataset.fastId);
+ else {const x=discoveries.find(x=>x.id===b.dataset.fastDiscovery);if(x){c=findOrCreateDiscovery(x);save();render();renderDiscoveries();}}
+ showFastMode(c);
+});
+$('#fast-close').addEventListener('click',()=>{$('#fast-panel').classList.add('hidden');fastContestId=null});
+document.addEventListener('click',e=>{if(e.target.closest('#fast-fullname'))copyProfileText([unlockedProfile?.first,unlockedProfile?.last].filter(Boolean).join(' '))});
+$('#fast-open').addEventListener('click',()=>{$('#fast-panel').classList.add('hidden')});
