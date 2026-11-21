@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T14:15:32+00:00",
+  "updated": "2026-11-21T15:07:37+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -24,6 +24,15 @@
       "id": "050bd6fd203012e029",
       "name": "Gagnez vos places pour le derby du lac SFC vs FC Lausanne-Sport - Radio Lac",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHZpZUMycV9tY256VjgzQU9KYkZqTEcwazZraFpoNFdwQjh1bUlHTXN5aWxBeFFHZ2tmU0NscjgtTHVmeFRXeW1PNE1mT0g1S0VpSTB6Y2Vwd2tsWm9aV0hlQ3l6Wk1TeGp1alEwRjdZMG9hSU5mVWZzNzNqRlhPTFlRUVZKZkk2NHVNZzVYSmZUT3VhZGlMcHUyRnNaQQ?oc=5",
+      "source": "Radio Lac",
+      "language": "fr",
+      "published": "2026-11-21",
+      "verified": false
+    },
+    {
+      "id": "7fd4fe80922699aa5e",
+      "name": "Gagnez vos places pour le match GSHC vs Ambri-Piotta aux Vernets - Radio Lac",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzFjcFM3bWg0N09Xby1DSjlnNW5mZnVCT2FfbnlRUnotYmh0WGtPZkliVTBWX1huZVgwQ3BXdENWZjdJcnZfbEFiUUVTekkxc19NS2xTZGI2YnZCdTdmdEFKV2hSM2FvMjNEVnVtUkcwYnh2QUNLTFVfdXk3SUR1dzU0VGlSUEdxLXp6RjVLZDQ3X3NIeXBJcTEyOHcxNFk?oc=5",
       "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-21",
@@ -183,6 +192,15 @@
       "verified": false
     },
     {
+      "id": "f7157b06c643acc9b1",
+      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Grenchner Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3B5THF1XzZEVnNOMm5lc05ZS3pQZV90Rk9xQUdLdjdNeHNMN0RkVG4zTXFSRzJDMDV6Q29EOFJJWDgzdkpCWkNTZzMwSWpXWnBqTDQtTHliSk0zRHBkckl5Ymo4RUJoWjMyWnpaTEc2Z3ZacWd5MHdFUWU5bnc3X0dPc05sNXNBclZidlVETHl4cjB1bHAwZEUzNGtKNW5qc3ItZWxKMXpuU1RlM2pqcE1qWHBKWlBmQVZ5UHdkMmprS1BNajJKdEJNSmhvMVBQaVkw?oc=5",
+      "source": "Grenchner Tagblatt",
+      "language": "de",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
       "id": "15099b875950967552",
       "name": "KI bildet, Musik verbindet: «Vireo» und «MusikSpitex» gewinnen Age Innovation Prize - LEADER Digital",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0kySWdRSjVIc1NqOXRjeGgwVURaTWpJdWl0NGc1a09hZ0tBV2RlV0RpbTcxYjJLYjdmOVZuS19JWElXSU13OWU0OG96dkZXZmh0S0NBT3JoYk41Yzc1NWQ4SkpVei0xbllLM0RsbWowR1htd1lCXzNLTWg3d2w5bjV2cDR3M0dGalFKYXFFOUZpTVVWOWlhNWRIUmV1b0JXTDFVT1RoSHJyakZEcHZYbEEzUGRvZWl1XzdLVk5lRQ?oc=5",
@@ -205,15 +223,6 @@
       "name": "Häkelspass zu gewinnen! - www.bote.ch",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
       "source": "www.bote.ch",
-      "language": "de",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
-      "id": "b796099cf86a006332",
-      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Solothurner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXFNMXNqNTRreVUyQ3FGV3hFa2pmaENfSi1mOUlrSkI0SGFrck84ZFlaU0FLUTh6OGtlclByRDlGdEpuZW9mblN3cE4tSHRBMGlNY3E5c0RGUENMVDFZUGJaLTlrMnRyN29rYzRqUERqdGE1MS02clVmVmpWNjc1WHZsbDRVQVNDWWlDanFNaWtUYlVXeWNOM3JzT0lJeTlYcHN3SmdYOVBrdzZoYTE2ZGFwcDl3LU9STExDOWF0SzdFN09STFB2bC1fdHRkZVNXYlRBXw?oc=5",
-      "source": "Solothurner Zeitung",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -466,15 +475,6 @@
       "name": "The Gin Fest à Montbenon: 3 x 2 billets à gagner - Terre&Nature",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3J2MFhZT3RHeTZxVXBaeUQxNzdvOUtTRTEyYllNMlVYSVEzR2ZmR1lSdHNIdmwxazd2bml3b2ZkdC0tREFXOGxRakhrMkFkVnRJZ1Y0RGJLWWFCdC1OQjNjMmwwUGpXcm5HY2FPVWptaW53NmJXcU9lVk5udHcxY3dIOFdhaHNTNy1lSg?oc=5",
       "source": "Terre&Nature",
-      "language": "fr",
-      "published": "2026-11-03",
-      "verified": false
-    },
-    {
-      "id": "e329e2f4b441119fb8",
-      "name": "Conditions de participation du concours « App ». - Fressnapf",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnU1M0pDQ0E4TXpBZlNlamRIV0dhMVdZQnB2U1k1N2FkS21BTDhrdFBjRjQ1NTg1SEFpc2kxMFp5MGxOU1NlUFNRa3NzNXA3Y1lUcmlPenBXSEZMWnNsa1NSM04wdWN3dWJzR0E3dDdwSE40VnhSQ2tIeDRoMFFVNzVGdw?oc=5",
-      "source": "Fressnapf",
       "language": "fr",
       "published": "2026-11-03",
       "verified": false
