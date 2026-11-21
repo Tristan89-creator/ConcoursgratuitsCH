@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:14:35+00:00",
+  "updated": "2026-11-21T13:15:01+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -61,6 +61,15 @@
       "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnclk4UHZEM3VVUWNpVWl5Q0lfTTBrSmZUY0pzZVZEWks3X3BfbnVfZ3BiWWFUcjZxaDduc3kzR3o0QlMyUVNhZWNhSEVZbnptZjR5MUlqelRGZUp2MDhEeE1qcjVsUG5SMWstMnQ2ZDZCTGJXZkljTQ?oc=5",
       "source": "Luzerner Zeitung",
+      "language": "de",
+      "published": "2026-11-20",
+      "verified": false
+    },
+    {
+      "id": "5b4bfc0b2b12c42c6b",
+      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2VUamNqb0RsY3lYeXZhSDA3bG53VEtMTWs4c2taNnZhakxYVWdwTmNHbDdKQkVtdXJRVWtQendRdzQ4OUl6VXNtRXRxbnA0YXc5LWp2ZkdjcWtXaWVVYXFvWXVMbDl3Yk5abHRLRHI5OGFFUHZ0cDdHYzhYbnlFT2oyUzV5d0RUVHNVZ2RkWHVfRDFYc2UyU1JaVldhQ1VjOWtKUnFyX3hRMkZv?oc=5",
+      "source": "St. Galler Tagblatt",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -210,19 +219,19 @@
       "verified": false
     },
     {
-      "id": "9f5d14a8f62f69c32e",
-      "name": "Häkelspass zu gewinnen! - www.bote.ch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
-      "source": "www.bote.ch",
+      "id": "b796099cf86a006332",
+      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Solothurner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXFNMXNqNTRreVUyQ3FGV3hFa2pmaENfSi1mOUlrSkI0SGFrck84ZFlaU0FLUTh6OGtlclByRDlGdEpuZW9mblN3cE4tSHRBMGlNY3E5c0RGUENMVDFZUGJaLTlrMnRyN29rYzRqUERqdGE1MS02clVmVmpWNjc1WHZsbDRVQVNDWWlDanFNaWtUYlVXeWNOM3JzT0lJeTlYcHN3SmdYOVBrdzZoYTE2ZGFwcDl3LU9STExDOWF0SzdFN09STFB2bC1fdHRkZVNXYlRBXw?oc=5",
+      "source": "Solothurner Zeitung",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
     },
     {
-      "id": "b796099cf86a006332",
-      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Solothurner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXFNMXNqNTRreVUyQ3FGV3hFa2pmaENfSi1mOUlrSkI0SGFrck84ZFlaU0FLUTh6OGtlclByRDlGdEpuZW9mblN3cE4tSHRBMGlNY3E5c0RGUENMVDFZUGJaLTlrMnRyN29rYzRqUERqdGE1MS02clVmVmpWNjc1WHZsbDRVQVNDWWlDanFNaWtUYlVXeWNOM3JzT0lJeTlYcHN3SmdYOVBrdzZoYTE2ZGFwcDl3LU9STExDOWF0SzdFN09STFB2bC1fdHRkZVNXYlRBXw?oc=5",
-      "source": "Solothurner Zeitung",
+      "id": "9f5d14a8f62f69c32e",
+      "name": "Häkelspass zu gewinnen! - www.bote.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
+      "source": "www.bote.ch",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -250,6 +259,15 @@
       "name": "Käsegenuss mit Seesicht? Mitmachen und 5 x 2 Tickets gewinnen! - www.migros.ch",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wVlY3eWpfM2gwclVFRUUzTTV4bVJONlYtX1RKR1hEU1VmY1JKVy0tRHFhT3pzbGlEaHNadkJNdTBRZ0JlUnp4WjdMbk1XdkZjY2xuSjl4RWVrWEY5V2RnUEVQWTNnRHBTcUVKYVVzQjY?oc=5",
       "source": "www.migros.ch",
+      "language": "de",
+      "published": "2026-11-15",
+      "verified": false
+    },
+    {
+      "id": "3ed6cda017edccbbb3",
+      "name": "26x 2für1 Gutscheinbücher für die Region Zugerland zu gewinnen - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkhGTF9iMUZaRmhCWnFYMktlNFdfdmJ0LUFNRks1WmtHMlRrUlQ0NmkxQW9zNkl1MWhXME5HSVBxOEF2emRBak5CUF83TU9uRzZBUU5iU2FFTTlIdW5rU1pXOWs3NDZaNDZOSjN2NXBsZDF3dXBvM0JNLVdvcjR6Rl9LcXU5RmQyYm5HdmlzVDVRYkQ0NFdzb0RQUUtZYUhuU3RhR2xxMEVKejF6TmhTLVFLWkt5eHZ1dnlJ?oc=5",
+      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-15",
       "verified": false
@@ -323,15 +341,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15VEdjelNhYVZQam5uNGtZZm42MFhBTHRmY19yY3JuOEV0M2pobzFEck9taFVldC1tTXFtM181TUIza2NsUjJwNldobkswcDQ0T1poei14dEtKODZETVRkb2w3TmtKTm8wbE9rNGZjOGVnX3N4ZkFlTF9JMl8?oc=5",
       "source": "Le Matin",
       "language": "fr",
-      "published": "2026-11-12",
-      "verified": false
-    },
-    {
-      "id": "9cbffcc01f2e33c025",
-      "name": "EVZ vs. Geneve-Servette HC : Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SWUNvdGhRSHZDdWJTLTY3eVJRVWxuOXhqamlPajhQZ3BvODlLcHpYbmx6bERLRXUzRDZ5TGdnVzVKOEtySmcxNDY0Z1hMR2Y3bGVBZHZ3Nm5qUUJ3LTBIN0VvQ3loNWdnZmY2QlJHTQ?oc=5",
-      "source": "St. Galler Tagblatt",
-      "language": "de",
       "published": "2026-11-12",
       "verified": false
     },
@@ -414,15 +423,6 @@
       "source": "Architektur Basel",
       "language": "de",
       "published": "2026-11-09",
-      "verified": false
-    },
-    {
-      "id": "d3c354b0714baa6bbd",
-      "name": "500$ à gagner chez Stratos Pizzéria! - Rythme 100.1 Mauricie",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQczRUVTFvRWxsZGNLcFdYR2U1dUNiQ2M0MDAtdThleS1PNmVfSTNaWjN2WGhyMlNhVVBnc1NFMEdQYzRyQjRHbklDem5YdGtRYzdYVGl1ZGszQnZXakVBNUxERHF2ekRVVi1URlpJeXM0WjFiMWlkdUUyYWpoMF9kQXBiNjdaUQ?oc=5",
-      "source": "Rythme 100.1 Mauricie",
-      "language": "fr",
-      "published": "2026-11-08",
       "verified": false
     },
     {
