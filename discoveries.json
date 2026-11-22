@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T16:59:52+00:00",
+  "updated": "2026-11-22T17:54:55+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -7,6 +7,15 @@
       "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
       "source": "www.gaultmillau.ch",
+      "language": "fr",
+      "published": "2026-11-22",
+      "verified": false
+    },
+    {
+      "id": "59408a80cd5a278f05",
+      "name": "Le Bernois Sandro Hauswirth a pris la 10e place du 2e concours de Lillehammer, son premier top-10 en Coupe du monde - rts.ch",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdTgtWXNXM0ZqSWlaMElHejlHUmliQVVXUmIweE5xRG1MQkdMQTBpUzlfQnJvTE1LOUQ0azBkRndYT3VlYUZHa18waEI2dVRKczdfVExuWEJaOGtyb3EtVFg3c3gxWlBxbUdsLVBlLUNWUE5yT1BaVGxEYlYzVHkzV21uTnN4aDNxYTNiNzhIWkdYUUlKTnkyRTdaQUF1ZXhxeW9UbkM1c1M5TUM0WUJjZHFpWXRYZlFMMHc4Z1NMQ1FGR2dRTktuM2sybUJnQTZyQkVXalV0Snd6ckVPeVJfbW1GNk5KMDFySXYxSnNEcUZ2Z3BGMXExTnBR?oc=5",
+      "source": "rts.ch",
       "language": "fr",
       "published": "2026-11-22",
       "verified": false
@@ -30,21 +39,21 @@
       "verified": false
     },
     {
-      "id": "050bd6fd203012e029",
-      "name": "Gagnez vos places pour le derby du lac SFC vs FC Lausanne-Sport - Radio Lac",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHZpZUMycV9tY256VjgzQU9KYkZqTEcwazZraFpoNFdwQjh1bUlHTXN5aWxBeFFHZ2tmU0NscjgtTHVmeFRXeW1PNE1mT0g1S0VpSTB6Y2Vwd2tsWm9aV0hlQ3l6Wk1TeGp1alEwRjdZMG9hSU5mVWZzNzNqRlhPTFlRUVZKZkk2NHVNZzVYSmZUT3VhZGlMcHUyRnNaQQ?oc=5",
-      "source": "Radio Lac",
-      "language": "fr",
-      "published": "2026-11-21",
-      "verified": false
-    },
-    {
       "id": "9ac700847a02ea76be",
       "name": "Vier junge Pianistinnen aus dem Kosovo gewinnen Preise bei einem internationalen Klavierwettbewerb in Wien - Albinfo",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVRYcTdzOWVBVXJxQnBjM1JfTVpCNVFqTGxyTTJiYzNzQldqS3lXeklsZTNKYl93bmUtU3pMTU9ZcU1FZUxoYWhtYThwcmdmTnlTOHlDcmtrVE1FZlJyVk1EWE92aXJUcnRySlJQQWdiN0RoRE5ZTHlxb292VVZvSXlPbGpxTWRfdDJBZjZIM2FWOExwUDBfZV9yZG1STjhUVGQ2MGVUUDYzd1h3X2MzTHdSQkFzRWM?oc=5",
       "source": "Albinfo",
       "language": "de",
       "published": "2026-11-21",
+      "verified": false
+    },
+    {
+      "id": "6b7bbfdd87caae8bc3",
+      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
+      "source": "Classicagenda",
+      "language": "fr",
+      "published": "2026-11-20",
       "verified": false
     },
     {
@@ -66,19 +75,19 @@
       "verified": false
     },
     {
-      "id": "2ac0d7d2661711931a",
-      "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnclk4UHZEM3VVUWNpVWl5Q0lfTTBrSmZUY0pzZVZEWks3X3BfbnVfZ3BiWWFUcjZxaDduc3kzR3o0QlMyUVNhZWNhSEVZbnptZjR5MUlqelRGZUp2MDhEeE1qcjVsUG5SMWstMnQ2ZDZCTGJXZkljTQ?oc=5",
+      "id": "e50375708b21e52522",
+      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWdLUDlnZDN4RTRFb2piRktwWEc1R0FEdDhRR0FEM2g5aGxLdHZKbzd1YmJxTHJiMUI5d2tmS0R5dTlzTldRdUNuMmFJRmY5UU4tMEE5SlR0ck02WmlBelAyUDlPdEpmaVREWGc4MWRDOEFhZTZzWmkxNUkyeG1IcWplcmZnZkUwZU9rb2VrWkY1S1RZaEpSZFVhblZtSHlSUmN2SU8tZlhVWXFjcm1LcHdTVzFyQQ?oc=5",
       "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
     },
     {
-      "id": "5b4bfc0b2b12c42c6b",
-      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2VUamNqb0RsY3lYeXZhSDA3bG53VEtMTWs4c2taNnZhakxYVWdwTmNHbDdKQkVtdXJRVWtQendRdzQ4OUl6VXNtRXRxbnA0YXc5LWp2ZkdjcWtXaWVVYXFvWXVMbDl3Yk5abHRLRHI5OGFFUHZ0cDdHYzhYbnlFT2oyUzV5d0RUVHNVZ2RkWHVfRDFYc2UyU1JaVldhQ1VjOWtKUnFyX3hRMkZv?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "2ac0d7d2661711931a",
+      "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnclk4UHZEM3VVUWNpVWl5Q0lfTTBrSmZUY0pzZVZEWks3X3BfbnVfZ3BiWWFUcjZxaDduc3kzR3o0QlMyUVNhZWNhSEVZbnptZjR5MUlqelRGZUp2MDhEeE1qcjVsUG5SMWstMnQ2ZDZCTGJXZkljTQ?oc=5",
+      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -174,6 +183,15 @@
       "verified": false
     },
     {
+      "id": "be1a1627b489c1e3d8",
+      "name": "Concorso: vinci un pacchetto di premi per rinnovare la tua primavera - Gentleman's Journal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVlkbFhqQjFyUWNnSXJwWHVILVFoMExzcTJvaFRtcXcyOGpJeEx5bGtVTkJMQkJuaTJNR1FOTzhnc2FTQW5Cang1RVFoUVBsalZFNDlLNDB0U012cXpqWXFsOExmejMyalpYMlBYOXZtdjNKZW40V0Jpem1FUXJmWXBNU2x2Wkx0SFpXWWhyelExT2toaUNDVjlUUVpJcjczTWJ3cUtNNkxuNmgteXBrRWtTTTZlVmc?oc=5",
+      "source": "Gentleman's Journal",
+      "language": "it",
+      "published": "2026-11-17",
+      "verified": false
+    },
+    {
       "id": "dd54a3b164c3ab08fe",
       "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
@@ -264,15 +282,6 @@
       "verified": false
     },
     {
-      "id": "5ebf8fa5cb5415fb28",
-      "name": "Concours CarteCulture - Caritas Regio",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NZndxV3ROQ3JBb1ItU1JBRFZxUTZnNndoZW9uOHVnclRuMHBoYXN0dUZDTlIyd3lINmhKU003djdFWHpwenNkVEJaRnkyN2JEelZzaFFoc2VmQ0R6blp6SUZBSEh2ZTlLOElNdEZJMlZWQVA3ejZHallrMA?oc=5",
-      "source": "Caritas Regio",
-      "language": "fr",
-      "published": "2026-11-14",
-      "verified": false
-    },
-    {
       "id": "1e97fed11fba598114",
       "name": "Eurovision Asien: Die Philippinen gewinnen die erste Ausgabe - Blick",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaU1BV1VFdmlLc1R3UExsWHdsWnRZNE9CZmM1NEJ6M0R2SkxtZnJJeUZQQl8xUlZ5TVRxaDA0aVZfVkcxeUIyTVVRU081bTI3bXdtUVZIclJBcVp0djM5Z25TNm5VTF95NXI4bWdMN1RhY2U1azFjTFUtVHMteU9GZ1ZpTFVtYnE1aWNWWmk2ZXhWQkxfR0RYVDE5MVc?oc=5",
@@ -322,15 +331,6 @@
       "name": "Concours - Kid Fransescoli - Le Matin",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15VEdjelNhYVZQam5uNGtZZm42MFhBTHRmY19yY3JuOEV0M2pobzFEck9taFVldC1tTXFtM181TUIza2NsUjJwNldobkswcDQ0T1poei14dEtKODZETVRkb2w3TmtKTm8wbE9rNGZjOGVnX3N4ZkFlTF9JMl8?oc=5",
       "source": "Le Matin",
-      "language": "fr",
-      "published": "2026-11-12",
-      "verified": false
-    },
-    {
-      "id": "d0141e7407ed4a9e70",
-      "name": "FORMULAIRE D’INSCRIPTION POUR LA JOM ET AU CONCOURS CONCOURS JOM : LES PRIX À GAGNER ! - Etat de Vaud",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGVwUTh0eXk3TTVxTHJyNEcwVV9GUTAtT3JxUkJIMFNxNlFXN0lPc0ozSC16cWQ2cF9ZWHg4aklUZUJHdDd0bmhYRTNJZ3RtVy01aUZkZ1N5WEhRTWZqLUcwdWNxckVUa2d1MzdXZkwtU0tPdGgza1BTYnh5MzBYcTRyeENrZkJscEt0U0x2WUVVckg4OTV0VXY1QW80S1JoR2I5ckFic0U3STJjTjRsOGJ6SWJ1NmZDamdwZktR?oc=5",
-      "source": "Etat de Vaud",
       "language": "fr",
       "published": "2026-11-12",
       "verified": false
@@ -471,15 +471,6 @@
       "verified": false
     },
     {
-      "id": "8d07f90c4f69ef20a8",
-      "name": "Gagnez vos place pour le match SFC vs FC Zurich - Radio Lac",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBlenZMaTI3TF8xLUVSQ1dRZGYwSVBOb2NRODdZUENpZHd3QUo1WjUtNWNaZWE5U01qeUdoYXBZbkVSUlh4T1N0aTVtenZLaGl3eHhBMDVCbTZlRUFuVkJaaWRNMDExaU40S1JTWHdHNEhXSnlOOHlIa3NFNFJyZHRreG9ncTBH?oc=5",
-      "source": "Radio Lac",
-      "language": "fr",
-      "published": "2026-11-03",
-      "verified": false
-    },
-    {
       "id": "9f912acd76786336cf",
       "name": "Miles & More Gewinnspiel: 100 × 100.000 Meilen zum Lufthansa-Jubiläum - meilenoptimieren",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZngwSS01bUlOZjEyVFg3SUdLbXhZeDc5Yy1tdjUzbkVLSlM1S0xlakJZQWJ6bUVoQ3p2VHMybzl3bkVBd0otM1J0VlVBdXIzMlFDTGUxWnlBbWFMTVBmdktjVGQzLW5mbldYWk9PdHc1d2pnenpWMVRvd0p3SDhaVDNn?oc=5",
@@ -531,15 +522,6 @@
       "source": "BauernZeitung",
       "language": "de",
       "published": "2026-10-30",
-      "verified": false
-    },
-    {
-      "id": "d91476b977029f735e",
-      "name": "Concours: gagnez un Airfryer Mio Star Dual Basket - Migusto",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZllWUzNvY3VqM3ROeXo3a3BuQzVRVk5PR25yZFFXbUhnaEdJa092RnFlX2hEcTZfXzl5MFZJUml5RUMxNDM5cjhxSDM0QXp6NFo4WGIxS3ZXN1BRaHBRN2NVY1dLWTVraHJHTFpKVlEwa2VGeGFxUFZhTkpVZm5fXzI0cVByMDM3RGVtNGpkYjZ1WlJH?oc=5",
-      "source": "Migusto",
-      "language": "fr",
-      "published": "2026-10-29",
       "verified": false
     },
     {
