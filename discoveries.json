@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T10:00:06+00:00",
+  "updated": "2026-11-22T10:58:37+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -25,6 +25,15 @@
       "name": "Des congés à gagner en se vaccinant contre la grippe: le tirage au sort de l’Hôpital du Valais vous fait réagir - Le Nouvelliste",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTk5GNXFSaVVuYWdKNGVBNC1FRy13Tm9GN2kyVVlIM29OVERReHBuYWZYb3dqeEd5WGt2Vms1TnZBNDAzRVBleS02MnptRmkyQ29aeld5RklvbkpUQXNEVWhQNk1GX1JHZjQ4ajMyNlJrSUdEOXZuWTBPeTNQb2dEMjN0LU9IVUdiMkVNLW42UXVyN1h3aFdLdi0tRnlQbkdvaENZbzdJN0liTDhkREctdS02U29vcklEVGZBdTZVNWF4U0JWQkdybnZEMUhhRW5sQU92RjFzWGxMendqOXVUczAwdFpzeXk4?oc=5",
       "source": "Le Nouvelliste",
+      "language": "fr",
+      "published": "2026-11-21",
+      "verified": false
+    },
+    {
+      "id": "7fd4fe80922699aa5e",
+      "name": "Gagnez vos places pour le match GSHC vs Ambri-Piotta aux Vernets - Radio Lac",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzFjcFM3bWg0N09Xby1DSjlnNW5mZnVCT2FfbnlRUnotYmh0WGtPZkliVTBWX1huZVgwQ3BXdENWZjdJcnZfbEFiUUVTekkxc19NS2xTZGI2YnZCdTdmdEFKV2hSM2FvMjNEVnVtUkcwYnh2QUNLTFVfdXk3SUR1dzU0VGlSUEdxLXp6RjVLZDQ3X3NIeXBJcTEyOHcxNFk?oc=5",
+      "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-21",
       "verified": false
@@ -453,9 +462,9 @@
       "verified": false
     },
     {
-      "id": "6171df31b6e1de236b",
-      "name": "Gagnez vos entrées pour les Automnales ! - Radio Lac",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tV3JQVEpndWFSSGlLTjRpRUZzbjU1QzZsc3Zsb1p2NklZV01nV3NJUW5wbFNudVNEc19sSDMyRkNtU0xUbEJ6TVJ2dzdWbWQ5X25odlhkSDNCZ04wRVVFQllETUpPVkxIYmVOS0tSMnBzU0ZLajVpOTdwS04?oc=5",
+      "id": "8d07f90c4f69ef20a8",
+      "name": "Gagnez vos place pour le match SFC vs FC Zurich - Radio Lac",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBlenZMaTI3TF8xLUVSQ1dRZGYwSVBOb2NRODdZUENpZHd3QUo1WjUtNWNaZWE5U01qeUdoYXBZbkVSUlh4T1N0aTVtenZLaGl3eHhBMDVCbTZlRUFuVkJaaWRNMDExaU40S1JTWHdHNEhXSnlOOHlIa3NFNFJyZHRreG9ncTBH?oc=5",
       "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-03",
