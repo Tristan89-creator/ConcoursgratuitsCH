@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:52:48+00:00",
+  "updated": "2026-11-22T01:27:50+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -192,19 +192,19 @@
       "verified": false
     },
     {
-      "id": "06c10be5c12f7ab66e",
-      "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. Grasshoppers zu gewinnen! - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZHV5SmpVZ0FVWlQ1anpfbEZWSzVzTnM4Q0ZnS0xwT2FHVW9jaWc3RWJoR2ZlNXJWVFZUN2FTa09zZnVnVmw0cHcyOTRrMmQtM1A2cWRSU0dnRUZZd0FRYi1DaVBMWk0taUhhVy1QUQ?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "15099b875950967552",
+      "name": "KI bildet, Musik verbindet: «Vireo» und «MusikSpitex» gewinnen Age Innovation Prize - LEADER Digital",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0kySWdRSjVIc1NqOXRjeGgwVURaTWpJdWl0NGc1a09hZ0tBV2RlV0RpbTcxYjJLYjdmOVZuS19JWElXSU13OWU0OG96dkZXZmh0S0NBT3JoYk41Yzc1NWQ4SkpVei0xbllLM0RsbWowR1htd1lCXzNLTWg3d2w5bjV2cDR3M0dGalFKYXFFOUZpTVVWOWlhNWRIUmV1b0JXTDFVT1RoSHJyakZEcHZYbEEzUGRvZWl1XzdLVk5lRQ?oc=5",
+      "source": "LEADER Digital",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
     },
     {
-      "id": "15099b875950967552",
-      "name": "KI bildet, Musik verbindet: «Vireo» und «MusikSpitex» gewinnen Age Innovation Prize - LEADER Digital",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0kySWdRSjVIc1NqOXRjeGgwVURaTWpJdWl0NGc1a09hZ0tBV2RlV0RpbTcxYjJLYjdmOVZuS19JWElXSU13OWU0OG96dkZXZmh0S0NBT3JoYk41Yzc1NWQ4SkpVei0xbllLM0RsbWowR1htd1lCXzNLTWg3d2w5bjV2cDR3M0dGalFKYXFFOUZpTVVWOWlhNWRIUmV1b0JXTDFVT1RoSHJyakZEcHZYbEEzUGRvZWl1XzdLVk5lRQ?oc=5",
-      "source": "LEADER Digital",
+      "id": "06c10be5c12f7ab66e",
+      "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. Grasshoppers zu gewinnen! - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZHV5SmpVZ0FVWlQ1anpfbEZWSzVzTnM4Q0ZnS0xwT2FHVW9jaWc3RWJoR2ZlNXJWVFZUN2FTa09zZnVnVmw0cHcyOTRrMmQtM1A2cWRSU0dnRUZZd0FRYi1DaVBMWk0taUhhVy1QUQ?oc=5",
+      "source": "St. Galler Tagblatt",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -369,6 +369,15 @@
       "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-10",
+      "verified": false
+    },
+    {
+      "id": "99b78ab9a9d3f65dbf",
+      "name": "A Talent for Murder» – Concours - OutNow",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vanBDM1MwN244S2xIMkRMNDBrV0RzdE44WTVWWXJRalIxeUF5Tk5FZzJvSm43R3BrV3FvcUxweVhMOVJ1VDdkSzJrTlp3eWk4X010c3BaakVibDlPVEt5ZTVsdGRQQUF0?oc=5",
+      "source": "OutNow",
+      "language": "fr",
+      "published": "2026-11-09",
       "verified": false
     },
     {
