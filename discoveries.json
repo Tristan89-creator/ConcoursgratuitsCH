@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T15:00:27+00:00",
+  "updated": "2026-11-22T15:58:20+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -448,6 +448,15 @@
       "name": "Concours l’Agenda du Mois : Décembre 2026 - www.loisirs.ch",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNWpXTG5RVkwzS0NmRVoyYk9vejVnaHZoRmYtMlU4a0I1MnJUQ1E2dWlUUXh4cWd3dW1LeVEtZkp3aTZIT1pnV3NqaXFucld4clBzeWZuYkU1LVctNmpXU1NtSFZTV2M?oc=5",
       "source": "www.loisirs.ch",
+      "language": "fr",
+      "published": "2026-11-05",
+      "verified": false
+    },
+    {
+      "id": "04198a647f2757d694",
+      "name": "Concours App - fressnapf",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPZVlZQmw2ZC1HMzZfV0U1M1BUeXlUSXlJbnpGcjBYc3BoOWpROS1XRkRqSjRwNk5veXFMdXJsSmZPYmdlYzRCdEN0ZU8yZmwzVTRYM3k4bW5sTnB4ck5nQWdR?oc=5",
+      "source": "fressnapf",
       "language": "fr",
       "published": "2026-11-05",
       "verified": false
