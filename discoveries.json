@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T04:09:57+00:00",
+  "updated": "2026-11-22T05:12:47+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -16,15 +16,6 @@
       "name": "Des congés à gagner en se vaccinant contre la grippe: le tirage au sort de l’Hôpital du Valais vous fait réagir - Le Nouvelliste",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTk5GNXFSaVVuYWdKNGVBNC1FRy13Tm9GN2kyVVlIM29OVERReHBuYWZYb3dqeEd5WGt2Vms1TnZBNDAzRVBleS02MnptRmkyQ29aeld5RklvbkpUQXNEVWhQNk1GX1JHZjQ4ajMyNlJrSUdEOXZuWTBPeTNQb2dEMjN0LU9IVUdiMkVNLW42UXVyN1h3aFdLdi0tRnlQbkdvaENZbzdJN0liTDhkREctdS02U29vcklEVGZBdTZVNWF4U0JWQkdybnZEMUhhRW5sQU92RjFzWGxMendqOXVUczAwdFpzeXk4?oc=5",
       "source": "Le Nouvelliste",
-      "language": "fr",
-      "published": "2026-11-21",
-      "verified": false
-    },
-    {
-      "id": "7fd4fe80922699aa5e",
-      "name": "Gagnez vos places pour le match GSHC vs Ambri-Piotta aux Vernets - Radio Lac",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzFjcFM3bWg0N09Xby1DSjlnNW5mZnVCT2FfbnlRUnotYmh0WGtPZkliVTBWX1huZVgwQ3BXdENWZjdJcnZfbEFiUUVTekkxc19NS2xTZGI2YnZCdTdmdEFKV2hSM2FvMjNEVnVtUkcwYnh2QUNLTFVfdXk3SUR1dzU0VGlSUEdxLXp6RjVLZDQ3X3NIeXBJcTEyOHcxNFk?oc=5",
-      "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-21",
       "verified": false
@@ -66,19 +57,10 @@
       "verified": false
     },
     {
-      "id": "5b4bfc0b2b12c42c6b",
-      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2VUamNqb0RsY3lYeXZhSDA3bG53VEtMTWs4c2taNnZhakxYVWdwTmNHbDdKQkVtdXJRVWtQendRdzQ4OUl6VXNtRXRxbnA0YXc5LWp2ZkdjcWtXaWVVYXFvWXVMbDl3Yk5abHRLRHI5OGFFUHZ0cDdHYzhYbnlFT2oyUzV5d0RUVHNVZ2RkWHVfRDFYc2UyU1JaVldhQ1VjOWtKUnFyX3hRMkZv?oc=5",
-      "source": "St. Galler Tagblatt",
-      "language": "de",
-      "published": "2026-11-20",
-      "verified": false
-    },
-    {
-      "id": "0d8bbe9468e91a147a",
-      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUF5b2JqYXIwREhYamw3NUpWZzdVWXZJMjNYRHJ1OVI3dnpLMGpKY1ZEbTl1bzhZWGlWdEpxM29lZUlXeWVhWXlxdkpJT2pETzlQRnk4anI3RkczWnhFdkh6UDRsek91Y05BNGx1NGlka1RVeVA0dHdjcXhFY190emEzRXBGaXI4T21MY3l2eTJLRmNLNFNPRmRfSQ?oc=5",
-      "source": "Luzerner Zeitung",
+      "id": "cbb33da12274905d0c",
+      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Urner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW5LLUdJdFpsZm1UNjFOS1IxR29KbGJOWWsydHlzTFlVTHdrbmRJWG9SdS1qeXp5VVVUY1NwQWxuVzVFZ1lxZUJ1TjJsZElRaUI1RVJoR2xUMXRVeF8xd2hkaWRxY2tPTk0zRUhzWl9Ndy01d25rRjFMMkFEa1U2TjZoMXp1NWlRSE9Gc0w2OWpmOXNxSEJv?oc=5",
+      "source": "Urner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -214,6 +196,15 @@
       "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. Grasshoppers zu gewinnen! - St. Galler Tagblatt",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZHV5SmpVZ0FVWlQ1anpfbEZWSzVzTnM4Q0ZnS0xwT2FHVW9jaWc3RWJoR2ZlNXJWVFZUN2FTa09zZnVnVmw0cHcyOTRrMmQtM1A2cWRSU0dnRUZZd0FRYi1DaVBMWk0taUhhVy1QUQ?oc=5",
       "source": "St. Galler Tagblatt",
+      "language": "de",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
+      "id": "9f5d14a8f62f69c32e",
+      "name": "Häkelspass zu gewinnen! - www.bote.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
+      "source": "www.bote.ch",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -448,6 +439,15 @@
       "name": "The Gin Fest à Montbenon: 3 x 2 billets à gagner - Terre&Nature",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3J2MFhZT3RHeTZxVXBaeUQxNzdvOUtTRTEyYllNMlVYSVEzR2ZmR1lSdHNIdmwxazd2bml3b2ZkdC0tREFXOGxRakhrMkFkVnRJZ1Y0RGJLWWFCdC1OQjNjMmwwUGpXcm5HY2FPVWptaW53NmJXcU9lVk5udHcxY3dIOFdhaHNTNy1lSg?oc=5",
       "source": "Terre&Nature",
+      "language": "fr",
+      "published": "2026-11-03",
+      "verified": false
+    },
+    {
+      "id": "6171df31b6e1de236b",
+      "name": "Gagnez vos entrées pour les Automnales ! - Radio Lac",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tV3JQVEpndWFSSGlLTjRpRUZzbjU1QzZsc3Zsb1p2NklZV01nV3NJUW5wbFNudVNEc19sSDMyRkNtU0xUbEJ6TVJ2dzdWbWQ5X25odlhkSDNCZ04wRVVFQllETUpPVkxIYmVOS0tSMnBzU0ZLajVpOTdwS04?oc=5",
+      "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-03",
       "verified": false
