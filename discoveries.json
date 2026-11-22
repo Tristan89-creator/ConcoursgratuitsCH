@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:27:50+00:00",
+  "updated": "2026-11-22T03:03:44+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -183,15 +183,6 @@
       "verified": false
     },
     {
-      "id": "f7157b06c643acc9b1",
-      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Grenchner Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3B5THF1XzZEVnNOMm5lc05ZS3pQZV90Rk9xQUdLdjdNeHNMN0RkVG4zTXFSRzJDMDV6Q29EOFJJWDgzdkpCWkNTZzMwSWpXWnBqTDQtTHliSk0zRHBkckl5Ymo4RUJoWjMyWnpaTEc2Z3ZacWd5MHdFUWU5bnc3X0dPc05sNXNBclZidlVETHl4cjB1bHAwZEUzNGtKNW5qc3ItZWxKMXpuU1RlM2pqcE1qWHBKWlBmQVZ5UHdkMmprS1BNajJKdEJNSmhvMVBQaVkw?oc=5",
-      "source": "Grenchner Tagblatt",
-      "language": "de",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
       "id": "15099b875950967552",
       "name": "KI bildet, Musik verbindet: «Vireo» und «MusikSpitex» gewinnen Age Innovation Prize - LEADER Digital",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0kySWdRSjVIc1NqOXRjeGgwVURaTWpJdWl0NGc1a09hZ0tBV2RlV0RpbTcxYjJLYjdmOVZuS19JWElXSU13OWU0OG96dkZXZmh0S0NBT3JoYk41Yzc1NWQ4SkpVei0xbllLM0RsbWowR1htd1lCXzNLTWg3d2w5bjV2cDR3M0dGalFKYXFFOUZpTVVWOWlhNWRIUmV1b0JXTDFVT1RoSHJyakZEcHZYbEEzUGRvZWl1XzdLVk5lRQ?oc=5",
@@ -210,10 +201,10 @@
       "verified": false
     },
     {
-      "id": "9f5d14a8f62f69c32e",
-      "name": "Häkelspass zu gewinnen! - www.bote.ch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXYxdm5oNkM2YnJHRVRyeUdlRU15aUpKOE9kM002UXZ3UWVxMGdfcEd0ZWZsY2ZoSFczWDRNUjFrMzNGUVRocktZLWhpS2hicFN2TUI3Q2FKQl93bTFaamJUNDBZS0cyeXRBRXpwX1pCTDhGOE85Ulg3cExacG9LR01tenhHNjA4SFFRdV9Hb3FzemlZQjBfSHg1eGFGaTE3?oc=5",
-      "source": "www.bote.ch",
+      "id": "b796099cf86a006332",
+      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Solothurner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXFNMXNqNTRreVUyQ3FGV3hFa2pmaENfSi1mOUlrSkI0SGFrck84ZFlaU0FLUTh6OGtlclByRDlGdEpuZW9mblN3cE4tSHRBMGlNY3E5c0RGUENMVDFZUGJaLTlrMnRyN29rYzRqUERqdGE1MS02clVmVmpWNjc1WHZsbDRVQVNDWWlDanFNaWtUYlVXeWNOM3JzT0lJeTlYcHN3SmdYOVBrdzZoYTE2ZGFwcDl3LU9STExDOWF0SzdFN09STFB2bC1fdHRkZVNXYlRBXw?oc=5",
+      "source": "Solothurner Zeitung",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -259,6 +250,15 @@
       "name": "Concours et tirages au sort - welovesnow.ch",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZUgyOEFxS1N3ZXhtMnpCX1Z1eS0yeF9WWldrS3hZV3E1cGxNeG1lUVBUazhTaGVUZERRRmhGeFVMVlVCQl9vMzZvMDdNQjVRbHFTMnlnYUdIV2h2YUZiU0dLNA?oc=5",
       "source": "welovesnow.ch",
+      "language": "fr",
+      "published": "2026-11-14",
+      "verified": false
+    },
+    {
+      "id": "5ebf8fa5cb5415fb28",
+      "name": "Concours CarteCulture - Caritas Regio",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NZndxV3ROQ3JBb1ItU1JBRFZxUTZnNndoZW9uOHVnclRuMHBoYXN0dUZDTlIyd3lINmhKU003djdFWHpwenNkVEJaRnkyN2JEelZzaFFoc2VmQ0R6blp6SUZBSEh2ZTlLOElNdEZJMlZWQVA3ejZHallrMA?oc=5",
+      "source": "Caritas Regio",
       "language": "fr",
       "published": "2026-11-14",
       "verified": false
@@ -531,6 +531,15 @@
       "source": "BauernZeitung",
       "language": "de",
       "published": "2026-10-30",
+      "verified": false
+    },
+    {
+      "id": "d91476b977029f735e",
+      "name": "Concours: gagnez un Airfryer Mio Star Dual Basket - Migusto",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZllWUzNvY3VqM3ROeXo3a3BuQzVRVk5PR25yZFFXbUhnaEdJa092RnFlX2hEcTZfXzl5MFZJUml5RUMxNDM5cjhxSDM0QXp6NFo4WGIxS3ZXN1BRaHBRN2NVY1dLWTVraHJHTFpKVlEwa2VGeGFxUFZhTkpVZm5fXzI0cVByMDM3RGVtNGpkYjZ1WlJH?oc=5",
+      "source": "Migusto",
+      "language": "fr",
+      "published": "2026-10-29",
       "verified": false
     },
     {
