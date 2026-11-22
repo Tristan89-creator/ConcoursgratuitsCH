@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T13:13:38+00:00",
+  "updated": "2026-11-22T14:11:48+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -25,15 +25,6 @@
       "name": "Des congés à gagner en se vaccinant contre la grippe: le tirage au sort de l’Hôpital du Valais vous fait réagir - Le Nouvelliste",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTk5GNXFSaVVuYWdKNGVBNC1FRy13Tm9GN2kyVVlIM29OVERReHBuYWZYb3dqeEd5WGt2Vms1TnZBNDAzRVBleS02MnptRmkyQ29aeld5RklvbkpUQXNEVWhQNk1GX1JHZjQ4ajMyNlJrSUdEOXZuWTBPeTNQb2dEMjN0LU9IVUdiMkVNLW42UXVyN1h3aFdLdi0tRnlQbkdvaENZbzdJN0liTDhkREctdS02U29vcklEVGZBdTZVNWF4U0JWQkdybnZEMUhhRW5sQU92RjFzWGxMendqOXVUczAwdFpzeXk4?oc=5",
       "source": "Le Nouvelliste",
-      "language": "fr",
-      "published": "2026-11-21",
-      "verified": false
-    },
-    {
-      "id": "7fd4fe80922699aa5e",
-      "name": "Gagnez vos places pour le match GSHC vs Ambri-Piotta aux Vernets - Radio Lac",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzFjcFM3bWg0N09Xby1DSjlnNW5mZnVCT2FfbnlRUnotYmh0WGtPZkliVTBWX1huZVgwQ3BXdENWZjdJcnZfbEFiUUVTekkxc19NS2xTZGI2YnZCdTdmdEFKV2hSM2FvMjNEVnVtUkcwYnh2QUNLTFVfdXk3SUR1dzU0VGlSUEdxLXp6RjVLZDQ3X3NIeXBJcTEyOHcxNFk?oc=5",
-      "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-21",
       "verified": false
@@ -84,19 +75,19 @@
       "verified": false
     },
     {
-      "id": "5b4bfc0b2b12c42c6b",
-      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2VUamNqb0RsY3lYeXZhSDA3bG53VEtMTWs4c2taNnZhakxYVWdwTmNHbDdKQkVtdXJRVWtQendRdzQ4OUl6VXNtRXRxbnA0YXc5LWp2ZkdjcWtXaWVVYXFvWXVMbDl3Yk5abHRLRHI5OGFFUHZ0cDdHYzhYbnlFT2oyUzV5d0RUVHNVZ2RkWHVfRDFYc2UyU1JaVldhQ1VjOWtKUnFyX3hRMkZv?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "cbb33da12274905d0c",
+      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Urner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW5LLUdJdFpsZm1UNjFOS1IxR29KbGJOWWsydHlzTFlVTHdrbmRJWG9SdS1qeXp5VVVUY1NwQWxuVzVFZ1lxZUJ1TjJsZElRaUI1RVJoR2xUMXRVeF8xd2hkaWRxY2tPTk0zRUhzWl9Ndy01d25rRjFMMkFEa1U2TjZoMXp1NWlRSE9Gc0w2OWpmOXNxSEJv?oc=5",
+      "source": "Urner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
     },
     {
-      "id": "0d8bbe9468e91a147a",
-      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUF5b2JqYXIwREhYamw3NUpWZzdVWXZJMjNYRHJ1OVI3dnpLMGpKY1ZEbTl1bzhZWGlWdEpxM29lZUlXeWVhWXlxdkpJT2pETzlQRnk4anI3RkczWnhFdkh6UDRsek91Y05BNGx1NGlka1RVeVA0dHdjcXhFY190emEzRXBGaXI4T21MY3l2eTJLRmNLNFNPRmRfSQ?oc=5",
-      "source": "Luzerner Zeitung",
+      "id": "5b4bfc0b2b12c42c6b",
+      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2VUamNqb0RsY3lYeXZhSDA3bG53VEtMTWs4c2taNnZhakxYVWdwTmNHbDdKQkVtdXJRVWtQendRdzQ4OUl6VXNtRXRxbnA0YXc5LWp2ZkdjcWtXaWVVYXFvWXVMbDl3Yk5abHRLRHI5OGFFUHZ0cDdHYzhYbnlFT2oyUzV5d0RUVHNVZ2RkWHVfRDFYc2UyU1JaVldhQ1VjOWtKUnFyX3hRMkZv?oc=5",
+      "source": "St. Galler Tagblatt",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -133,6 +124,15 @@
       "name": "Gewinnen Sie zwei VIP-Tickets für das Heimspiel des FCL gegen den FC Lugano - Luzerner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZMlJYMUN1bmFUMkNNdWVRNFZqcWNPMzA3bm80aUhjTThyRDExVWM5cE5SaE9yYWNac3F3NGJkZVpNUVFLa2xpUlhGOTVfTXQwZzlLbzQzbjBzeUkxal9tV1BHS1AyNlRDLXNHOElWOXlFeDEzSkQ3aw?oc=5",
       "source": "Luzerner Zeitung",
+      "language": "de",
+      "published": "2026-11-18",
+      "verified": false
+    },
+    {
+      "id": "8cfc91bee52c7f26bf",
+      "name": "Grosse Gefühle auf der Kinoleinwand: Gewinnen Sie Tickets für «Gabin» und «Buure» - BauernZeitung",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3RBdm12LWI3RC1OTDhGQkhJZk1pNlZ6YWl1cldSZjNrVkhkRjBZQXNVNnpCbTg1MEVxZnlLY0tWcmlRUElqRWVDWFR3V2RlNnZ2SFBVbjdCWjJpV3ZzNWJpVDVhd3NoaXN1VVRBUWc2bmhLWGs2M05TSHViVzZSa2JlWm9uZFRzOE93RGlIZzJGM0ZFM0lBdWRxOFpsMUJTS244NzFkazJlV1RUZEl1MEpZVQ?oc=5",
+      "source": "BauernZeitung",
       "language": "de",
       "published": "2026-11-18",
       "verified": false
@@ -453,15 +453,6 @@
       "verified": false
     },
     {
-      "id": "04198a647f2757d694",
-      "name": "Concours App - fressnapf",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPZVlZQmw2ZC1HMzZfV0U1M1BUeXlUSXlJbnpGcjBYc3BoOWpROS1XRkRqSjRwNk5veXFMdXJsSmZPYmdlYzRCdEN0ZU8yZmwzVTRYM3k4bW5sTnB4ck5nQWdR?oc=5",
-      "source": "fressnapf",
-      "language": "fr",
-      "published": "2026-11-05",
-      "verified": false
-    },
-    {
       "id": "d112b701e8a817f044",
       "name": "Vinci due biglietti premium, con viaggio e hotel inclusi, per la partita di Champions League Aston Villa-Dortmund - blue News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3EwQ0R3NHZLMkVYN2J5Vk43dHhHSzNhSUZGTDlleUlQUzQ4RElySkFLUVc1UlNJUnhlWmhxU0JzQVBWUzBmX3U2aVg4ZGhqTjBWOWFWZkZzZ1VOX01wTEQ4T20zc21TZ3NiWEpjTG1hM2phRHZtdHFXa3YzZzhwS3U1b1kycnc2VzZrR0hhUlhXblU4OFRSR1hCdmVvQnlQZWpObXZDVGJmNm1ETXRWUVBaWEZOb2dISy1sUlI5bWdxQQ?oc=5",
@@ -495,15 +486,6 @@
       "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-03",
-      "verified": false
-    },
-    {
-      "id": "a48b44bede68d01959",
-      "name": "Concours: Gagne tes places pour la grande finale de PRÊT ? PARTEZ, PITCH ! - 20 Minuten",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXBaVnhxWVRGSExHYkg3d3RsbVVOeC1TLUNLWnNRcDBRLWdFdFRkTjhxRGNhOGdELUpwNlVyaWlPbjBOV3pmVS0zU3VOWjh1UEtMcG9SZDdwdU1iUFc2Q2o0TUJTVjdpUnRXTlI1QmxNNk1ZOU1MWnp4R01UX2Z1SkR4Zm8wUGFGa3QzbHZKYXNnWWZ1SXJ1MUhJXy1rYkYwQUpvU3Y4RjlaVG1UZkE?oc=5",
-      "source": "20 Minuten",
-      "language": "fr",
-      "published": "2026-11-02",
       "verified": false
     },
     {
