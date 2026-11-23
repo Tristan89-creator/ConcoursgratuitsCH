@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-23T06:23:07+00:00",
+  "updated": "2026-11-23T08:47:44+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
-    {
-      "id": "c428e444b5dbb6283a",
-      "name": "Wettbewerb: Preise für 3690 Franken zu gewinnen! | - aboutFLEET",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnVsQzN6bkhrTDZWRl9LMGFsajVWcXdMS0VPRk1NODhJNkhYX0I0eF9EeTdJLTNKV1BuS3M5XzlEcUN5dFJFRF9iWjNWTUNCaXd5Z1F1eXhlUHVfcWwwQ2FFWWJMU05ZeVprSV9wSEEtSFNzZlBkZzk0azNEVkkyOA?oc=5",
-      "source": "aboutFLEET",
-      "language": "de",
-      "published": "2026-11-23",
-      "verified": false
-    },
     {
       "id": "2de85a497ee94f35c4",
       "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. FC Vaduz zu gewinnen! - Thurgauer Zeitung",
@@ -52,15 +43,6 @@
       "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
       "source": "Touring Club Schweiz",
-      "language": "fr",
-      "published": "2026-11-21",
-      "verified": false
-    },
-    {
-      "id": "55b47d1f16c52db66b",
-      "name": "Des congés à gagner en se vaccinant contre la grippe: le tirage au sort de l’Hôpital du Valais vous fait réagir - Le Nouvelliste",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTk5GNXFSaVVuYWdKNGVBNC1FRy13Tm9GN2kyVVlIM29OVERReHBuYWZYb3dqeEd5WGt2Vms1TnZBNDAzRVBleS02MnptRmkyQ29aeld5RklvbkpUQXNEVWhQNk1GX1JHZjQ4ajMyNlJrSUdEOXZuWTBPeTNQb2dEMjN0LU9IVUdiMkVNLW42UXVyN1h3aFdLdi0tRnlQbkdvaENZbzdJN0liTDhkREctdS02U29vcklEVGZBdTZVNWF4U0JWQkdybnZEMUhhRW5sQU92RjFzWGxMendqOXVUczAwdFpzeXk4?oc=5",
-      "source": "Le Nouvelliste",
       "language": "fr",
       "published": "2026-11-21",
       "verified": false
@@ -210,6 +192,15 @@
       "verified": false
     },
     {
+      "id": "fede797faebf93ee66",
+      "name": "CONCOURS GTA IV - rouge.ch",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbWJ6RHVjQ3g3QkpxdlNPdWpfVlA3SndTNU1ENE0xX05kNDRVZnJOMFBPdTRibzNLV0l0SmZaSlkxVHlnUVlyM0F1Ymp1a0hlT241Rg?oc=5",
+      "source": "rouge.ch",
+      "language": "fr",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
       "id": "f7157b06c643acc9b1",
       "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Grenchner Tagblatt",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3B5THF1XzZEVnNOMm5lc05ZS3pQZV90Rk9xQUdLdjdNeHNMN0RkVG4zTXFSRzJDMDV6Q29EOFJJWDgzdkpCWkNTZzMwSWpXWnBqTDQtTHliSk0zRHBkckl5Ymo4RUJoWjMyWnpaTEc2Z3ZacWd5MHdFUWU5bnc3X0dPc05sNXNBclZidlVETHl4cjB1bHAwZEUzNGtKNW5qc3ItZWxKMXpuU1RlM2pqcE1qWHBKWlBmQVZ5UHdkMmprS1BNajJKdEJNSmhvMVBQaVkw?oc=5",
@@ -232,15 +223,6 @@
       "name": "Gewinnen Sie den offiziellen Schwingerkalender 2027 - BauernZeitung",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lTTZvM1JqUllJSnVMWjdYb09heHZ0TThKdWJGWXQ1cDdockVOa1pvNnk1dUczWS1uOTdxb1ctaGlZVW4xR3BKNzNIRlFobW9pQmdRWWJJTng1cVg0OVQ0SG5lT3o4Um43ZG9TdmhwZ0Jrd3IxLV9qUg?oc=5",
       "source": "BauernZeitung",
-      "language": "de",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
-      "id": "fbebfacd518d5b1e93",
-      "name": "1x2 Tickets für die Silvesterparty im Gaswerk Seewen zu gewinnen! - www.bote.ch",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXUxd2JaRzFDcXRnRTc2Qzlsb2FXVm8wZUdrQUlqTjRoUEhJUFJlOXY0V29sZnRmdTd5SWVQSU05aktjaTVnVWxlWS1IRXRnSWtqMWIwbmd1NXE1UVJ0TkdOVWQ3dUFDc3RLZzlWeldmVG05WkVCMk1CamYzVE5BQVpJRlFOX1BCdkRJcVZMUS1oSldiMm12Uk1mYmJBU3h4UW85MkRYRXZfaUVCUHVoUGVIeTE5c01rMTVyNWpmQ1pFQVBsekRwMzlJbDdFQ0FpUmFNY1JhRkw?oc=5",
-      "source": "www.bote.ch",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -273,20 +255,20 @@
       "verified": false
     },
     {
-      "id": "dae10260506a4d8aec",
-      "name": "Concours et tirages au sort - welovesnow.ch",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZUgyOEFxS1N3ZXhtMnpCX1Z1eS0yeF9WWldrS3hZV3E1cGxNeG1lUVBUazhTaGVUZERRRmhGeFVMVlVCQl9vMzZvMDdNQjVRbHFTMnlnYUdIV2h2YUZiU0dLNA?oc=5",
-      "source": "welovesnow.ch",
-      "language": "fr",
-      "published": "2026-11-14",
-      "verified": false
-    },
-    {
       "id": "1e97fed11fba598114",
       "name": "Eurovision Asien: Die Philippinen gewinnen die erste Ausgabe - Blick",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaU1BV1VFdmlLc1R3UExsWHdsWnRZNE9CZmM1NEJ6M0R2SkxtZnJJeUZQQl8xUlZ5TVRxaDA0aVZfVkcxeUIyTVVRU081bTI3bXdtUVZIclJBcVp0djM5Z25TNm5VTF95NXI4bWdMN1RhY2U1azFjTFUtVHMteU9GZ1ZpTFVtYnE1aWNWWmk2ZXhWQkxfR0RYVDE5MVc?oc=5",
       "source": "Blick",
       "language": "de",
+      "published": "2026-11-15",
+      "verified": false
+    },
+    {
+      "id": "dae10260506a4d8aec",
+      "name": "Concours et tirages au sort - welovesnow.ch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZUgyOEFxS1N3ZXhtMnpCX1Z1eS0yeF9WWldrS3hZV3E1cGxNeG1lUVBUazhTaGVUZERRRmhGeFVMVlVCQl9vMzZvMDdNQjVRbHFTMnlnYUdIV2h2YUZiU0dLNA?oc=5",
+      "source": "welovesnow.ch",
+      "language": "fr",
       "published": "2026-11-14",
       "verified": false
     },
@@ -327,6 +309,15 @@
       "verified": false
     },
     {
+      "id": "0bb959dabe4399883f",
+      "name": "Concours - Kid Fransescoli - Le Matin",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15VEdjelNhYVZQam5uNGtZZm42MFhBTHRmY19yY3JuOEV0M2pobzFEck9taFVldC1tTXFtM181TUIza2NsUjJwNldobkswcDQ0T1poei14dEtKODZETVRkb2w3TmtKTm8wbE9rNGZjOGVnX3N4ZkFlTF9JMl8?oc=5",
+      "source": "Le Matin",
+      "language": "fr",
+      "published": "2026-11-12",
+      "verified": false
+    },
+    {
       "id": "e965b3a067cbdbcf01",
       "name": "Concours: Gagner des invitations pour le film « COMMENT BRAQUER UNE BANQUE » - Daily Movies",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQy1zZE45ZUxWS19EaTVkOFBLVzYzQnFiWHFnYVo5YVg0QnYzUDZmbG5kUUVGYVpwS01WOGswa0xSSm1od1pnbjFSUXJ3NXpSRmIweHRsVVVsSWNjUmdDUEphMTd3N2dfc05nLUFHN3VnZ3JXajladlJYbUFQSFFwY3BuOXJ4Q1dST2k2SlA3MkFQV2xCaFJsSlhvMGtQZndf0gGmAUFVX3lxTE40U3VaVWhZOHdZTmlyUlBpWG9WTjdCcGd4Z09MMXNyWG1waDU0SnBhYUhQUjhkbWxLSWNRSmVsMXNKQXRQejVJWXdITThDMmo2cGoyVTdmNTk0S0JncFdZeUR5bFN2b0p5LWU2SW5ndHYzdG5EVWIxS2RmZE1xZ3A3TzJzSHFYa29aekVGZDU1RU93NVE5ODZ5Z2NlR1hmUzlBMzR2UGc?oc=5",
@@ -340,6 +331,15 @@
       "name": "Grand concours de décembre 2026 — CHF 2'000.- de bons à gagner - UCOM Martigny",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yOFJ5aXYzN3NwLWNuWXFDbnhBUGlXODk1RmdrZEYxZEEtSjhLMFhBd2VMbmpiU0NLV2dZT25YMGdGY3pPTTNicDZiQVRSZw?oc=5",
       "source": "UCOM Martigny",
+      "language": "fr",
+      "published": "2026-11-11",
+      "verified": false
+    },
+    {
+      "id": "7d44e5974e1e2afea2",
+      "name": "Concours: «Ebenezer» - OutNow",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VUU1vRHdldi1LNnBnWnVFX2NSZW84bDV3UkpDc0JfZ0hVZ05UWGVrNzQ3Z0I2QWlCZjduNFdIUklNdkpfR1dmRHdUYTJ3ak1pTEs1RS00ek83TVZxUVhr?oc=5",
+      "source": "OutNow",
       "language": "fr",
       "published": "2026-11-11",
       "verified": false
@@ -516,6 +516,15 @@
       "verified": false
     },
     {
+      "id": "c032d201628df7c605",
+      "name": "Gewinnen Sie 1x Husky-Traum für 2 Personen - freizeit.ch",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR09iYV9SYVY2UUpfdGxRTTJLbnA5SDRhQ2FWVWNGdTE5LW90dmxrcXFGM0o0V1FaQzdaN2FOM3VBdEJuSW5qa0NPRGJ2M1hOY3ZQRjJueHhwMVlNTEZaSk1zZHNUWEluQlcwWk9PWXFBcDdmWHNyU2ozS1dSUk9GNzUycTlvdw?oc=5",
+      "source": "freizeit.ch",
+      "language": "de",
+      "published": "2026-10-28",
+      "verified": false
+    },
+    {
       "id": "89305ed1805976b513",
       "name": "Concorso Karpos: dimostraci che usi i tuoi capi - Montagna.TV",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWNVTmhyVkttRURMRGJPcGFyZjJ2Qnp5NEdFdmVkQUI4WS1XbFNER24xT3AzVUR0bTUxZXhBTGtNekRoRXpZajk4cXl1eVBSZjgzSUFCaktsaGhfMzViYlZKTndya0Y4UlozTTlTZXl0VENmYzVIVlFSRXNZY3VLb1Ftako?oc=5",
@@ -525,12 +534,30 @@
       "verified": false
     },
     {
+      "id": "6d083e6a438edd0899",
+      "name": "Concours Gottéron - Charmey.ch",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHS0QwMWpUSjhyRmpXZmRKUE5rMkEweFRLMndwTkstYXptUF90MWo4MVNqSnZYTWdfNVAtU3NLb2FWZld6dWhzV2Z0US1HbDU1cGJJ?oc=5",
+      "source": "Charmey.ch",
+      "language": "fr",
+      "published": "2026-10-26",
+      "verified": false
+    },
+    {
       "id": "d9fac092d002bfb78c",
       "name": "Wettbewerb: Preise für 3690 Franken zu gewinnen! - AUTO&Wirtschaft",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNHNsMkR2cHZ0ZHRfM0hBZnh2bHdDX2tGbmxOb3hkV3VsZHV0Q1ZYekF6aF9FN1liS0tSdUJsLUZUSTNlRDAzTmFPTXlOVnFERDAtM2QyeFk5WnM2UkVfRmxLc2FZMC1PSG14QnBnNWc3N0Z3UnRPTWVaTW5ObXFmNmpRRVMtT00?oc=5",
       "source": "AUTO&Wirtschaft",
       "language": "de",
       "published": "2026-10-26",
+      "verified": false
+    },
+    {
+      "id": "a40f4f51fdf80be48b",
+      "name": "Concours Malbuner - Coop Pronto",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNc1Rqd0V0bVVFZUtQTHFCU0NkNThwZjBOSnRZTTZ3M0c2R2FObjVHajNRaThGUWkzLW0yY21BYk9rSlF1T2k5MERnOGxPdVF0TEZNUnpILW1rdUtWd1NkRW9YNmNibzQ?oc=5",
+      "source": "Coop Pronto",
+      "language": "fr",
+      "published": "2026-10-25",
       "verified": false
     }
   ]
