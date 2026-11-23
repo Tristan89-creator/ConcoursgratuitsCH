@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:23:26+00:00",
+  "updated": "2026-11-23T17:17:20+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -282,6 +282,15 @@
       "verified": false
     },
     {
+      "id": "0bb959dabe4399883f",
+      "name": "Concours - Kid Fransescoli - Le Matin",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15VEdjelNhYVZQam5uNGtZZm42MFhBTHRmY19yY3JuOEV0M2pobzFEck9taFVldC1tTXFtM181TUIza2NsUjJwNldobkswcDQ0T1poei14dEtKODZETVRkb2w3TmtKTm8wbE9rNGZjOGVnX3N4ZkFlTF9JMl8?oc=5",
+      "source": "Le Matin",
+      "language": "fr",
+      "published": "2026-11-12",
+      "verified": false
+    },
+    {
       "id": "e965b3a067cbdbcf01",
       "name": "Concours: Gagner des invitations pour le film « COMMENT BRAQUER UNE BANQUE » - Daily Movies",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQy1zZE45ZUxWS19EaTVkOFBLVzYzQnFiWHFnYVo5YVg0QnYzUDZmbG5kUUVGYVpwS01WOGswa0xSSm1od1pnbjFSUXJ3NXpSRmIweHRsVVVsSWNjUmdDUEphMTd3N2dfc05nLUFHN3VnZ3JXajladlJYbUFQSFFwY3BuOXJ4Q1dST2k2SlA3MkFQV2xCaFJsSlhvMGtQZndf0gGmAUFVX3lxTE40U3VaVWhZOHdZTmlyUlBpWG9WTjdCcGd4Z09MMXNyWG1waDU0SnBhYUhQUjhkbWxLSWNRSmVsMXNKQXRQejVJWXdITThDMmo2cGoyVTdmNTk0S0JncFdZeUR5bFN2b0p5LWU2SW5ndHYzdG5EVWIxS2RmZE1xZ3A3TzJzSHFYa29aekVGZDU1RU93NVE5ODZ5Z2NlR1hmUzlBMzR2UGc?oc=5",
@@ -309,6 +318,15 @@
       "verified": false
     },
     {
+      "id": "8a1140d31f088a976c",
+      "name": "Concours: «How to Rob a Bank» - OutNow",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jdlp3WG8tQTFybmhCR0REMmxOMVl6R1Y3WEg0SW9DVS04NndzMGNJWWFDWEx3d2lmT3FCVGpDTnl6eW5XeUg0MmU2QUdSVjJ3dnpQYi1WellSLTlSTFVkU1VBQzZiQQ?oc=5",
+      "source": "OutNow",
+      "language": "fr",
+      "published": "2026-11-11",
+      "verified": false
+    },
+    {
       "id": "78f106660b4e66037e",
       "name": "2 × ein Familien-Eisminigolf mit Fondue zu gewinnen! - freizeit.ch",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG91ODF4dnNuZ095UlN6bUd6eGNjSXhzSUJwWFNZenlGUjJWcVM2WDEtZ0hUcHQyU1V6LW10QTlOZ21HRTJzWW5nbDNJWlhNaTJjV3dyeW9UVFRQb1YtTGRRMTBEU2lWSzh5Mzk0SGlnMGpTSFBzd2hBV2RyM2s3VlM1U2UtVUhTUjUxTVV0M3Y?oc=5",
@@ -327,10 +345,10 @@
       "verified": false
     },
     {
-      "id": "a7fbd8cbab6e88453d",
-      "name": "Tickets fürs Drummeli gewinnen: 5x 2 Tickets für den 30. Januar 2027 - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1pDQWVMdlRDM1Q1a09td3RhRFZpS3lWTFFTeFpHWTdEUU5XUjl6eWtHQ2U5VVBWdjVnZGtwWTB1OEpuaExRbmg0bE40SzRGMFo0ejU1NXZQeHFPLTlWUjdzRGwzRU42SURvVXdrRjZwSVBSNFJCV25KS1VNbUUtUUZ1eEhjQmZVd1VQclZzdzl5enY3amI0emJsUFNPNWxOTFp6Z0lMV21SUQ?oc=5",
-      "source": "Luzerner Zeitung",
+      "id": "6699198d4bd1dbd9d7",
+      "name": "Tickets fürs Drummeli gewinnen: 5x 2 Tickets für den 30. Januar 2027 - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGZUQXdfSUFvSFdFM1l6N2dNdy1Ga2o4N2N0Z1AwUjJBSENiWTV6c2ZsU1pHNldBVHNsT3RiTzhJd1ZieXFiZHpDQ21YbW9IcTNmdDQzUVkzS1BsNW9uMTBpSzF1SFdFRFBIcjJ0RldSeHFjc0s0U19XX1B6bFdOMkkzRXBvQVExeVp1ZUluNmJjQmpBN2NvOGF6eEJpelJC?oc=5",
+      "source": "St. Galler Tagblatt",
       "language": "de",
       "published": "2026-11-10",
       "verified": false
