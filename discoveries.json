@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T17:17:20+00:00",
+  "updated": "2026-11-23T19:16:30+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -48,15 +48,6 @@
       "verified": false
     },
     {
-      "id": "6b7bbfdd87caae8bc3",
-      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
-      "source": "Classicagenda",
-      "language": "fr",
-      "published": "2026-11-20",
-      "verified": false
-    },
-    {
       "id": "36f86a85131fc4656e",
       "name": "Concours & Shopping - carteb.ch",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16Sk0xak5mdjcweWN2ZVEwMVlFbWpJeU5Kdkd5enVfODRlZ1NzaFUyWUFkRFo3RzFCVEZjOWZHZjdpWXhI?oc=5",
@@ -84,19 +75,19 @@
       "verified": false
     },
     {
-      "id": "2ac0d7d2661711931a",
-      "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnclk4UHZEM3VVUWNpVWl5Q0lfTTBrSmZUY0pzZVZEWks3X3BfbnVfZ3BiWWFUcjZxaDduc3kzR3o0QlMyUVNhZWNhSEVZbnptZjR5MUlqelRGZUp2MDhEeE1qcjVsUG5SMWstMnQ2ZDZCTGJXZkljTQ?oc=5",
-      "source": "Luzerner Zeitung",
+      "id": "cbb33da12274905d0c",
+      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Urner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW5LLUdJdFpsZm1UNjFOS1IxR29KbGJOWWsydHlzTFlVTHdrbmRJWG9SdS1qeXp5VVVUY1NwQWxuVzVFZ1lxZUJ1TjJsZElRaUI1RVJoR2xUMXRVeF8xd2hkaWRxY2tPTk0zRUhzWl9Ndy01d25rRjFMMkFEa1U2TjZoMXp1NWlRSE9Gc0w2OWpmOXNxSEJv?oc=5",
+      "source": "Urner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
     },
     {
-      "id": "cbb33da12274905d0c",
-      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Urner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW5LLUdJdFpsZm1UNjFOS1IxR29KbGJOWWsydHlzTFlVTHdrbmRJWG9SdS1qeXp5VVVUY1NwQWxuVzVFZ1lxZUJ1TjJsZElRaUI1RVJoR2xUMXRVeF8xd2hkaWRxY2tPTk0zRUhzWl9Ndy01d25rRjFMMkFEa1U2TjZoMXp1NWlRSE9Gc0w2OWpmOXNxSEJv?oc=5",
-      "source": "Urner Zeitung",
+      "id": "8cfc91bee52c7f26bf",
+      "name": "Grosse Gefühle auf der Kinoleinwand: Gewinnen Sie Tickets für «Gabin» und «Buure» - BauernZeitung",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3RBdm12LWI3RC1OTDhGQkhJZk1pNlZ6YWl1cldSZjNrVkhkRjBZQXNVNnpCbTg1MEVxZnlLY0tWcmlRUElqRWVDWFR3V2RlNnZ2SFBVbjdCWjJpV3ZzNWJpVDVhd3NoaXN1VVRBUWc2bmhLWGs2M05TSHViVzZSa2JlWm9uZFRzOE93RGlIZzJGM0ZFM0lBdWRxOFpsMUJTS244NzFkazJlV1RUZEl1MEpZVQ?oc=5",
+      "source": "BauernZeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -111,10 +102,10 @@
       "verified": false
     },
     {
-      "id": "b7234553b3e67fafb9",
-      "name": "Gewinnen Sie 2x 2 Tickets für die Vorstellung von Mike Müller - Grenchner Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mSUhZUTlIcEotWldGbm51VjY4M040UkpaeEFLb2hRbnJKUWhlTGJJbnF3QXYzRWZUMFA4LWZfWTJ3VE90QTBUSGpuTU5heWc5WDRVY0ZkS2RJemEtTV9jeVUyWjJQSDU2NktmemhjdWlhLW5fa212cTBYOA?oc=5",
-      "source": "Grenchner Tagblatt",
+      "id": "c4f48ea38df7260dfd",
+      "name": "Gewinnen Sie 2x 2 Tickets für die Vorstellung von Mike Müller - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nMFhRMUFkOVB5RHowb1ZhcVJ2R0E5bnZsdEhZSEtKWVBqQUtyeEktU1Q2SXRBQ21zZllGVmxtVzJIZ1BoWXlvM0ZTc2VtLTE5bVBFSmNMM3RNTkU4MDlDYWxxLWNTb0c5RWh6Qzcwc0kzMkg0S2h6Zg?oc=5",
+      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-18",
       "verified": false
@@ -312,15 +303,6 @@
       "id": "7d44e5974e1e2afea2",
       "name": "Concours: «Ebenezer» - OutNow",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VUU1vRHdldi1LNnBnWnVFX2NSZW84bDV3UkpDc0JfZ0hVZ05UWGVrNzQ3Z0I2QWlCZjduNFdIUklNdkpfR1dmRHdUYTJ3ak1pTEs1RS00ek83TVZxUVhr?oc=5",
-      "source": "OutNow",
-      "language": "fr",
-      "published": "2026-11-11",
-      "verified": false
-    },
-    {
-      "id": "8a1140d31f088a976c",
-      "name": "Concours: «How to Rob a Bank» - OutNow",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jdlp3WG8tQTFybmhCR0REMmxOMVl6R1Y3WEg0SW9DVS04NndzMGNJWWFDWEx3d2lmT3FCVGpDTnl6eW5XeUg0MmU2QUdSVjJ3dnpQYi1WellSLTlSTFVkU1VBQzZiQQ?oc=5",
       "source": "OutNow",
       "language": "fr",
       "published": "2026-11-11",
