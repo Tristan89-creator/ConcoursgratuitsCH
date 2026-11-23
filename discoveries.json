@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T23:54:59+00:00",
+  "updated": "2026-11-23T01:32:10+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -93,6 +93,15 @@
       "verified": false
     },
     {
+      "id": "cbb33da12274905d0c",
+      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Urner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW5LLUdJdFpsZm1UNjFOS1IxR29KbGJOWWsydHlzTFlVTHdrbmRJWG9SdS1qeXp5VVVUY1NwQWxuVzVFZ1lxZUJ1TjJsZElRaUI1RVJoR2xUMXRVeF8xd2hkaWRxY2tPTk0zRUhzWl9Ndy01d25rRjFMMkFEa1U2TjZoMXp1NWlRSE9Gc0w2OWpmOXNxSEJv?oc=5",
+      "source": "Urner Zeitung",
+      "language": "de",
+      "published": "2026-11-20",
+      "verified": false
+    },
+    {
       "id": "2ac0d7d2661711931a",
       "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnclk4UHZEM3VVUWNpVWl5Q0lfTTBrSmZUY0pzZVZEWks3X3BfbnVfZ3BiWWFUcjZxaDduc3kzR3o0QlMyUVNhZWNhSEVZbnptZjR5MUlqelRGZUp2MDhEeE1qcjVsUG5SMWstMnQ2ZDZCTGJXZkljTQ?oc=5",
@@ -106,15 +115,6 @@
       "name": "Grosse Gefühle auf der Kinoleinwand: Gewinnen Sie Tickets für «Gabin» und «Buure» - BauernZeitung",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3RBdm12LWI3RC1OTDhGQkhJZk1pNlZ6YWl1cldSZjNrVkhkRjBZQXNVNnpCbTg1MEVxZnlLY0tWcmlRUElqRWVDWFR3V2RlNnZ2SFBVbjdCWjJpV3ZzNWJpVDVhd3NoaXN1VVRBUWc2bmhLWGs2M05TSHViVzZSa2JlWm9uZFRzOE93RGlIZzJGM0ZFM0lBdWRxOFpsMUJTS244NzFkazJlV1RUZEl1MEpZVQ?oc=5",
       "source": "BauernZeitung",
-      "language": "de",
-      "published": "2026-11-20",
-      "verified": false
-    },
-    {
-      "id": "0d8bbe9468e91a147a",
-      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUF5b2JqYXIwREhYamw3NUpWZzdVWXZJMjNYRHJ1OVI3dnpLMGpKY1ZEbTl1bzhZWGlWdEpxM29lZUlXeWVhWXlxdkpJT2pETzlQRnk4anI3RkczWnhFdkh6UDRsek91Y05BNGx1NGlka1RVeVA0dHdjcXhFY190emEzRXBGaXI4T21MY3l2eTJLRmNLNFNPRmRfSQ?oc=5",
-      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -147,15 +147,6 @@
       "verified": false
     },
     {
-      "id": "abe43c5a38069c989d",
-      "name": "Gewinnen Sie zwei VIP-Tickets für das Heimspiel des FCL gegen den FC Lugano - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZMlJYMUN1bmFUMkNNdWVRNFZqcWNPMzA3bm80aUhjTThyRDExVWM5cE5SaE9yYWNac3F3NGJkZVpNUVFLa2xpUlhGOTVfTXQwZzlLbzQzbjBzeUkxal9tV1BHS1AyNlRDLXNHOElWOXlFeDEzSkQ3aw?oc=5",
-      "source": "Luzerner Zeitung",
-      "language": "de",
-      "published": "2026-11-18",
-      "verified": false
-    },
-    {
       "id": "68bca2ab801ee9b71c",
       "name": "Jeu King Jouet KPop Demon Hunters : 11 box de cadeaux à gagner - EchantillonsClub.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0pKVlJ0TTVQWEZTNW1TUnBTSktsaG9RMDFDZW1Xa3dnSTE2YUQ3dTRYTzFmLWNPc0VNVERtanVabTlCR243WmR3N25LbHpSdkVEYXhseV8zVGpEek9NNllLcGI0Zzc3ZFhNc3pSZFFpcXV4SnBBLXltdHExLVhEeUx5UzJUdjhzWUVaUGplWWFralRzMXN4WWU3LTlNcVpldzlHQW1fTG4?oc=5",
@@ -179,15 +170,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU091dWhENkdhSmV0eTlrRXJDUU15c1BKcGVVWW10bXRXTW5Ycm1Zb28zUnpyUjc0dTBnYmNfVzdfbE1OQjc4dTAtUmNDbjVfOC1YVF9mRFN0VVJvZU9SUTB4NGtQZEZnMldVdnJraHVFeExfTFZ4U0hB?oc=5",
       "source": "weekend.at",
       "language": "de",
-      "published": "2026-11-17",
-      "verified": false
-    },
-    {
-      "id": "be1a1627b489c1e3d8",
-      "name": "Concorso: vinci un pacchetto di premi per rinnovare la tua primavera - Gentleman's Journal",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVlkbFhqQjFyUWNnSXJwWHVILVFoMExzcTJvaFRtcXcyOGpJeEx5bGtVTkJMQkJuaTJNR1FOTzhnc2FTQW5Cang1RVFoUVBsalZFNDlLNDB0U012cXpqWXFsOExmejMyalpYMlBYOXZtdjNKZW40V0Jpem1FUXJmWXBNU2x2Wkx0SFpXWWhyelExT2toaUNDVjlUUVpJcjczTWJ3cUtNNkxuNmgteXBrRWtTTTZlVmc?oc=5",
-      "source": "Gentleman's Journal",
-      "language": "it",
       "published": "2026-11-17",
       "verified": false
     },
@@ -384,6 +366,15 @@
       "id": "99b78ab9a9d3f65dbf",
       "name": "A Talent for Murder» – Concours - OutNow",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vanBDM1MwN244S2xIMkRMNDBrV0RzdE44WTVWWXJRalIxeUF5Tk5FZzJvSm43R3BrV3FvcUxweVhMOVJ1VDdkSzJrTlp3eWk4X010c3BaakVibDlPVEt5ZTVsdGRQQUF0?oc=5",
+      "source": "OutNow",
+      "language": "fr",
+      "published": "2026-11-09",
+      "verified": false
+    },
+    {
+      "id": "c7679aad0b77080b10",
+      "name": "Concours: «The Legend of Zelda: Ocarina of Time» (Remake) - OutNow",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXNkVTMDREOThvdzlkbFRJLVVjaXJzaGgzMnk0RzM3b3VTSXdibnFlaWY1Y1VITTFGY2xadnhzaVJVSmJuNWs5NlUtUVdFN0tRcThFQnhweFhFc0xXRlVwMGVNM1dOcW5jX1N1RWtCS3FZbkFJUVllZ3BVNA?oc=5",
       "source": "OutNow",
       "language": "fr",
       "published": "2026-11-09",
