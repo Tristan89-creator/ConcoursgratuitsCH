@@ -1,23 +1,14 @@
 {
-  "updated": "2026-11-24T01:30:04+00:00",
+  "updated": "2026-11-24T03:06:44+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
-      "id": "8ebc0bed6b4f370898",
-      "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. FC Vaduz zu gewinnen! - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LOHZRTWhIRVN0V19TdjNIVzVqTFFyOTVneTg4NV9XbzA5UkpNZEZSQW5mOGNWOFpZc0tJVEZ1Ui1lYlUzcnVRZk9yVktad0xNdHZjd05ib05rRDJJVzI2S1lqWWlaRklfWkFxUEQtbw?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "2de85a497ee94f35c4",
+      "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. FC Vaduz zu gewinnen! - Thurgauer Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lYmROU3J6bkJkOW9OT2wzNmhta180Nl94bXpvcGgzWnNwdnhmbmUzLVFEa09MejBlbU94TlZKcHJsRDY0ZERlRDI4Z2J2emhLTFFyWC1EMTlvRk5qMVhYeUdvMTFSemp3eUtQMk9TcDJmc1Bwal9KVWVB?oc=5",
+      "source": "Thurgauer Zeitung",
       "language": "de",
       "published": "2026-11-23",
-      "verified": false
-    },
-    {
-      "id": "b7b0f0d783a5cf90b9",
-      "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
-      "source": "www.gaultmillau.ch",
-      "language": "fr",
-      "published": "2026-11-22",
       "verified": false
     },
     {
@@ -39,12 +30,30 @@
       "verified": false
     },
     {
+      "id": "cf0263bc475818561f",
+      "name": "Boca Juniors gewinnen Copa Sudamericana - Radio Central",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm0wdTBhV3FmcFRyU0VJd2NLbTF0UUZXc09yZWtteW5FcVRENWNoTk5sSWpkTVFkNUJfRWZ5T0VQZHo5ekF4VXBYajFyM1I1TmptSEtjV0gxN0FkMGFQR2hSTllJOXlOMTVPWjVhekc5aWpRWmRZLVB1WldFaGVCLXhhdGJ3cWNreHBPTw?oc=5",
+      "source": "Radio Central",
+      "language": "de",
+      "published": "2026-11-21",
+      "verified": false
+    },
+    {
       "id": "9ac700847a02ea76be",
       "name": "Vier junge Pianistinnen aus dem Kosovo gewinnen Preise bei einem internationalen Klavierwettbewerb in Wien - Albinfo",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVRYcTdzOWVBVXJxQnBjM1JfTVpCNVFqTGxyTTJiYzNzQldqS3lXeklsZTNKYl93bmUtU3pMTU9ZcU1FZUxoYWhtYThwcmdmTnlTOHlDcmtrVE1FZlJyVk1EWE92aXJUcnRySlJQQWdiN0RoRE5ZTHlxb292VVZvSXlPbGpxTWRfdDJBZjZIM2FWOExwUDBfZV9yZG1STjhUVGQ2MGVUUDYzd1h3X2MzTHdSQkFzRWM?oc=5",
       "source": "Albinfo",
       "language": "de",
       "published": "2026-11-21",
+      "verified": false
+    },
+    {
+      "id": "6b7bbfdd87caae8bc3",
+      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
+      "source": "Classicagenda",
+      "language": "fr",
+      "published": "2026-11-20",
       "verified": false
     },
     {
@@ -84,19 +93,37 @@
       "verified": false
     },
     {
-      "id": "50ffe3f488793d01d3",
-      "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LT1J5QzVPNTRWSEo1bWZUaHUySWJGemVfTTQwd0RzMHI3dFVLWWVldUVzVlVZTkZoeGl1Tl9GRldwT0lYWnpEMFUxa2FjeUhmZjRQekZIWGVBVVJuaHZjT2UyZGJDZWJCNVlRYXg1dw?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "945513000dd9129ac1",
+      "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - Aargauer Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zc0ZEZkxUa3JJVFo0eTQ1Sl91Z2xMbWM1R2RTbDdqZHZTMVNrcTdRcGhZTWpnREpFcXUwU05hT3FkZl80XzJ5YUZaWHY4eDlRMHNOT2xEb1dVQWVTa3ZBSTdDZHA4bHlNZHJHNGRqQ01XS2Z6NzhCYQ?oc=5",
+      "source": "Aargauer Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
     },
     {
-      "id": "8cfc91bee52c7f26bf",
-      "name": "Grosse Gefühle auf der Kinoleinwand: Gewinnen Sie Tickets für «Gabin» und «Buure» - BauernZeitung",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3RBdm12LWI3RC1OTDhGQkhJZk1pNlZ6YWl1cldSZjNrVkhkRjBZQXNVNnpCbTg1MEVxZnlLY0tWcmlRUElqRWVDWFR3V2RlNnZ2SFBVbjdCWjJpV3ZzNWJpVDVhd3NoaXN1VVRBUWc2bmhLWGs2M05TSHViVzZSa2JlWm9uZFRzOE93RGlIZzJGM0ZFM0lBdWRxOFpsMUJTS244NzFkazJlV1RUZEl1MEpZVQ?oc=5",
-      "source": "BauernZeitung",
+      "id": "ab67bb36da53702d13",
+      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - Badener Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1cydTlUdGo1VEVsZnBRSVFRMmUxdDg0LWNkdjB3TmNOX09tN3dXN3hrM0Z5X01INDllY2VXMjdMSXBYZ2daN1RpaGlRdmxYeXEyNkpKdGhTczY4cUpuVmh2VDlsazZQTDJGTmU4Q1prVFRUZVloemJPZHE1cW5hQ3NsZ25nRlZXWFVLUlZoX216elhHRWhsSzRwQ0RrcXc5SnB1UE9mVnUzWVRQT1h6MFkxd2ZCQQ?oc=5",
+      "source": "Badener Tagblatt",
+      "language": "de",
+      "published": "2026-11-20",
+      "verified": false
+    },
+    {
+      "id": "6f657c1c41888f0753",
+      "name": "HCAP vs. SC Rapperswil-Jona Lakers: Sitzplatz-Tickets zu gewinnen - Aargauer Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lQkw4c2M1eWF2U1dCVUhlVGNZMWRQQWswRkJmTVVON0cyU21nODk0VWVPWXduZkNBUWotSktZbFQ5SmtGc0hDYmlvTExteklnRUtWSWN5T0xwUWJseWd6QTY5WGRXcXBYSUdkdnFEMGJfNDRQWkRndQ?oc=5",
+      "source": "Aargauer Zeitung",
+      "language": "de",
+      "published": "2026-11-20",
+      "verified": false
+    },
+    {
+      "id": "607b15504253ab6f20",
+      "name": "Puhiza qualifiziert sich für das grosse Finale des internationalen Klavierwettbewerbs in Wien - Albinfo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUU12WElkVHh4RG5RRGdtN0pSNG5EV3h4WkRtd1lrMU9OcWZkUGk4RDlPN2hyMS1VUVZjS0tPRWFOVEYtSnhmRC14M0FacEVVS3g4MFNya1EtRk52Vk9xMnZCWWd6QzMyZXJqajZFbDZSaWtNZUw3Tm40ZE1OSUtjRngtclF3aHkyMTl0Wnk0dU1mWDNEeVlra3JFZ2VYZjRLLTBrSUZzX2I2bDQ?oc=5",
+      "source": "Albinfo",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -111,11 +138,29 @@
       "verified": false
     },
     {
-      "id": "28aa50d55acf06f5a6",
-      "name": "Concours: «I Play Rocky» - OutNow",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4teVBtNkI3b2EyckV4S3VpeFRheEFuYzB2eWFqeG15N3gybDdjei12S2tqakZMRlZnRmdsVjlPd0wtbmJidkQxQzBVVk9ZM2xGQi1aNElramRVN1p2ZzVJeEJ3?oc=5",
-      "source": "OutNow",
-      "language": "fr",
+      "id": "72c0a8394dbecf8f59",
+      "name": "2 Tickets für Lunik im Gaswerk Seewen zu gewinnen - www.bote.ch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLS1WYTZsaHBDVDZZcUJDQkxqU3EyNUthTC1iM3ZzY1pnXzVUbzlTM1dvOUlVVHFnaVVjaU9leGhLWlQ0UF9md2FMV0k5OTdpeU9ESjJ4a2RvMlM2MXJLckl6UHFaQWQ5THludFhFaHg5Mm43SldyYU5IbEJUT0lOUlhndFhtVk9DRE02NUphNkZmNG8zUWlhOC1vMUZuSFVObFQzT2JDeDlKZGVFX3AtM2lpRi1mTDNQRFY1TE0yYw?oc=5",
+      "source": "www.bote.ch",
+      "language": "de",
+      "published": "2026-11-19",
+      "verified": false
+    },
+    {
+      "id": "d5af1bb8e575151858",
+      "name": "2 Tickets für Reto Burrell und Lin Stucki im Gaswerk Seewen zu gewinnen - www.bote.ch",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdTRQbFB3aWFHcHdwN2thNHJuQ29SWnJrOF9iT3RtX2lTblpHUk9ReHpYX3JZNEpiYkpnZGxzYzlUckdfYm1yRHhYcl9vb1BpZEc0a19oUnVVWU1nTHV1MWhSS0Z2TlNpbjc0M3d0ZlA1Z2Y2Qk56S0Z4STdxT1Q2S2hxaWhqRGZHbUpmQzBoanQ5VzhSMExkVTFFRlpMd2N3QVRITmRjTmg1dldRNkNkME5oYjlqaE5nTzhHclg5VXU3TVhjS09QWGo1elpXd1pHTi1CTXpwQjdFMWxE?oc=5",
+      "source": "www.bote.ch",
+      "language": "de",
+      "published": "2026-11-19",
+      "verified": false
+    },
+    {
+      "id": "d52a4e6a7d9deb4be4",
+      "name": "Internationaler Nachwuchs-Kochwettbewerb: Die Schweiz räumt ab! - Gault Millau",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd183bm5UNW8tSlJtdU1PQ1AzYnppTng3VWZLWUdvS1hoaUZSeDFOUjFGWkFieGR4a3dvQl83Vl9nRWlqLVJHenMxQ3JNS0tQR19MS1dHNkdsYmRQN3Noc29CU2VQQlVXMktxUlBhMkRDX2JLNDdYRjhiZWRQeE9CNE15azdKcng0OEpQZg?oc=5",
+      "source": "Gault Millau",
+      "language": "de",
       "published": "2026-11-18",
       "verified": false
     },
@@ -156,6 +201,24 @@
       "verified": false
     },
     {
+      "id": "bf76a4b730678bc260",
+      "name": "5x2 Tickets für die «HEIMWEH | Fründschaft - Die grosse Jubiläumstournee» im SAL zu gewinnen - Vaterland online",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TMk1QN0t2VE5TZWlwYlctczN1YTd0eVNtTjVNLTVxcVhQRUtpeFpKQzRnekZYWjZSalZXT3ZWaThZQ2ZqZFlZY1RpSGVfaFJPS0oxRG55eDVjQzV1aXk5S2s5OEVzY3BZOFE?oc=5",
+      "source": "Vaterland online",
+      "language": "de",
+      "published": "2026-11-17",
+      "verified": false
+    },
+    {
+      "id": "dd54a3b164c3ab08fe",
+      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
+      "source": "Loisirs.ch",
+      "language": "fr",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
       "id": "e4db9a903fd02e856f",
       "name": "Un pack famille pour Bô Noël Lausanne à gagner - Terre&Nature",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnFxZDdqMUN0Ry1ZOUZiaDhlMFBjWE8wRHcxOXQyU3k4eFExcE9Idnc4VURkMTVTSlpQWVhpQTMycVlrS2FQejMyYnY0LWNYQ3U0cnVzV09JREJfOF9zTDZSeUtWRlNFMHBkMUhkb2g1NnFjRjhqVjk4dzh0a1pmOVY5RlktMkVydE04?oc=5",
@@ -169,15 +232,6 @@
       "name": "CONCOURS GTA IV - rouge.ch",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbWJ6RHVjQ3g3QkpxdlNPdWpfVlA3SndTNU1ENE0xX05kNDRVZnJOMFBPdTRibzNLV0l0SmZaSlkxVHlnUVlyM0F1Ymp1a0hlT241Rg?oc=5",
       "source": "rouge.ch",
-      "language": "fr",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
-      "id": "dd54a3b164c3ab08fe",
-      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
-      "source": "Loisirs.ch",
       "language": "fr",
       "published": "2026-11-16",
       "verified": false
@@ -201,19 +255,10 @@
       "verified": false
     },
     {
-      "id": "e514d35c9cc0ace609",
-      "name": "Gewinnen Sie den offiziellen Schwingerkalender 2027 - BauernZeitung",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lTTZvM1JqUllJSnVMWjdYb09heHZ0TThKdWJGWXQ1cDdockVOa1pvNnk1dUczWS1uOTdxb1ctaGlZVW4xR3BKNzNIRlFobW9pQmdRWWJJTng1cVg0OVQ0SG5lT3o4Um43ZG9TdmhwZ0Jrd3IxLV9qUg?oc=5",
-      "source": "BauernZeitung",
-      "language": "de",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
-      "id": "cb17d31e9f0c540f60",
-      "name": "2 Tickets für die Silvesterparty im Gaswerk Seewen zu gewinnen! - www.bote.ch",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXUxd2JaRzFDcXRnRTc2Qzlsb2FXVm8wZUdrQUlqTjRoUEhJUFJlOXY0V29sZnRmdTd5SWVQSU05aktjaTVnVWxlWS1IRXRnSWtqMWIwbmd1NXE1UVJ0TkdOVWQ3dUFDc3RLZzlWeldmVG05WkVCMk1CamYzVE5BQVpJRlFOX1BCdkRJcVZMUS1oSldiMm12Uk1mYmJBU3h4UW85MkRYRXZfaUVCUHVoUGVIeTE5c01rMTVyNWpmQ1pFQVBsekRwMzlJbDdFQ0FpUmFNY1JhRkw?oc=5",
-      "source": "www.bote.ch",
+      "id": "7ba9ba55805c87fa26",
+      "name": "Age Innovation Prize 2026: «Vireo» und «MusikSpitex» gewinnen Schweizer Altersinnovationspreis - www.wirtschaftszeit.ch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmRqX09tb2o5X0xpUjhaaU9leTI1UWxteUJzWlpsb1NUVUpJaTJFQ2h2WHdxQ3BuODlOUHR6aXEzR01qcnNRdjRCa1dRSk1zUXJaNmFMQzFUTzlCODAxMjBCdzVDaGxXbzhBZ2w5UUkzMlA4LWpERE9lYWplWE9CVU1lUGNDQnV6OHVpaUV6R3NJRVlBT3ZRWWFiWERrd1RKMnN5SS1qZ0lhRVVKVWozU2FUcDkxUFdDMVlIR3lvMmMwMmdj?oc=5",
+      "source": "www.wirtschaftszeit.ch",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -223,15 +268,6 @@
       "name": "Lufthansa: Eine Million PartnerPlusBenefit-Punkte zu gewinnen - reisetopia.ch",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSFBpa3hfUjNXNENDRzNOYTRtVUJ2blVwakRVeXIwemRXSEctQWI2c29MZEcxTDVraXdJMzQwalRzTG9BaUUxeWpJQ2lrS2pxcjI0MmlBLUNYdHNTQm5lMlh2QUZ4SnZ0TkQ0SjczZnl3YjBWb3hia0hPSm44bjByX25n?oc=5",
       "source": "reisetopia.ch",
-      "language": "de",
-      "published": "2026-11-15",
-      "verified": false
-    },
-    {
-      "id": "c54dd5306903e6a50b",
-      "name": "Käsegenuss mit Seesicht? Mitmachen und 5 x 2 Tickets gewinnen! - www.migros.ch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wVlY3eWpfM2gwclVFRUUzTTV4bVJONlYtX1RKR1hEU1VmY1JKVy0tRHFhT3pzbGlEaHNadkJNdTBRZ0JlUnp4WjdMbk1XdkZjY2xuSjl4RWVrWEY5V2RnUEVQWTNnRHBTcUVKYVVzQjY?oc=5",
-      "source": "www.migros.ch",
       "language": "de",
       "published": "2026-11-15",
       "verified": false
@@ -264,10 +300,28 @@
       "verified": false
     },
     {
+      "id": "ba65fc0f77c90fcafd",
+      "name": "80e Concours de Genève – Finale 2 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0VXanVhUUNpLUJtdmdnSVc0RXdkWC1WMmQ2b2NMcXdDLU1Mb3BkQ01kR05UbF9EVlBENG04QzN6WmRBWTFKLTlNcHE5UnI2bFBHQk53M2dVbmpwN1Y1aUFRcnJTaHpDUk1GSkp1ZndtYXU2NTYzZnh5YmNPd2hlSFlHMnJvUmlNTzBUVUM5c0lrVGNpOHNWcG9OUWVtWlozbmZ4VDFIU0E4MFI3elV0NHE2Y1UtSmI0TG5sNEpXd2x3NkVGODZFQ2NUVmlvUQ?oc=5",
+      "source": "Unidivers",
+      "language": "fr",
+      "published": "2026-11-13",
+      "verified": false
+    },
+    {
       "id": "c410e96637b7a5f986",
       "name": "EVZ vs. EHC Kloten: Stehplatz-Tickets zu gewinnen - Urner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LSlFILXhGd2V4OHE2NmRkM0R0bDlhV3hwQTEyRUs2YjNMVU9McGFCREpNZ19YcHNsdEZPMlNTelg1czhudVRmanctTzFZTDNBRFUtNkYtVUVzdHBOQS01ZkxGbkpCbzRROGZBLXo5WUhKemNr?oc=5",
       "source": "Urner Zeitung",
+      "language": "de",
+      "published": "2026-11-13",
+      "verified": false
+    },
+    {
+      "id": "b1ad0dedbe488118b9",
+      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Zuger Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnRNUGx6N25GUFIyeUp4UTB6TmtRdGhnRG5jT0dRT0dhY2VzcTl3cERnejhISWJySUN4YUJuZmpnV0UwNnpGWk9YUl9hMG15RXp1ckdEbmhSZUZPSmZtdjdSdkVKU0VtbTNpQnZFWXZJVjBqM1FVWWR0NDUtTW5mSExRSnY2ckZrOGxKWnhqWDZrbFNwVnRz?oc=5",
+      "source": "Zuger Zeitung",
       "language": "de",
       "published": "2026-11-13",
       "verified": false
@@ -318,15 +372,6 @@
       "verified": false
     },
     {
-      "id": "78f106660b4e66037e",
-      "name": "2 × ein Familien-Eisminigolf mit Fondue zu gewinnen! - freizeit.ch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG91ODF4dnNuZ095UlN6bUd6eGNjSXhzSUJwWFNZenlGUjJWcVM2WDEtZ0hUcHQyU1V6LW10QTlOZ21HRTJzWW5nbDNJWlhNaTJjV3dyeW9UVFRQb1YtTGRRMTBEU2lWSzh5Mzk0SGlnMGpTSFBzd2hBV2RyM2s3VlM1U2UtVUhTUjUxTVV0M3Y?oc=5",
-      "source": "freizeit.ch",
-      "language": "de",
-      "published": "2026-11-11",
-      "verified": false
-    },
-    {
       "id": "40171c4b0d93c1b212",
       "name": "Jeu-concours Black November - Swiss Bankers",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QQXYyQXVKMGh2aU56S3c2Z1ZjaVU5bFJLLTU2MWZIVHhReE5BWUt2MkV2R2xNZDE0SmhFVngzQXQtTFU3alNTQWxZRjBZR3E4ZERmMGpINnY?oc=5",
@@ -340,6 +385,15 @@
       "name": "Tickets fürs Drummeli gewinnen: 5x 2 Tickets für den 30. Januar 2027 - St. Galler Tagblatt",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGZUQXdfSUFvSFdFM1l6N2dNdy1Ga2o4N2N0Z1AwUjJBSENiWTV6c2ZsU1pHNldBVHNsT3RiTzhJd1ZieXFiZHpDQ21YbW9IcTNmdDQzUVkzS1BsNW9uMTBpSzF1SFdFRFBIcjJ0RldSeHFjc0s0U19XX1B6bFdOMkkzRXBvQVExeVp1ZUluNmJjQmpBN2NvOGF6eEJpelJC?oc=5",
       "source": "St. Galler Tagblatt",
+      "language": "de",
+      "published": "2026-11-10",
+      "verified": false
+    },
+    {
+      "id": "993e3997da0a39e0f4",
+      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den HC Sierre - bz Basel",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmRRbU1qd05ZY001bERHWVlTQU5KeVVhTTNrQUEzcElqZWxyOHd5cjNyWHNwMkxrbG9CRmNua3Ixei1kY3B2RndQalVTTTMyWHhid1VZT2FYbzYwcGg0Z3dPYzZCblYwblVTcmFNbkozb3JqUlRIWWpRQ0hKcVdXSUhOOC1CVDJncVY4c05NRk9qdHI2cUFWVWFJdWtRVW84TVA1UG8xaDRHMlYxYWlFUExVLThFbFY4ZlNselhEWUFkWExaWUE?oc=5",
+      "source": "bz Basel",
       "language": "de",
       "published": "2026-11-10",
       "verified": false
@@ -381,6 +435,15 @@
       "verified": false
     },
     {
+      "id": "1b1297f0a6677caa9c",
+      "name": "Beweisen Sie Ihr Wissen im grossen Appenzeller Herbstquiz und gewinnen Sie tolle Preise - Appenzeller Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdTgtMDdVMTBEX21aUUlhcjdweGFwSlVtOW1feDNBMVBtTlgzVENTNkJTMHMxeUtBVlAzTXprd0tyTDk0MHd6X3N3Zlg2eUdRd2NQUmFhUlRNZG5pLW9rNS1JQzVHbmIxSEtnQkVtbG01ekp1VVNKWHo2RlB5d0dNUmpJX2hjem5PUFZIazBkMlR1d0dTSEZhcXNzT0Y5OWpLSzRYS2M5U2JVb3lFMmpOX3BkaDBiaG1TVFZieFNYMnZpLUtBVEh1UlJ1dThVSmZiS0J3?oc=5",
+      "source": "Appenzeller Zeitung",
+      "language": "de",
+      "published": "2026-11-07",
+      "verified": false
+    },
+    {
       "id": "7f9c9a3e685b2a1b6c",
       "name": "Le Black Friday One FM: CHF 2’000.- de cadeaux à gagner! - One FM Actualités",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0NrNmtxNXVwdndCQTN0bG50clNJeS1zVTFVZ3RxOEdSTDl2MDYtWFc0QWlvTWI4T0UzYlg2M3hSUHdqbnJGZTZCSWZtOFJTWVBaMVJwVUFXMzA5TjFUOEhob0JMVE5LSWxwVzJXYXJHc3hDRjlUYVBMQkdCbjRLWVE0X3pBLUxyVlE?oc=5",
@@ -396,15 +459,6 @@
       "source": "Appenzeller Zeitung",
       "language": "de",
       "published": "2026-11-06",
-      "verified": false
-    },
-    {
-      "id": "8879420a742d43d037",
-      "name": "Concours l’Agenda du Mois : Décembre 2026 - www.loisirs.ch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNWpXTG5RVkwzS0NmRVoyYk9vejVnaHZoRmYtMlU4a0I1MnJUQ1E2dWlUUXh4cWd3dW1LeVEtZkp3aTZIT1pnV3NqaXFucld4clBzeWZuYkU1LVctNmpXU1NtSFZTV2M?oc=5",
-      "source": "www.loisirs.ch",
-      "language": "fr",
-      "published": "2026-11-05",
       "verified": false
     },
     {
@@ -435,10 +489,37 @@
       "verified": false
     },
     {
+      "id": "583c0674837e541b8f",
+      "name": "Wettbewerb: Der Record Store Day sucht euer Design - DIFFUS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tUmoyeDE2SGNJM1preFNKSmJnSDNYZ29RQllvUENqWFRnZU5MYmljaG1lRk9OeklvRUZSazhLekYxUEt3OTJVdFJnbGs1ZG9vQmhrVjFiYUZOTklvdFZiNnVOa0RWN1dOTVdmSDNXQkpKdzI3VWp1MnRR?oc=5",
+      "source": "DIFFUS",
+      "language": "de",
+      "published": "2026-11-03",
+      "verified": false
+    },
+    {
       "id": "9f912acd76786336cf",
       "name": "Miles & More Gewinnspiel: 100 × 100.000 Meilen zum Lufthansa-Jubiläum - meilenoptimieren",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZngwSS01bUlOZjEyVFg3SUdLbXhZeDc5Yy1tdjUzbkVLSlM1S0xlakJZQWJ6bUVoQ3p2VHMybzl3bkVBd0otM1J0VlVBdXIzMlFDTGUxWnlBbWFMTVBmdktjVGQzLW5mbldYWk9PdHc1d2pnenpWMVRvd0p3SDhaVDNn?oc=5",
       "source": "meilenoptimieren",
+      "language": "de",
+      "published": "2026-11-02",
+      "verified": false
+    },
+    {
+      "id": "69b29ae250160b1ea0",
+      "name": "Gewinnen Sie zwei Tickets für den Slalom am Chuenisbärgli - Plattform J",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRzBWMXMzNF9JSmxzUGZ1UENnZjdreGV4LXJYN3ZQRndjS0REOG5DeHhSLXRCMFY2Y0VNUVhMWDJ1ZFEtRWp3cFdjNnFWSHA3UEpz?oc=5",
+      "source": "Plattform J",
+      "language": "de",
+      "published": "2026-11-02",
+      "verified": false
+    },
+    {
+      "id": "a22190bca2d75c168f",
+      "name": "FOTOS ANBEI: „Hitzehelfer Brandenburg“ gewinnen Landeswettbewerb für ein gesundes Miteinander - Presseportal",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGcXQ1djNnb3BmQzlZeHZSU0ozVXdkYURaUmQ1ZU1YUWxIVEtHZGhwcnFOeDUwQTJtMUJwa1lLeGZpNG1uSWVnM0JzOTJEQmxCcXlFdnNBcw?oc=5",
+      "source": "Presseportal",
       "language": "de",
       "published": "2026-11-02",
       "verified": false
@@ -471,30 +552,12 @@
       "verified": false
     },
     {
-      "id": "19714fe3fee2d2875b",
-      "name": "Un maillot Xamax à gagner - Croix-Rouge neuchâteloise",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94UXpGbmFpcjJLLUw5dnNDSndESTBUT1ctSmlSUFZXU2R0eFV3UVpjbVpWc0R1ZzdlZGZjQ0JxdFdFZzVDWE5hT1JGRldoOWYwUi1KNVhob1hRR1pwQ0JFN3VmYkIyTU1W?oc=5",
-      "source": "Croix-Rouge neuchâteloise",
-      "language": "fr",
-      "published": "2026-10-30",
-      "verified": false
-    },
-    {
       "id": "a52bbc04459dbd3d02",
       "name": "Der grosse Wettbewerb zur «SRF bi de Lüt – Landfrauenküche» 2026 - BauernZeitung",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUtPUmFiNEJhM1F5UlFQWDVzaDVkWlVndnJMaFFPYzBXb3pzcXBuR09XcnlxYUJCNXhxVDlXQWZJdmdkbkw4YnIzbC0ya1JhSHR3RVc3SldnZV9lYTdULXlONUpncFhrNkxtSHV5bVRydzNhUXM3VzVKdzFGY1Q4Y2Q4WQ?oc=5",
       "source": "BauernZeitung",
       "language": "de",
       "published": "2026-10-30",
-      "verified": false
-    },
-    {
-      "id": "c032d201628df7c605",
-      "name": "Gewinnen Sie 1x Husky-Traum für 2 Personen - freizeit.ch",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR09iYV9SYVY2UUpfdGxRTTJLbnA5SDRhQ2FWVWNGdTE5LW90dmxrcXFGM0o0V1FaQzdaN2FOM3VBdEJuSW5qa0NPRGJ2M1hOY3ZQRjJueHhwMVlNTEZaSk1zZHNUWEluQlcwWk9PWXFBcDdmWHNyU2ozS1dSUk9GNzUycTlvdw?oc=5",
-      "source": "freizeit.ch",
-      "language": "de",
-      "published": "2026-10-28",
       "verified": false
     },
     {
@@ -525,10 +588,19 @@
       "verified": false
     },
     {
-      "id": "a40f4f51fdf80be48b",
-      "name": "Concours Malbuner - Coop Pronto",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNc1Rqd0V0bVVFZUtQTHFCU0NkNThwZjBOSnRZTTZ3M0c2R2FObjVHajNRaThGUWkzLW0yY21BYk9rSlF1T2k5MERnOGxPdVF0TEZNUnpILW1rdUtWd1NkRW9YNmNibzQ?oc=5",
-      "source": "Coop Pronto",
+      "id": "d889841ac166669a94",
+      "name": "J Gewinnspiel - Hanna & Harald im KKThun erleben – Jetzt Tickets gewinnen - Plattform J",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fQTRzNnk1Tmx4R05VSVpXT3NoR0ZEYnRienRpanJtUm9yZmxGNHFlcHR0R0dXaXFEam9NcmZyS2FrRnpxaVpncTFRUnBBcjk1d1dr?oc=5",
+      "source": "Plattform J",
+      "language": "de",
+      "published": "2026-10-26",
+      "verified": false
+    },
+    {
+      "id": "03c313964c405b2f41",
+      "name": "Gagnez une dégustation de champagnes d'exception à Lausanne - www.gaultmillau.ch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDIxcXZTZzNQNHNXX1ROUzlMdnIwbDNMajkyblJXU3d0bHp1eWV4SmhwZTZiV2Y2dF9iMFp3eklSVnplTDg0RHN4U09vMUxDNUhFUnBBQ2pLaFNFQkJPR1hLM0JrYVF5MnRSLUw1cS1ZakVFTXNvTkVUV2JWZlpDUWFQYU1uVHU5ZnhNTkJyWkktd00?oc=5",
+      "source": "www.gaultmillau.ch",
       "language": "fr",
       "published": "2026-10-25",
       "verified": false
