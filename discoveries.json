@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-24T17:16:31+00:00",
+  "updated": "2026-11-24T18:09:56+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
+    {
+      "id": "7ba53f7e79289d58bf",
+      "name": "Coupe du monde de ski 2026/2027 : participez au concours RTS - rts.ch",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2RZVDQ1bGFJQ2JVZjZYd3V4bEh3SVdZU1RFVW9IREhaN0JqNnRBUzlILVVYMkI3OFhrQ2QyLWEyOEUzVFVZLUJNRFhCLVdyNlF1WjBBWnp6a1VQRlJLd0gzdUt5a2FKQks2WUp2T0ltRUNORHVya0ZCS284NS1LU0FYWGR1MGdRZzdFWXJ1OUZULVpJY3dYWkMtRHFNd29YTXpNVEpjMWZVMmZBTUFLU092NA?oc=5",
+      "source": "rts.ch",
+      "language": "fr",
+      "published": "2026-11-24",
+      "verified": false
+    },
     {
       "id": "28feecf57d507483b0",
       "name": "Concours Faites le plein de Sport chez Décathlon 1000$ à Gagner avec Salut Bonjour! - Concours du Jour",
@@ -30,12 +39,48 @@
       "verified": false
     },
     {
+      "id": "beb9294c82ad10aece",
+      "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
+      "source": "Touring Club Schweiz",
+      "language": "fr",
+      "published": "2026-11-21",
+      "verified": false
+    },
+    {
       "id": "9ac700847a02ea76be",
       "name": "Vier junge Pianistinnen aus dem Kosovo gewinnen Preise bei einem internationalen Klavierwettbewerb in Wien - Albinfo",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVRYcTdzOWVBVXJxQnBjM1JfTVpCNVFqTGxyTTJiYzNzQldqS3lXeklsZTNKYl93bmUtU3pMTU9ZcU1FZUxoYWhtYThwcmdmTnlTOHlDcmtrVE1FZlJyVk1EWE92aXJUcnRySlJQQWdiN0RoRE5ZTHlxb292VVZvSXlPbGpxTWRfdDJBZjZIM2FWOExwUDBfZV9yZG1STjhUVGQ2MGVUUDYzd1h3X2MzTHdSQkFzRWM?oc=5",
       "source": "Albinfo",
       "language": "de",
       "published": "2026-11-21",
+      "verified": false
+    },
+    {
+      "id": "6b7bbfdd87caae8bc3",
+      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
+      "source": "Classicagenda",
+      "language": "fr",
+      "published": "2026-11-20",
+      "verified": false
+    },
+    {
+      "id": "2ab9619bf0fc5e9bfa",
+      "name": "Concours Goûts et Terroirs 2026 : gagnez 5 × 2 entrées pour le salon à Bulle ! - Avantages Familles",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVU9Ga3FrZ1p4UFVaQUp4bm1obFQwR09pRGd3VGVrSmREZk5KSExJZFdRUGZCa2t3UEk0QWtmRlgyLWxOdUFYR3Jpd2U0Mm9KRE0zY21Qd1Zvc0tJTmsxNk5nRUxnSGlHQWN1aDlyZ19KUExyd1kwckhIbHZtaVVndkxYWlBaSUFQZHBqaVNGU2xKWlVheDF3a2ptNUUxME12ZjduOFMxWmZPOTRrMFI4SVc5NEM?oc=5",
+      "source": "Avantages Familles",
+      "language": "fr",
+      "published": "2026-11-20",
+      "verified": false
+    },
+    {
+      "id": "36f86a85131fc4656e",
+      "name": "Concours & Shopping - carteb.ch",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16Sk0xak5mdjcweWN2ZVEwMVlFbWpJeU5Kdkd5enVfODRlZ1NzaFUyWUFkRFo3RzFCVEZjOWZHZjdpWXhI?oc=5",
+      "source": "carteb.ch",
+      "language": "fr",
+      "published": "2026-11-20",
       "verified": false
     },
     {
@@ -75,21 +120,21 @@
       "verified": false
     },
     {
-      "id": "607b15504253ab6f20",
-      "name": "Puhiza qualifiziert sich für das grosse Finale des internationalen Klavierwettbewerbs in Wien - Albinfo",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUU12WElkVHh4RG5RRGdtN0pSNG5EV3h4WkRtd1lrMU9OcWZkUGk4RDlPN2hyMS1VUVZjS0tPRWFOVEYtSnhmRC14M0FacEVVS3g4MFNya1EtRk52Vk9xMnZCWWd6QzMyZXJqajZFbDZSaWtNZUw3Tm40ZE1OSUtjRngtclF3aHkyMTl0Wnk0dU1mWDNEeVlra3JFZ2VYZjRLLTBrSUZzX2I2bDQ?oc=5",
-      "source": "Albinfo",
-      "language": "de",
-      "published": "2026-11-20",
-      "verified": false
-    },
-    {
       "id": "8be73622e0a5cdf52b",
       "name": "La BOX COLLECTOR de INDOCHINE, L’ARENA TOUR LE FILM à gagner - TF1+",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZUh2ZzF4SU81WEJBQWNtUGI2ck8wSEVPVEZJWWZJR2RBeUJzM0xqcUo1b0M5SEZFTVd0YzVLYTJsbHRkOE1PR3hFaVFuRjRpX3JVc2hLaXhXVDRZY1JxWjFVbzRYbjRfQklBbFd2YmVBVDdoOE5vN0JuTEJjVHh5b1NuYjlhTjZPRWJHcDZrWTVsb3dJLVg4d3hWbGdEOTVtT1l5cjJTcm5leGtHNlZRZ19ndHZTSlVqRFhJcV90Vm94a1ppdm5Cb1g4WkNuQlROVUFyazlzUkxDUTA?oc=5",
       "source": "TF1+",
       "language": "fr",
       "published": "2026-11-19",
+      "verified": false
+    },
+    {
+      "id": "abe43c5a38069c989d",
+      "name": "Gewinnen Sie zwei VIP-Tickets für das Heimspiel des FCL gegen den FC Lugano - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZMlJYMUN1bmFUMkNNdWVRNFZqcWNPMzA3bm80aUhjTThyRDExVWM5cE5SaE9yYWNac3F3NGJkZVpNUVFLa2xpUlhGOTVfTXQwZzlLbzQzbjBzeUkxal9tV1BHS1AyNlRDLXNHOElWOXlFeDEzSkQ3aw?oc=5",
+      "source": "Luzerner Zeitung",
+      "language": "de",
+      "published": "2026-11-18",
       "verified": false
     },
     {
@@ -120,10 +165,10 @@
       "verified": false
     },
     {
-      "id": "dd54a3b164c3ab08fe",
-      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
-      "source": "Loisirs.ch",
+      "id": "fede797faebf93ee66",
+      "name": "CONCOURS GTA IV - rouge.ch",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbWJ6RHVjQ3g3QkpxdlNPdWpfVlA3SndTNU1ENE0xX05kNDRVZnJOMFBPdTRibzNLV0l0SmZaSlkxVHlnUVlyM0F1Ymp1a0hlT241Rg?oc=5",
+      "source": "rouge.ch",
       "language": "fr",
       "published": "2026-11-16",
       "verified": false
@@ -192,6 +237,24 @@
       "verified": false
     },
     {
+      "id": "89ba1cb896c4c1cc07",
+      "name": "Concours de Genève : Mats Thiersch remporte la direction d'orchestre - rts.ch",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnRxeDMzWG51bmp3M2JPM0t5VU9jRzhGdzhVa1ZyaWZXYzNlak42dkRRSFZoWVQtWjFkUjI1ME52X2NhRXFubnd6elFyYk1BalRZUDZ5SDdHcWJGNjM2VHlERjhlX3poYUc3V2lmUGQ5djRhX1dWRmpTR2dYSVVLNFBCZW1IV3l4Q1ZqN3BiYktxNHUtZDY3RFlyREZEZTZndDF6SWQ1UmhTaDNFQlB5QTJidXhmcEU5bGdnNkNGNWkzOE05Y2NreERPTDNzVFk?oc=5",
+      "source": "rts.ch",
+      "language": "fr",
+      "published": "2026-11-13",
+      "verified": false
+    },
+    {
+      "id": "ba65fc0f77c90fcafd",
+      "name": "80e Concours de Genève – Finale 2 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0VXanVhUUNpLUJtdmdnSVc0RXdkWC1WMmQ2b2NMcXdDLU1Mb3BkQ01kR05UbF9EVlBENG04QzN6WmRBWTFKLTlNcHE5UnI2bFBHQk53M2dVbmpwN1Y1aUFRcnJTaHpDUk1GSkp1ZndtYXU2NTYzZnh5YmNPd2hlSFlHMnJvUmlNTzBUVUM5c0lrVGNpOHNWcG9OUWVtWlozbmZ4VDFIU0E4MFI3elV0NHE2Y1UtSmI0TG5sNEpXd2x3NkVGODZFQ2NUVmlvUQ?oc=5",
+      "source": "Unidivers",
+      "language": "fr",
+      "published": "2026-11-13",
+      "verified": false
+    },
+    {
       "id": "c410e96637b7a5f986",
       "name": "EVZ vs. EHC Kloten: Stehplatz-Tickets zu gewinnen - Urner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LSlFILXhGd2V4OHE2NmRkM0R0bDlhV3hwQTEyRUs2YjNMVU9McGFCREpNZ19YcHNsdEZPMlNTelg1czhudVRmanctTzFZTDNBRFUtNkYtVUVzdHBOQS01ZkxGbkpCbzRROGZBLXo5WUhKemNr?oc=5",
@@ -216,6 +279,33 @@
       "source": "Radio LFM",
       "language": "fr",
       "published": "2026-11-12",
+      "verified": false
+    },
+    {
+      "id": "e965b3a067cbdbcf01",
+      "name": "Concours: Gagner des invitations pour le film « COMMENT BRAQUER UNE BANQUE » - Daily Movies",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQy1zZE45ZUxWS19EaTVkOFBLVzYzQnFiWHFnYVo5YVg0QnYzUDZmbG5kUUVGYVpwS01WOGswa0xSSm1od1pnbjFSUXJ3NXpSRmIweHRsVVVsSWNjUmdDUEphMTd3N2dfc05nLUFHN3VnZ3JXajladlJYbUFQSFFwY3BuOXJ4Q1dST2k2SlA3MkFQV2xCaFJsSlhvMGtQZndf0gGmAUFVX3lxTE40U3VaVWhZOHdZTmlyUlBpWG9WTjdCcGd4Z09MMXNyWG1waDU0SnBhYUhQUjhkbWxLSWNRSmVsMXNKQXRQejVJWXdITThDMmo2cGoyVTdmNTk0S0JncFdZeUR5bFN2b0p5LWU2SW5ndHYzdG5EVWIxS2RmZE1xZ3A3TzJzSHFYa29aekVGZDU1RU93NVE5ODZ5Z2NlR1hmUzlBMzR2UGc?oc=5",
+      "source": "Daily Movies",
+      "language": "fr",
+      "published": "2026-11-11",
+      "verified": false
+    },
+    {
+      "id": "dcd59ffe967bd823c7",
+      "name": "Grand concours de décembre 2026 — CHF 2'000.- de bons à gagner - UCOM Martigny",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yOFJ5aXYzN3NwLWNuWXFDbnhBUGlXODk1RmdrZEYxZEEtSjhLMFhBd2VMbmpiU0NLV2dZT25YMGdGY3pPTTNicDZiQVRSZw?oc=5",
+      "source": "UCOM Martigny",
+      "language": "fr",
+      "published": "2026-11-11",
+      "verified": false
+    },
+    {
+      "id": "40171c4b0d93c1b212",
+      "name": "Jeu-concours Black November - Swiss Bankers",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QQXYyQXVKMGh2aU56S3c2Z1ZjaVU5bFJLLTU2MWZIVHhReE5BWUt2MkV2R2xNZDE0SmhFVngzQXQtTFU3alNTQWxZRjBZR3E4ZERmMGpINnY?oc=5",
+      "source": "Swiss Bankers",
+      "language": "fr",
+      "published": "2026-11-10",
       "verified": false
     },
     {
@@ -252,6 +342,15 @@
       "source": "Architektur Basel",
       "language": "de",
       "published": "2026-11-09",
+      "verified": false
+    },
+    {
+      "id": "7f9c9a3e685b2a1b6c",
+      "name": "Le Black Friday One FM: CHF 2’000.- de cadeaux à gagner! - One FM Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0NrNmtxNXVwdndCQTN0bG50clNJeS1zVTFVZ3RxOEdSTDl2MDYtWFc0QWlvTWI4T0UzYlg2M3hSUHdqbnJGZTZCSWZtOFJTWVBaMVJwVUFXMzA5TjFUOEhob0JMVE5LSWxwVzJXYXJHc3hDRjlUYVBMQkdCbjRLWVE0X3pBLUxyVlE?oc=5",
+      "source": "One FM Actualités",
+      "language": "fr",
+      "published": "2026-11-06",
       "verified": false
     },
     {
