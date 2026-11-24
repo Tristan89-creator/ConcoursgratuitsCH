@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-24T03:06:44+00:00",
+  "updated": "2026-11-24T04:16:52+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
+    {
+      "id": "28feecf57d507483b0",
+      "name": "Concours Faites le plein de Sport chez Décathlon 1000$ à Gagner avec Salut Bonjour! - Concours du Jour",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUl0YnkydnR6Y3h2Z1lQZFcwQWkycjVHMkRTYUJvRlpBNVF5WlpwVW5hVV9pU3RUTUdaNTROYmd2ZTE4bTR0V0JhY0NwVW9JZ1JaZldSNkRxQ2RkaTJrNV9VZGhPV3dEOF9FRWpLbExVX0JFbDQzakRQOHVfSWNLRldwcGtDSW9NX3JPcU5SNktqVmE0ZkVYa1QwcFR1S1EyQUpQMTRqbVRPSkdhRGFqdUg3OA?oc=5",
+      "source": "Concours du Jour",
+      "language": "fr",
+      "published": "2026-11-23",
+      "verified": false
+    },
     {
       "id": "2de85a497ee94f35c4",
       "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. FC Vaduz zu gewinnen! - Thurgauer Zeitung",
@@ -363,15 +372,6 @@
       "verified": false
     },
     {
-      "id": "7d44e5974e1e2afea2",
-      "name": "Concours: «Ebenezer» - OutNow",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VUU1vRHdldi1LNnBnWnVFX2NSZW84bDV3UkpDc0JfZ0hVZ05UWGVrNzQ3Z0I2QWlCZjduNFdIUklNdkpfR1dmRHdUYTJ3ak1pTEs1RS00ek83TVZxUVhr?oc=5",
-      "source": "OutNow",
-      "language": "fr",
-      "published": "2026-11-11",
-      "verified": false
-    },
-    {
       "id": "40171c4b0d93c1b212",
       "name": "Jeu-concours Black November - Swiss Bankers",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QQXYyQXVKMGh2aU56S3c2Z1ZjaVU5bFJLLTU2MWZIVHhReE5BWUt2MkV2R2xNZDE0SmhFVngzQXQtTFU3alNTQWxZRjBZR3E4ZERmMGpINnY?oc=5",
@@ -402,15 +402,6 @@
       "id": "99b78ab9a9d3f65dbf",
       "name": "A Talent for Murder» – Concours - OutNow",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vanBDM1MwN244S2xIMkRMNDBrV0RzdE44WTVWWXJRalIxeUF5Tk5FZzJvSm43R3BrV3FvcUxweVhMOVJ1VDdkSzJrTlp3eWk4X010c3BaakVibDlPVEt5ZTVsdGRQQUF0?oc=5",
-      "source": "OutNow",
-      "language": "fr",
-      "published": "2026-11-09",
-      "verified": false
-    },
-    {
-      "id": "c7679aad0b77080b10",
-      "name": "Concours: «The Legend of Zelda: Ocarina of Time» (Remake) - OutNow",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXNkVTMDREOThvdzlkbFRJLVVjaXJzaGgzMnk0RzM3b3VTSXdibnFlaWY1Y1VITTFGY2xadnhzaVJVSmJuNWs5NlUtUVdFN0tRcThFQnhweFhFc0xXRlVwMGVNM1dOcW5jX1N1RWtCS3FZbkFJUVllZ3BVNA?oc=5",
       "source": "OutNow",
       "language": "fr",
       "published": "2026-11-09",
@@ -534,15 +525,6 @@
       "verified": false
     },
     {
-      "id": "c8f7d0200e880d5920",
-      "name": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16ZGNkcjEwWHJfd1U2cldvZEwyaDIxZnc3dFozUkw2MDluVng2Ym9nT2FrYlo1eFdPQ0ZnMExIcXBJRnI3eFZzSEhiUHI0RlQ4eU9IUXdoWUU3SXlXZGpTRFJhazJxTE1yMTJTY010ZEsxbnowbXRGWnVn0gF_QVVfeXFMUFJGeXl6T05rMTBpd1RmamlaOU5jbWNqeHBRcGVRa1RzOTMxTlFINWotTnQtZUpBNXlEUkhmVDk5WGVjLVJBSkprUzZOVlhqTWtOQm1KanRzZzhUb2J3U1BrLXJPUnE4NFJPc2JlLVYzc1hxVDk1ZFVmZV9CRjZYSQ?oc=5",
-      "source": "Naturschutz.ch",
-      "language": "de",
-      "published": "2026-11-01",
-      "verified": false
-    },
-    {
       "id": "6ccd46b4d40ff9df90",
       "name": "Concours Ovomaltine: 1 des 50 paquets Ovo à gagner - Ovomaltine.ch",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwb2VkcnZVWTBHNkpXend4TjhkbVBkdkEzMkJ5Z3p6cGY4ZWxkd0RTNVVQRWF6YzF1VmwwNkVoUVhkX244Q2xYU3RjQUtGTlE?oc=5",
@@ -567,15 +549,6 @@
       "source": "Montagna.TV",
       "language": "it",
       "published": "2026-10-27",
-      "verified": false
-    },
-    {
-      "id": "6d083e6a438edd0899",
-      "name": "Concours Gottéron - Charmey.ch",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHS0QwMWpUSjhyRmpXZmRKUE5rMkEweFRLMndwTkstYXptUF90MWo4MVNqSnZYTWdfNVAtU3NLb2FWZld6dWhzV2Z0US1HbDU1cGJJ?oc=5",
-      "source": "Charmey.ch",
-      "language": "fr",
-      "published": "2026-10-26",
       "verified": false
     },
     {
