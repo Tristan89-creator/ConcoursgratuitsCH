@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:12:19+00:00",
+  "updated": "2026-11-24T23:10:32+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -39,6 +39,15 @@
       "verified": false
     },
     {
+      "id": "b7b0f0d783a5cf90b9",
+      "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
+      "source": "www.gaultmillau.ch",
+      "language": "fr",
+      "published": "2026-11-22",
+      "verified": false
+    },
+    {
       "id": "59408a80cd5a278f05",
       "name": "Le Bernois Sandro Hauswirth a pris la 10e place du 2e concours de Lillehammer, son premier top-10 en Coupe du monde - rts.ch",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdTgtWXNXM0ZqSWlaMElHejlHUmliQVVXUmIweE5xRG1MQkdMQTBpUzlfQnJvTE1LOUQ0azBkRndYT3VlYUZHa18waEI2dVRKczdfVExuWEJaOGtyb3EtVFg3c3gxWlBxbUdsLVBlLUNWUE5yT1BaVGxEYlYzVHkzV21uTnN4aDNxYTNiNzhIWkdYUUlKTnkyRTdaQUF1ZXhxeW9UbkM1c1M5TUM0WUJjZHFpWXRYZlFMMHc4Z1NMQ1FGR2dRTktuM2sybUJnQTZyQkVXalV0Snd6ckVPeVJfbW1GNk5KMDFySXYxSnNEcUZ2Z3BGMXExTnBR?oc=5",
@@ -72,15 +81,6 @@
       "source": "Albinfo",
       "language": "de",
       "published": "2026-11-21",
-      "verified": false
-    },
-    {
-      "id": "6b7bbfdd87caae8bc3",
-      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
-      "source": "Classicagenda",
-      "language": "fr",
-      "published": "2026-11-20",
       "verified": false
     },
     {
@@ -201,15 +201,6 @@
       "verified": false
     },
     {
-      "id": "3a26765d9c2c6df553",
-      "name": "On t’invite au Montreux Comedy. 10 × 2 billets à gagner. - Socialize Magazine",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KQ1BDT3otdnpCd0ppX2ctNGY0TndIR1E1cExnUWhIQUdtOERCcFBSYmxNeW5LVC0xbF9oSjNVU1FzV1M3ZDFBNGsyc1VYT3YtSzNyQVlLRUpGT25IRm9fSS1fdkg5ZEtZVzFhcw?oc=5",
-      "source": "Socialize Magazine",
-      "language": "fr",
-      "published": "2026-11-17",
-      "verified": false
-    },
-    {
       "id": "bda6dd6adaf912f9c9",
       "name": "Schweizer Genussmomente: Aufenthalt & RAUSCH-Verwöhnpakete gewinnen! - weekend.at",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU091dWhENkdhSmV0eTlrRXJDUU15c1BKcGVVWW10bXRXTW5Ycm1Zb28zUnpyUjc0dTBnYmNfVzdfbE1OQjc4dTAtUmNDbjVfOC1YVF9mRFN0VVJvZU9SUTB4NGtQZEZnMldVdnJraHVFeExfTFZ4U0hB?oc=5",
@@ -228,15 +219,6 @@
       "verified": false
     },
     {
-      "id": "dd54a3b164c3ab08fe",
-      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
-      "source": "Loisirs.ch",
-      "language": "fr",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
       "id": "e4db9a903fd02e856f",
       "name": "Un pack famille pour Bô Noël Lausanne à gagner - Terre&Nature",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnFxZDdqMUN0Ry1ZOUZiaDhlMFBjWE8wRHcxOXQyU3k4eFExcE9Idnc4VURkMTVTSlpQWVhpQTMycVlrS2FQejMyYnY0LWNYQ3U0cnVzV09JREJfOF9zTDZSeUtWRlNFMHBkMUhkb2g1NnFjRjhqVjk4dzh0a1pmOVY5RlktMkVydE04?oc=5",
@@ -250,6 +232,15 @@
       "name": "CONCOURS GTA IV - rouge.ch",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbWJ6RHVjQ3g3QkpxdlNPdWpfVlA3SndTNU1ENE0xX05kNDRVZnJOMFBPdTRibzNLV0l0SmZaSlkxVHlnUVlyM0F1Ymp1a0hlT241Rg?oc=5",
       "source": "rouge.ch",
+      "language": "fr",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
+      "id": "dd54a3b164c3ab08fe",
+      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
+      "source": "Loisirs.ch",
       "language": "fr",
       "published": "2026-11-16",
       "verified": false
@@ -318,15 +309,6 @@
       "verified": false
     },
     {
-      "id": "ba65fc0f77c90fcafd",
-      "name": "80e Concours de Genève – Finale 2 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0VXanVhUUNpLUJtdmdnSVc0RXdkWC1WMmQ2b2NMcXdDLU1Mb3BkQ01kR05UbF9EVlBENG04QzN6WmRBWTFKLTlNcHE5UnI2bFBHQk53M2dVbmpwN1Y1aUFRcnJTaHpDUk1GSkp1ZndtYXU2NTYzZnh5YmNPd2hlSFlHMnJvUmlNTzBUVUM5c0lrVGNpOHNWcG9OUWVtWlozbmZ4VDFIU0E4MFI3elV0NHE2Y1UtSmI0TG5sNEpXd2x3NkVGODZFQ2NUVmlvUQ?oc=5",
-      "source": "Unidivers",
-      "language": "fr",
-      "published": "2026-11-13",
-      "verified": false
-    },
-    {
       "id": "c410e96637b7a5f986",
       "name": "EVZ vs. EHC Kloten: Stehplatz-Tickets zu gewinnen - Urner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LSlFILXhGd2V4OHE2NmRkM0R0bDlhV3hwQTEyRUs2YjNMVU9McGFCREpNZ19YcHNsdEZPMlNTelg1czhudVRmanctTzFZTDNBRFUtNkYtVUVzdHBOQS01ZkxGbkpCbzRROGZBLXo5WUhKemNr?oc=5",
@@ -340,6 +322,15 @@
       "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Zuger Zeitung",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnRNUGx6N25GUFIyeUp4UTB6TmtRdGhnRG5jT0dRT0dhY2VzcTl3cERnejhISWJySUN4YUJuZmpnV0UwNnpGWk9YUl9hMG15RXp1ckdEbmhSZUZPSmZtdjdSdkVKU0VtbTNpQnZFWXZJVjBqM1FVWWR0NDUtTW5mSExRSnY2ckZrOGxKWnhqWDZrbFNwVnRz?oc=5",
       "source": "Zuger Zeitung",
+      "language": "de",
+      "published": "2026-11-13",
+      "verified": false
+    },
+    {
+      "id": "14bbacb7e1356ca1af",
+      "name": "«The Original USA Gospel Singers & Band» in Hochdorf – Tickets zu gewinnen - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUlPQlQzaWF3NDdZUHFmb0NVYlE3OURfeERTZzRfUjRRc3pUTF9IR1hsVzJKVFdXcjhUN1FRcGFWYnE4RlFaMDZGbUMtbWFjZGpld09aTWhFWHQ5QlMtUWRzTkxDcVRXdVZmRGVuR3Rtc01NQWczbG1feEpmWkJMdlNwaHVnaWRWMEoxQVU1SzNEX0ZYTmJ3eWJhQ0h1ZHhTb19HeE1VUjE?oc=5",
+      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-13",
       "verified": false
@@ -385,15 +376,6 @@
       "name": "Tickets fürs Drummeli gewinnen: 5x 2 Tickets für den 30. Januar 2027 - St. Galler Tagblatt",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGZUQXdfSUFvSFdFM1l6N2dNdy1Ga2o4N2N0Z1AwUjJBSENiWTV6c2ZsU1pHNldBVHNsT3RiTzhJd1ZieXFiZHpDQ21YbW9IcTNmdDQzUVkzS1BsNW9uMTBpSzF1SFdFRFBIcjJ0RldSeHFjc0s0U19XX1B6bFdOMkkzRXBvQVExeVp1ZUluNmJjQmpBN2NvOGF6eEJpelJC?oc=5",
       "source": "St. Galler Tagblatt",
-      "language": "de",
-      "published": "2026-11-10",
-      "verified": false
-    },
-    {
-      "id": "993e3997da0a39e0f4",
-      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den HC Sierre - bz Basel",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmRRbU1qd05ZY001bERHWVlTQU5KeVVhTTNrQUEzcElqZWxyOHd5cjNyWHNwMkxrbG9CRmNua3Ixei1kY3B2RndQalVTTTMyWHhid1VZT2FYbzYwcGg0Z3dPYzZCblYwblVTcmFNbkozb3JqUlRIWWpRQ0hKcVdXSUhOOC1CVDJncVY4c05NRk9qdHI2cUFWVWFJdWtRVW84TVA1UG8xaDRHMlYxYWlFUExVLThFbFY4ZlNselhEWUFkWExaWUE?oc=5",
-      "source": "bz Basel",
       "language": "de",
       "published": "2026-11-10",
       "verified": false
@@ -453,12 +435,12 @@
       "verified": false
     },
     {
-      "id": "dac3bbc73056d0dc24",
-      "name": "Jetzt gewinnen: 2 Tickets für das große »Koch des Jahres«-Finale in München - Falstaff",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlYwRENpZjA1ZC1NSXktTlB5c1hmR2xZRjF1cjhrQ0dJUDFMZzczaXJZdElDcXZTbjcxQ1hYaVNETldJX044eUJMSEoxcDlsaDBzY3ZVSnlYZVZZSHdHQWtsUmVXUlNSZUFkRkRnU3B5UGl5WkJkeEFwWlRkQ05PWDkyR1lVVWlxeFJmUnl3LVMtRlRxWGlWTkxhYXFyQmJ3VjB4NHBoVmQyLVow?oc=5",
-      "source": "Falstaff",
-      "language": "de",
-      "published": "2026-11-04",
+      "id": "8879420a742d43d037",
+      "name": "Concours l’Agenda du Mois : Décembre 2026 - www.loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNWpXTG5RVkwzS0NmRVoyYk9vejVnaHZoRmYtMlU4a0I1MnJUQ1E2dWlUUXh4cWd3dW1LeVEtZkp3aTZIT1pnV3NqaXFucld4clBzeWZuYkU1LVctNmpXU1NtSFZTV2M?oc=5",
+      "source": "www.loisirs.ch",
+      "language": "fr",
+      "published": "2026-11-05",
       "verified": false
     },
     {
