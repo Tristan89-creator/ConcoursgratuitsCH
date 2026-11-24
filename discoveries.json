@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:37:28+00:00",
+  "updated": "2026-11-24T15:19:31+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -39,6 +39,15 @@
       "verified": false
     },
     {
+      "id": "59408a80cd5a278f05",
+      "name": "Le Bernois Sandro Hauswirth a pris la 10e place du 2e concours de Lillehammer, son premier top-10 en Coupe du monde - rts.ch",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdTgtWXNXM0ZqSWlaMElHejlHUmliQVVXUmIweE5xRG1MQkdMQTBpUzlfQnJvTE1LOUQ0azBkRndYT3VlYUZHa18waEI2dVRKczdfVExuWEJaOGtyb3EtVFg3c3gxWlBxbUdsLVBlLUNWUE5yT1BaVGxEYlYzVHkzV21uTnN4aDNxYTNiNzhIWkdYUUlKTnkyRTdaQUF1ZXhxeW9UbkM1c1M5TUM0WUJjZHFpWXRYZlFMMHc4Z1NMQ1FGR2dRTktuM2sybUJnQTZyQkVXalV0Snd6ckVPeVJfbW1GNk5KMDFySXYxSnNEcUZ2Z3BGMXExTnBR?oc=5",
+      "source": "rts.ch",
+      "language": "fr",
+      "published": "2026-11-22",
+      "verified": false
+    },
+    {
       "id": "beb9294c82ad10aece",
       "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
@@ -66,19 +75,19 @@
       "verified": false
     },
     {
-      "id": "2ab9619bf0fc5e9bfa",
-      "name": "Concours Goûts et Terroirs 2026 : gagnez 5 × 2 entrées pour le salon à Bulle ! - Avantages Familles",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVU9Ga3FrZ1p4UFVaQUp4bm1obFQwR09pRGd3VGVrSmREZk5KSExJZFdRUGZCa2t3UEk0QWtmRlgyLWxOdUFYR3Jpd2U0Mm9KRE0zY21Qd1Zvc0tJTmsxNk5nRUxnSGlHQWN1aDlyZ19KUExyd1kwckhIbHZtaVVndkxYWlBaSUFQZHBqaVNGU2xKWlVheDF3a2ptNUUxME12ZjduOFMxWmZPOTRrMFI4SVc5NEM?oc=5",
-      "source": "Avantages Familles",
+      "id": "36f86a85131fc4656e",
+      "name": "Concours & Shopping - carteb.ch",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16Sk0xak5mdjcweWN2ZVEwMVlFbWpJeU5Kdkd5enVfODRlZ1NzaFUyWUFkRFo3RzFCVEZjOWZHZjdpWXhI?oc=5",
+      "source": "carteb.ch",
       "language": "fr",
       "published": "2026-11-20",
       "verified": false
     },
     {
-      "id": "36f86a85131fc4656e",
-      "name": "Concours & Shopping - carteb.ch",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16Sk0xak5mdjcweWN2ZVEwMVlFbWpJeU5Kdkd5enVfODRlZ1NzaFUyWUFkRFo3RzFCVEZjOWZHZjdpWXhI?oc=5",
-      "source": "carteb.ch",
+      "id": "4322a888124c060cde",
+      "name": "Un calendrier de l’Avent 100% genevois à gagner sur Radio Lac! - Radio Lac",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3kwTnVTWW5POVE5TkRUZS1iRGZFQ0h0dk5uZHpTeTR4cndtLXNvSm9pSkwweWRpNWhFeTlTN0dlY1RKRWk3ZDNDaGJKN0c1VTZSM202SE95ZWk4cUlPRWFfRTlQa2hYVXhoWUwwS2tjZm1pRkdaOVRoOEdYekNuMFVuaV9QajgwS2dpNldTdUJYcF9xdUZUMg?oc=5",
+      "source": "Radio Lac",
       "language": "fr",
       "published": "2026-11-20",
       "verified": false
@@ -147,6 +156,15 @@
       "verified": false
     },
     {
+      "id": "15d25a170e485af848",
+      "name": "Concours: Défi Cheat Meal par Aligro - Le Matin",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZXFDNnFHTzRLQ25DR2ZrN0dVb1dfQS1acmNOWUZ1LXM5b3Vnc0hDenhuYUFnbWt3VGE3Q2VnN0xlSEJnOHUzeXNFOW52ak5RVGlsdDVxN2JJNlhDc2gxRVhzTjRNOFc4Sm1md1J5REhwZzhnZGd0NHQwc1VsT0E?oc=5",
+      "source": "Le Matin",
+      "language": "fr",
+      "published": "2026-11-17",
+      "verified": false
+    },
+    {
       "id": "bda6dd6adaf912f9c9",
       "name": "Schweizer Genussmomente: Aufenthalt & RAUSCH-Verwöhnpakete gewinnen! - weekend.at",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU091dWhENkdhSmV0eTlrRXJDUU15c1BKcGVVWW10bXRXTW5Ycm1Zb28zUnpyUjc0dTBnYmNfVzdfbE1OQjc4dTAtUmNDbjVfOC1YVF9mRFN0VVJvZU9SUTB4NGtQZEZnMldVdnJraHVFeExfTFZ4U0hB?oc=5",
@@ -169,6 +187,15 @@
       "name": "CONCOURS GTA IV - rouge.ch",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbWJ6RHVjQ3g3QkpxdlNPdWpfVlA3SndTNU1ENE0xX05kNDRVZnJOMFBPdTRibzNLV0l0SmZaSlkxVHlnUVlyM0F1Ymp1a0hlT241Rg?oc=5",
       "source": "rouge.ch",
+      "language": "fr",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
+      "id": "dd54a3b164c3ab08fe",
+      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
+      "source": "Loisirs.ch",
       "language": "fr",
       "published": "2026-11-16",
       "verified": false
@@ -237,6 +264,15 @@
       "verified": false
     },
     {
+      "id": "dae10260506a4d8aec",
+      "name": "Concours et tirages au sort - welovesnow.ch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZUgyOEFxS1N3ZXhtMnpCX1Z1eS0yeF9WWldrS3hZV3E1cGxNeG1lUVBUazhTaGVUZERRRmhGeFVMVlVCQl9vMzZvMDdNQjVRbHFTMnlnYUdIV2h2YUZiU0dLNA?oc=5",
+      "source": "welovesnow.ch",
+      "language": "fr",
+      "published": "2026-11-14",
+      "verified": false
+    },
+    {
       "id": "89ba1cb896c4c1cc07",
       "name": "Concours de Genève : Mats Thiersch remporte la direction d'orchestre - rts.ch",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnRxeDMzWG51bmp3M2JPM0t5VU9jRzhGdzhVa1ZyaWZXYzNlak42dkRRSFZoWVQtWjFkUjI1ME52X2NhRXFubnd6elFyYk1BalRZUDZ5SDdHcWJGNjM2VHlERjhlX3poYUc3V2lmUGQ5djRhX1dWRmpTR2dYSVVLNFBCZW1IV3l4Q1ZqN3BiYktxNHUtZDY3RFlyREZEZTZndDF6SWQ1UmhTaDNFQlB5QTJidXhmcEU5bGdnNkNGNWkzOE05Y2NreERPTDNzVFk?oc=5",
@@ -277,15 +313,6 @@
       "name": "5'000 CHF à gagner avec LFM : et si vous terminiez l'année avec une belle surprise ? - Radio LFM",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGRBUlVwTjRrV3dkLVBjY2JTdHZkZDduejBNbktjQmhjTkZITFo2bkpHNWFlNi1WaERVeUFma0pNbjFFXzRYdWo3eUt2VnpvdHFPV2p1Z3JpajJZN1I3VlZyNkhRZTdBYnlhbHJudURZLWFvRzFnZ1N2SF9FWnNLLTQwMDRhZjBUOVZuVzVWR09RcmZaZEd0Rkl1Q1JESE9zV3UxY1RURjBIVDQ?oc=5",
       "source": "Radio LFM",
-      "language": "fr",
-      "published": "2026-11-12",
-      "verified": false
-    },
-    {
-      "id": "5a6a0b97e1452193f2",
-      "name": "Les concours - Socialize Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91cXR5RlpOdm1URXZzeGtfZ0dxdkpOWGNDVGlZV1FjQzZWWUdzSFBCRXJHNzg0WV9wd3pKT2R2YmVJUzBvbUM0Zm5ZNExwd3di?oc=5",
-      "source": "Socialize Magazine",
       "language": "fr",
       "published": "2026-11-12",
       "verified": false
@@ -381,6 +408,15 @@
       "verified": false
     },
     {
+      "id": "88dd92d6495eabdcff",
+      "name": "Keller Fahnen Jeu-concours - win4win.ch",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWXJ5OWtzRlNsX3MyXzVqVTRRVlBOT3BHOVJCaHM1S1lQQXpQb2lWMXhxSEdkdlVtS3pwQ2xHQ3p1b3FvY0pEcTNTc0pKWE1YSDFiUUpxeTZuS3J2VTFGVk5rV2VIXzhaNmhCMw?oc=5",
+      "source": "win4win.ch",
+      "language": "fr",
+      "published": "2026-11-03",
+      "verified": false
+    },
+    {
       "id": "9f912acd76786336cf",
       "name": "Miles & More Gewinnspiel: 100 × 100.000 Meilen zum Lufthansa-Jubiläum - meilenoptimieren",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZngwSS01bUlOZjEyVFg3SUdLbXhZeDc5Yy1tdjUzbkVLSlM1S0xlakJZQWJ6bUVoQ3p2VHMybzl3bkVBd0otM1J0VlVBdXIzMlFDTGUxWnlBbWFMTVBmdktjVGQzLW5mbldYWk9PdHc1d2pnenpWMVRvd0p3SDhaVDNn?oc=5",
@@ -390,11 +426,11 @@
       "verified": false
     },
     {
-      "id": "c8f7d0200e880d5920",
-      "name": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16ZGNkcjEwWHJfd1U2cldvZEwyaDIxZnc3dFozUkw2MDluVng2Ym9nT2FrYlo1eFdPQ0ZnMExIcXBJRnI3eFZzSEhiUHI0RlQ4eU9IUXdoWUU3SXlXZGpTRFJhazJxTE1yMTJTY010ZEsxbnowbXRGWnVn0gF_QVVfeXFMUFJGeXl6T05rMTBpd1RmamlaOU5jbWNqeHBRcGVRa1RzOTMxTlFINWotTnQtZUpBNXlEUkhmVDk5WGVjLVJBSkprUzZOVlhqTWtOQm1KanRzZzhUb2J3U1BrLXJPUnE4NFJPc2JlLVYzc1hxVDk1ZFVmZV9CRjZYSQ?oc=5",
-      "source": "Naturschutz.ch",
-      "language": "de",
+      "id": "306e360aa85686f598",
+      "name": "Concours La Germaine 123 - infoJU",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tN01iNWFtMEFlSU1YejhfamdNR3B0cEliVlZzMWVlTFJqV1JNR3hlZlktOXBncGZEYjlfbTZnUzNzUnJXLXVYN2VZRjRNbkRxQmx4Ty1tR2dwYV9UY0l5eUQtYS1mekNuVmhDRkExLWlYMGNSZkhn?oc=5",
+      "source": "infoJU",
+      "language": "fr",
       "published": "2026-11-01",
       "verified": false
     },
