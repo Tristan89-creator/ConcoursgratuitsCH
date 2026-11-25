@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-25T22:14:19+00:00",
+  "updated": "2026-11-25T23:12:05+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
-    {
-      "id": "7ba53f7e79289d58bf",
-      "name": "Coupe du monde de ski 2026/2027 : participez au concours RTS - rts.ch",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2RZVDQ1bGFJQ2JVZjZYd3V4bEh3SVdZU1RFVW9IREhaN0JqNnRBUzlILVVYMkI3OFhrQ2QyLWEyOEUzVFVZLUJNRFhCLVdyNlF1WjBBWnp6a1VQRlJLd0gzdUt5a2FKQks2WUp2T0ltRUNORHVya0ZCS284NS1LU0FYWGR1MGdRZzdFWXJ1OUZULVpJY3dYWkMtRHFNd29YTXpNVEpjMWZVMmZBTUFLU092NA?oc=5",
-      "source": "rts.ch",
-      "language": "fr",
-      "published": "2026-11-24",
-      "verified": false
-    },
     {
       "id": "28feecf57d507483b0",
       "name": "Concours Faites le plein de Sport chez Décathlon 1000$ à Gagner avec Salut Bonjour! - Concours du Jour",
@@ -36,6 +27,15 @@
       "source": "St. Galler Tagblatt",
       "language": "de",
       "published": "2026-11-23",
+      "verified": false
+    },
+    {
+      "id": "b7b0f0d783a5cf90b9",
+      "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
+      "source": "www.gaultmillau.ch",
+      "language": "fr",
+      "published": "2026-11-22",
       "verified": false
     },
     {
@@ -66,15 +66,6 @@
       "verified": false
     },
     {
-      "id": "6b7bbfdd87caae8bc3",
-      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
-      "source": "Classicagenda",
-      "language": "fr",
-      "published": "2026-11-20",
-      "verified": false
-    },
-    {
       "id": "e50375708b21e52522",
       "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWdLUDlnZDN4RTRFb2piRktwWEc1R0FEdDhRR0FEM2g5aGxLdHZKbzd1YmJxTHJiMUI5d2tmS0R5dTlzTldRdUNuMmFJRmY5UU4tMEE5SlR0ck02WmlBelAyUDlPdEpmaVREWGc4MWRDOEFhZTZzWmkxNUkyeG1IcWplcmZnZkUwZU9rb2VrWkY1S1RZaEpSZFVhblZtSHlSUmN2SU8tZlhVWXFjcm1LcHdTVzFyQQ?oc=5",
@@ -102,19 +93,19 @@
       "verified": false
     },
     {
-      "id": "73960dbc3f41bf710b",
-      "name": "HCAP vs. SC Rapperswil-Jona Lakers: Sitzplatz-Tickets zu gewinnen - Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LVU90U3UtMFZwTjk3enBKZkNOeHZpS0dyVDZTRDEwenBsLVNKWVJVREdlUlBlNGdjbF9EaHQ2MTBOT0xHbm5NVnZyZU91b0hCZ1A0TmkzZEE5d1VRT29sdF9sdTR4SnpXRlktaTJmN2MwbHM3YzhPYw?oc=5",
-      "source": "Luzerner Zeitung",
+      "id": "50ffe3f488793d01d3",
+      "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LT1J5QzVPNTRWSEo1bWZUaHUySWJGemVfTTQwd0RzMHI3dFVLWWVldUVzVlVZTkZoeGl1Tl9GRldwT0lYWnpEMFUxa2FjeUhmZjRQekZIWGVBVVJuaHZjT2UyZGJDZWJCNVlRYXg1dw?oc=5",
+      "source": "St. Galler Tagblatt",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
     },
     {
-      "id": "50ffe3f488793d01d3",
-      "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LT1J5QzVPNTRWSEo1bWZUaHUySWJGemVfTTQwd0RzMHI3dFVLWWVldUVzVlVZTkZoeGl1Tl9GRldwT0lYWnpEMFUxa2FjeUhmZjRQekZIWGVBVVJuaHZjT2UyZGJDZWJCNVlRYXg1dw?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "73960dbc3f41bf710b",
+      "name": "HCAP vs. SC Rapperswil-Jona Lakers: Sitzplatz-Tickets zu gewinnen - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LVU90U3UtMFZwTjk3enBKZkNOeHZpS0dyVDZTRDEwenBsLVNKWVJVREdlUlBlNGdjbF9EaHQ2MTBOT0xHbm5NVnZyZU91b0hCZ1A0TmkzZEE5d1VRT29sdF9sdTR4SnpXRlktaTJmN2MwbHM3YzhPYw?oc=5",
+      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -219,19 +210,10 @@
       "verified": false
     },
     {
-      "id": "ba65fc0f77c90fcafd",
-      "name": "80e Concours de Genève – Finale 2 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0VXanVhUUNpLUJtdmdnSVc0RXdkWC1WMmQ2b2NMcXdDLU1Mb3BkQ01kR05UbF9EVlBENG04QzN6WmRBWTFKLTlNcHE5UnI2bFBHQk53M2dVbmpwN1Y1aUFRcnJTaHpDUk1GSkp1ZndtYXU2NTYzZnh5YmNPd2hlSFlHMnJvUmlNTzBUVUM5c0lrVGNpOHNWcG9OUWVtWlozbmZ4VDFIU0E4MFI3elV0NHE2Y1UtSmI0TG5sNEpXd2x3NkVGODZFQ2NUVmlvUQ?oc=5",
-      "source": "Unidivers",
-      "language": "fr",
-      "published": "2026-11-13",
-      "verified": false
-    },
-    {
-      "id": "2fcd9e9bb18552c93a",
-      "name": "EVZ vs. EHC Kloten: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGM2RLOC05b1A1TGMyajFsNFlVU3Q1UkNyZUtxYkVSZktmR1ZuaXRLM1hEbE0xaHRLSkVOUThLZm1nZ01tTlMzTDhYRDd5TjQzS1JFRUZjdHFMSWN2bXRjZ2MxU1I0cGw0ZGZrTFUyaw?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "c410e96637b7a5f986",
+      "name": "EVZ vs. EHC Kloten: Stehplatz-Tickets zu gewinnen - Urner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LSlFILXhGd2V4OHE2NmRkM0R0bDlhV3hwQTEyRUs2YjNMVU9McGFCREpNZ19YcHNsdEZPMlNTelg1czhudVRmanctTzFZTDNBRFUtNkYtVUVzdHBOQS01ZkxGbkpCbzRROGZBLXo5WUhKemNr?oc=5",
+      "source": "Urner Zeitung",
       "language": "de",
       "published": "2026-11-13",
       "verified": false
@@ -309,6 +291,15 @@
       "verified": false
     },
     {
+      "id": "8879420a742d43d037",
+      "name": "Concours l’Agenda du Mois : Décembre 2026 - www.loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNWpXTG5RVkwzS0NmRVoyYk9vejVnaHZoRmYtMlU4a0I1MnJUQ1E2dWlUUXh4cWd3dW1LeVEtZkp3aTZIT1pnV3NqaXFucld4clBzeWZuYkU1LVctNmpXU1NtSFZTV2M?oc=5",
+      "source": "www.loisirs.ch",
+      "language": "fr",
+      "published": "2026-11-05",
+      "verified": false
+    },
+    {
       "id": "d112b701e8a817f044",
       "name": "Vinci due biglietti premium, con viaggio e hotel inclusi, per la partita di Champions League Aston Villa-Dortmund - blue News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3EwQ0R3NHZLMkVYN2J5Vk43dHhHSzNhSUZGTDlleUlQUzQ4RElySkFLUVc1UlNJUnhlWmhxU0JzQVBWUzBmX3U2aVg4ZGhqTjBWOWFWZkZzZ1VOX01wTEQ4T20zc21TZ3NiWEpjTG1hM2phRHZtdHFXa3YzZzhwS3U1b1kycnc2VzZrR0hhUlhXblU4OFRSR1hCdmVvQnlQZWpObXZDVGJmNm1ETXRWUVBaWEZOb2dISy1sUlI5bWdxQQ?oc=5",
@@ -327,21 +318,21 @@
       "verified": false
     },
     {
-      "id": "c8f7d0200e880d5920",
-      "name": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16ZGNkcjEwWHJfd1U2cldvZEwyaDIxZnc3dFozUkw2MDluVng2Ym9nT2FrYlo1eFdPQ0ZnMExIcXBJRnI3eFZzSEhiUHI0RlQ4eU9IUXdoWUU3SXlXZGpTRFJhazJxTE1yMTJTY010ZEsxbnowbXRGWnVn0gF_QVVfeXFMUFJGeXl6T05rMTBpd1RmamlaOU5jbWNqeHBRcGVRa1RzOTMxTlFINWotTnQtZUpBNXlEUkhmVDk5WGVjLVJBSkprUzZOVlhqTWtOQm1KanRzZzhUb2J3U1BrLXJPUnE4NFJPc2JlLVYzc1hxVDk1ZFVmZV9CRjZYSQ?oc=5",
-      "source": "Naturschutz.ch",
-      "language": "de",
-      "published": "2026-11-01",
-      "verified": false
-    },
-    {
       "id": "a52bbc04459dbd3d02",
       "name": "Der grosse Wettbewerb zur «SRF bi de Lüt – Landfrauenküche» 2026 - BauernZeitung",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUtPUmFiNEJhM1F5UlFQWDVzaDVkWlVndnJMaFFPYzBXb3pzcXBuR09XcnlxYUJCNXhxVDlXQWZJdmdkbkw4YnIzbC0ya1JhSHR3RVc3SldnZV9lYTdULXlONUpncFhrNkxtSHV5bVRydzNhUXM3VzVKdzFGY1Q4Y2Q4WQ?oc=5",
       "source": "BauernZeitung",
       "language": "de",
       "published": "2026-10-30",
+      "verified": false
+    },
+    {
+      "id": "1cd81cbe74aeb6052f",
+      "name": "Herbst-Wettbewerb-Umfrage 2026 – N° 3 - freizeit.ch",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yamxfQk9NdzIxeFdTYmR4MjJHejh2V2hHLVJCY2xHWlhHV2h2eFNzdl9jMHJnUXl6WEhPM1pydGIxeFJJVlJ6ejRmTUY4RFlndldmdjBMMXFxTFprc0VxeGhYLVljcU1WZ3JwelBBYllqdF8wN0ZpS1Z3?oc=5",
+      "source": "freizeit.ch",
+      "language": "de",
+      "published": "2026-10-28",
       "verified": false
     },
     {
