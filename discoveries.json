@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:25:06+00:00",
+  "updated": "2026-11-25T17:59:23+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -39,12 +39,12 @@
       "verified": false
     },
     {
-      "id": "beb9294c82ad10aece",
-      "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
-      "source": "Touring Club Schweiz",
+      "id": "b7b0f0d783a5cf90b9",
+      "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
+      "source": "www.gaultmillau.ch",
       "language": "fr",
-      "published": "2026-11-21",
+      "published": "2026-11-22",
       "verified": false
     },
     {
@@ -63,15 +63,6 @@
       "source": "Albinfo",
       "language": "de",
       "published": "2026-11-21",
-      "verified": false
-    },
-    {
-      "id": "6b7bbfdd87caae8bc3",
-      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
-      "source": "Classicagenda",
-      "language": "fr",
-      "published": "2026-11-20",
       "verified": false
     },
     {
@@ -156,30 +147,12 @@
       "verified": false
     },
     {
-      "id": "15d25a170e485af848",
-      "name": "Concours: Défi Cheat Meal par Aligro - Le Matin",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZXFDNnFHTzRLQ25DR2ZrN0dVb1dfQS1acmNOWUZ1LXM5b3Vnc0hDenhuYUFnbWt3VGE3Q2VnN0xlSEJnOHUzeXNFOW52ak5RVGlsdDVxN2JJNlhDc2gxRVhzTjRNOFc4Sm1md1J5REhwZzhnZGd0NHQwc1VsT0E?oc=5",
-      "source": "Le Matin",
-      "language": "fr",
-      "published": "2026-11-17",
-      "verified": false
-    },
-    {
       "id": "bda6dd6adaf912f9c9",
       "name": "Schweizer Genussmomente: Aufenthalt & RAUSCH-Verwöhnpakete gewinnen! - weekend.at",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU091dWhENkdhSmV0eTlrRXJDUU15c1BKcGVVWW10bXRXTW5Ycm1Zb28zUnpyUjc0dTBnYmNfVzdfbE1OQjc4dTAtUmNDbjVfOC1YVF9mRFN0VVJvZU9SUTB4NGtQZEZnMldVdnJraHVFeExfTFZ4U0hB?oc=5",
       "source": "weekend.at",
       "language": "de",
       "published": "2026-11-17",
-      "verified": false
-    },
-    {
-      "id": "f7157b06c643acc9b1",
-      "name": "Gewinnen Sie Tickets für das Heimspiel des EHC Olten gegen den EHC Basel - Grenchner Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3B5THF1XzZEVnNOMm5lc05ZS3pQZV90Rk9xQUdLdjdNeHNMN0RkVG4zTXFSRzJDMDV6Q29EOFJJWDgzdkpCWkNTZzMwSWpXWnBqTDQtTHliSk0zRHBkckl5Ymo4RUJoWjMyWnpaTEc2Z3ZacWd5MHdFUWU5bnc3X0dPc05sNXNBclZidlVETHl4cjB1bHAwZEUzNGtKNW5qc3ItZWxKMXpuU1RlM2pqcE1qWHBKWlBmQVZ5UHdkMmprS1BNajJKdEJNSmhvMVBQaVkw?oc=5",
-      "source": "Grenchner Tagblatt",
-      "language": "de",
-      "published": "2026-11-16",
       "verified": false
     },
     {
@@ -196,15 +169,6 @@
       "name": "Gewinnen Sie den offiziellen Schwingerkalender 2027 - BauernZeitung",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lTTZvM1JqUllJSnVMWjdYb09heHZ0TThKdWJGWXQ1cDdockVOa1pvNnk1dUczWS1uOTdxb1ctaGlZVW4xR3BKNzNIRlFobW9pQmdRWWJJTng1cVg0OVQ0SG5lT3o4Um43ZG9TdmhwZ0Jrd3IxLV9qUg?oc=5",
       "source": "BauernZeitung",
-      "language": "de",
-      "published": "2026-11-16",
-      "verified": false
-    },
-    {
-      "id": "cb17d31e9f0c540f60",
-      "name": "2 Tickets für die Silvesterparty im Gaswerk Seewen zu gewinnen! - www.bote.ch",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXUxd2JaRzFDcXRnRTc2Qzlsb2FXVm8wZUdrQUlqTjRoUEhJUFJlOXY0V29sZnRmdTd5SWVQSU05aktjaTVnVWxlWS1IRXRnSWtqMWIwbmd1NXE1UVJ0TkdOVWQ3dUFDc3RLZzlWeldmVG05WkVCMk1CamYzVE5BQVpJRlFOX1BCdkRJcVZMUS1oSldiMm12Uk1mYmJBU3h4UW85MkRYRXZfaUVCUHVoUGVIeTE5c01rMTVyNWpmQ1pFQVBsekRwMzlJbDdFQ0FpUmFNY1JhRkw?oc=5",
-      "source": "www.bote.ch",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -241,15 +205,6 @@
       "name": "Concours de Genève : Mats Thiersch remporte la direction d'orchestre - rts.ch",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnRxeDMzWG51bmp3M2JPM0t5VU9jRzhGdzhVa1ZyaWZXYzNlak42dkRRSFZoWVQtWjFkUjI1ME52X2NhRXFubnd6elFyYk1BalRZUDZ5SDdHcWJGNjM2VHlERjhlX3poYUc3V2lmUGQ5djRhX1dWRmpTR2dYSVVLNFBCZW1IV3l4Q1ZqN3BiYktxNHUtZDY3RFlyREZEZTZndDF6SWQ1UmhTaDNFQlB5QTJidXhmcEU5bGdnNkNGNWkzOE05Y2NreERPTDNzVFk?oc=5",
       "source": "rts.ch",
-      "language": "fr",
-      "published": "2026-11-13",
-      "verified": false
-    },
-    {
-      "id": "ba65fc0f77c90fcafd",
-      "name": "80e Concours de Genève – Finale 2 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0VXanVhUUNpLUJtdmdnSVc0RXdkWC1WMmQ2b2NMcXdDLU1Mb3BkQ01kR05UbF9EVlBENG04QzN6WmRBWTFKLTlNcHE5UnI2bFBHQk53M2dVbmpwN1Y1aUFRcnJTaHpDUk1GSkp1ZndtYXU2NTYzZnh5YmNPd2hlSFlHMnJvUmlNTzBUVUM5c0lrVGNpOHNWcG9OUWVtWlozbmZ4VDFIU0E4MFI3elV0NHE2Y1UtSmI0TG5sNEpXd2x3NkVGODZFQ2NUVmlvUQ?oc=5",
-      "source": "Unidivers",
       "language": "fr",
       "published": "2026-11-13",
       "verified": false
@@ -331,6 +286,15 @@
       "name": "Vos places pour FOREVER - THE BEST SHOW ABOUT THE KING OF POP à gagner - TF1+",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONVRUamlSSEx5aExtWGV4SkdPVXNZc1pNSUl5c0xTUHBpV3Z2WlB6SDIxbjFsRmRPOXE0R0pzOTZvTDUyNUlXckt4aUR3ZXBOeWRnMmR0ZG5pZ3RXekdtZWdlYUdJNVhPMzNyLWI4ei1MM3FZcVV1ejl5WWpKZW02S01pVnQ3cXBydHhNMGFOck1RU0dtbnQyVERPU3A0OFQwMjlhYWFranlSNV9aclFrVUdXamNrQTFWdUJaRTRPOHpDMDNDYUtnbUZRY1dBUU9zWFlfS0RPZkk2UzdybWVVazQxMXZLWHhN?oc=5",
       "source": "TF1+",
+      "language": "fr",
+      "published": "2026-11-05",
+      "verified": false
+    },
+    {
+      "id": "8879420a742d43d037",
+      "name": "Concours l’Agenda du Mois : Décembre 2026 - www.loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNWpXTG5RVkwzS0NmRVoyYk9vejVnaHZoRmYtMlU4a0I1MnJUQ1E2dWlUUXh4cWd3dW1LeVEtZkp3aTZIT1pnV3NqaXFucld4clBzeWZuYkU1LVctNmpXU1NtSFZTV2M?oc=5",
+      "source": "www.loisirs.ch",
       "language": "fr",
       "published": "2026-11-05",
       "verified": false
