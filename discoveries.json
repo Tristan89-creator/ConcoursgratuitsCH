@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:59:23+00:00",
+  "updated": "2026-11-25T20:11:07+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -142,6 +142,15 @@
       "name": "Jeu King Jouet KPop Demon Hunters : 11 box de cadeaux à gagner - EchantillonsClub.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0pKVlJ0TTVQWEZTNW1TUnBTSktsaG9RMDFDZW1Xa3dnSTE2YUQ3dTRYTzFmLWNPc0VNVERtanVabTlCR243WmR3N25LbHpSdkVEYXhseV8zVGpEek9NNllLcGI0Zzc3ZFhNc3pSZFFpcXV4SnBBLXltdHExLVhEeUx5UzJUdjhzWUVaUGplWWFralRzMXN4WWU3LTlNcVpldzlHQW1fTG4?oc=5",
       "source": "EchantillonsClub.com",
+      "language": "fr",
+      "published": "2026-11-17",
+      "verified": false
+    },
+    {
+      "id": "15d25a170e485af848",
+      "name": "Concours: Défi Cheat Meal par Aligro - Le Matin",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZXFDNnFHTzRLQ25DR2ZrN0dVb1dfQS1acmNOWUZ1LXM5b3Vnc0hDenhuYUFnbWt3VGE3Q2VnN0xlSEJnOHUzeXNFOW52ak5RVGlsdDVxN2JJNlhDc2gxRVhzTjRNOFc4Sm1md1J5REhwZzhnZGd0NHQwc1VsT0E?oc=5",
+      "source": "Le Matin",
       "language": "fr",
       "published": "2026-11-17",
       "verified": false
@@ -300,15 +309,6 @@
       "verified": false
     },
     {
-      "id": "d112b701e8a817f044",
-      "name": "Vinci due biglietti premium, con viaggio e hotel inclusi, per la partita di Champions League Aston Villa-Dortmund - blue News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3EwQ0R3NHZLMkVYN2J5Vk43dHhHSzNhSUZGTDlleUlQUzQ4RElySkFLUVc1UlNJUnhlWmhxU0JzQVBWUzBmX3U2aVg4ZGhqTjBWOWFWZkZzZ1VOX01wTEQ4T20zc21TZ3NiWEpjTG1hM2phRHZtdHFXa3YzZzhwS3U1b1kycnc2VzZrR0hhUlhXblU4OFRSR1hCdmVvQnlQZWpObXZDVGJmNm1ETXRWUVBaWEZOb2dISy1sUlI5bWdxQQ?oc=5",
-      "source": "blue News",
-      "language": "it",
-      "published": "2026-11-04",
-      "verified": false
-    },
-    {
       "id": "9f912acd76786336cf",
       "name": "Miles & More Gewinnspiel: 100 × 100.000 Meilen zum Lufthansa-Jubiläum - meilenoptimieren",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZngwSS01bUlOZjEyVFg3SUdLbXhZeDc5Yy1tdjUzbkVLSlM1S0xlakJZQWJ6bUVoQ3p2VHMybzl3bkVBd0otM1J0VlVBdXIzMlFDTGUxWnlBbWFMTVBmdktjVGQzLW5mbldYWk9PdHc1d2pnenpWMVRvd0p3SDhaVDNn?oc=5",
@@ -333,15 +333,6 @@
       "source": "freizeit.ch",
       "language": "de",
       "published": "2026-10-28",
-      "verified": false
-    },
-    {
-      "id": "89305ed1805976b513",
-      "name": "Concorso Karpos: dimostraci che usi i tuoi capi - Montagna.TV",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWNVTmhyVkttRURMRGJPcGFyZjJ2Qnp5NEdFdmVkQUI4WS1XbFNER24xT3AzVUR0bTUxZXhBTGtNekRoRXpZajk4cXl1eVBSZjgzSUFCaktsaGhfMzViYlZKTndya0Y4UlozTTlTZXl0VENmYzVIVlFSRXNZY3VLb1Ftako?oc=5",
-      "source": "Montagna.TV",
-      "language": "it",
-      "published": "2026-10-27",
       "verified": false
     }
   ]
