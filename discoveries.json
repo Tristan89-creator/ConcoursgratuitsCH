@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:21:33+00:00",
+  "updated": "2026-11-25T14:32:37+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -39,6 +39,15 @@
       "verified": false
     },
     {
+      "id": "b7b0f0d783a5cf90b9",
+      "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
+      "source": "www.gaultmillau.ch",
+      "language": "fr",
+      "published": "2026-11-22",
+      "verified": false
+    },
+    {
       "id": "beb9294c82ad10aece",
       "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
@@ -66,28 +75,19 @@
       "verified": false
     },
     {
-      "id": "6b7bbfdd87caae8bc3",
-      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
-      "source": "Classicagenda",
-      "language": "fr",
-      "published": "2026-11-20",
-      "verified": false
-    },
-    {
-      "id": "5b4bfc0b2b12c42c6b",
-      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2VUamNqb0RsY3lYeXZhSDA3bG53VEtMTWs4c2taNnZhakxYVWdwTmNHbDdKQkVtdXJRVWtQendRdzQ4OUl6VXNtRXRxbnA0YXc5LWp2ZkdjcWtXaWVVYXFvWXVMbDl3Yk5abHRLRHI5OGFFUHZ0cDdHYzhYbnlFT2oyUzV5d0RUVHNVZ2RkWHVfRDFYc2UyU1JaVldhQ1VjOWtKUnFyX3hRMkZv?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "cbb33da12274905d0c",
+      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Urner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW5LLUdJdFpsZm1UNjFOS1IxR29KbGJOWWsydHlzTFlVTHdrbmRJWG9SdS1qeXp5VVVUY1NwQWxuVzVFZ1lxZUJ1TjJsZElRaUI1RVJoR2xUMXRVeF8xd2hkaWRxY2tPTk0zRUhzWl9Ndy01d25rRjFMMkFEa1U2TjZoMXp1NWlRSE9Gc0w2OWpmOXNxSEJv?oc=5",
+      "source": "Urner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
     },
     {
-      "id": "cbb33da12274905d0c",
-      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Urner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW5LLUdJdFpsZm1UNjFOS1IxR29KbGJOWWsydHlzTFlVTHdrbmRJWG9SdS1qeXp5VVVUY1NwQWxuVzVFZ1lxZUJ1TjJsZElRaUI1RVJoR2xUMXRVeF8xd2hkaWRxY2tPTk0zRUhzWl9Ndy01d25rRjFMMkFEa1U2TjZoMXp1NWlRSE9Gc0w2OWpmOXNxSEJv?oc=5",
-      "source": "Urner Zeitung",
+      "id": "e50375708b21e52522",
+      "name": "EVZ vs. HC Davos: Stehplatz-Tickets zu gewinnen - Luzerner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWdLUDlnZDN4RTRFb2piRktwWEc1R0FEdDhRR0FEM2g5aGxLdHZKbzd1YmJxTHJiMUI5d2tmS0R5dTlzTldRdUNuMmFJRmY5UU4tMEE5SlR0ck02WmlBelAyUDlPdEpmaVREWGc4MWRDOEFhZTZzWmkxNUkyeG1IcWplcmZnZkUwZU9rb2VrWkY1S1RZaEpSZFVhblZtSHlSUmN2SU8tZlhVWXFjcm1LcHdTVzFyQQ?oc=5",
+      "source": "Luzerner Zeitung",
       "language": "de",
       "published": "2026-11-20",
       "verified": false
@@ -147,12 +147,39 @@
       "verified": false
     },
     {
+      "id": "15d25a170e485af848",
+      "name": "Concours: Défi Cheat Meal par Aligro - Le Matin",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZXFDNnFHTzRLQ25DR2ZrN0dVb1dfQS1acmNOWUZ1LXM5b3Vnc0hDenhuYUFnbWt3VGE3Q2VnN0xlSEJnOHUzeXNFOW52ak5RVGlsdDVxN2JJNlhDc2gxRVhzTjRNOFc4Sm1md1J5REhwZzhnZGd0NHQwc1VsT0E?oc=5",
+      "source": "Le Matin",
+      "language": "fr",
+      "published": "2026-11-17",
+      "verified": false
+    },
+    {
       "id": "bda6dd6adaf912f9c9",
       "name": "Schweizer Genussmomente: Aufenthalt & RAUSCH-Verwöhnpakete gewinnen! - weekend.at",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU091dWhENkdhSmV0eTlrRXJDUU15c1BKcGVVWW10bXRXTW5Ycm1Zb28zUnpyUjc0dTBnYmNfVzdfbE1OQjc4dTAtUmNDbjVfOC1YVF9mRFN0VVJvZU9SUTB4NGtQZEZnMldVdnJraHVFeExfTFZ4U0hB?oc=5",
       "source": "weekend.at",
       "language": "de",
       "published": "2026-11-17",
+      "verified": false
+    },
+    {
+      "id": "dd54a3b164c3ab08fe",
+      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
+      "source": "Loisirs.ch",
+      "language": "fr",
+      "published": "2026-11-16",
+      "verified": false
+    },
+    {
+      "id": "36f86a85131fc4656e",
+      "name": "Concours & Shopping - carteb.ch",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16Sk0xak5mdjcweWN2ZVEwMVlFbWpJeU5Kdkd5enVfODRlZ1NzaFUyWUFkRFo3RzFCVEZjOWZHZjdpWXhI?oc=5",
+      "source": "carteb.ch",
+      "language": "fr",
+      "published": "2026-11-16",
       "verified": false
     },
     {
@@ -183,12 +210,12 @@
       "verified": false
     },
     {
-      "id": "cb17d31e9f0c540f60",
-      "name": "2 Tickets für die Silvesterparty im Gaswerk Seewen zu gewinnen! - www.bote.ch",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXUxd2JaRzFDcXRnRTc2Qzlsb2FXVm8wZUdrQUlqTjRoUEhJUFJlOXY0V29sZnRmdTd5SWVQSU05aktjaTVnVWxlWS1IRXRnSWtqMWIwbmd1NXE1UVJ0TkdOVWQ3dUFDc3RLZzlWeldmVG05WkVCMk1CamYzVE5BQVpJRlFOX1BCdkRJcVZMUS1oSldiMm12Uk1mYmJBU3h4UW85MkRYRXZfaUVCUHVoUGVIeTE5c01rMTVyNWpmQ1pFQVBsekRwMzlJbDdFQ0FpUmFNY1JhRkw?oc=5",
-      "source": "www.bote.ch",
+      "id": "ee6597dd1b55e5f953",
+      "name": "Lufthansa: Eine Million PartnerPlusBenefit-Punkte zu gewinnen - reisetopia.ch",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSFBpa3hfUjNXNENDRzNOYTRtVUJ2blVwakRVeXIwemRXSEctQWI2c29MZEcxTDVraXdJMzQwalRzTG9BaUUxeWpJQ2lrS2pxcjI0MmlBLUNYdHNTQm5lMlh2QUZ4SnZ0TkQ0SjczZnl3YjBWb3hia0hPSm44bjByX25n?oc=5",
+      "source": "reisetopia.ch",
       "language": "de",
-      "published": "2026-11-16",
+      "published": "2026-11-15",
       "verified": false
     },
     {
@@ -219,15 +246,6 @@
       "verified": false
     },
     {
-      "id": "ba65fc0f77c90fcafd",
-      "name": "80e Concours de Genève – Finale 2 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0VXanVhUUNpLUJtdmdnSVc0RXdkWC1WMmQ2b2NMcXdDLU1Mb3BkQ01kR05UbF9EVlBENG04QzN6WmRBWTFKLTlNcHE5UnI2bFBHQk53M2dVbmpwN1Y1aUFRcnJTaHpDUk1GSkp1ZndtYXU2NTYzZnh5YmNPd2hlSFlHMnJvUmlNTzBUVUM5c0lrVGNpOHNWcG9OUWVtWlozbmZ4VDFIU0E4MFI3elV0NHE2Y1UtSmI0TG5sNEpXd2x3NkVGODZFQ2NUVmlvUQ?oc=5",
-      "source": "Unidivers",
-      "language": "fr",
-      "published": "2026-11-13",
-      "verified": false
-    },
-    {
       "id": "c410e96637b7a5f986",
       "name": "EVZ vs. EHC Kloten: Stehplatz-Tickets zu gewinnen - Urner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LSlFILXhGd2V4OHE2NmRkM0R0bDlhV3hwQTEyRUs2YjNMVU9McGFCREpNZ19YcHNsdEZPMlNTelg1czhudVRmanctTzFZTDNBRFUtNkYtVUVzdHBOQS01ZkxGbkpCbzRROGZBLXo5WUhKemNr?oc=5",
@@ -252,6 +270,24 @@
       "source": "Radio LFM",
       "language": "fr",
       "published": "2026-11-12",
+      "verified": false
+    },
+    {
+      "id": "e965b3a067cbdbcf01",
+      "name": "Concours: Gagner des invitations pour le film « COMMENT BRAQUER UNE BANQUE » - Daily Movies",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQy1zZE45ZUxWS19EaTVkOFBLVzYzQnFiWHFnYVo5YVg0QnYzUDZmbG5kUUVGYVpwS01WOGswa0xSSm1od1pnbjFSUXJ3NXpSRmIweHRsVVVsSWNjUmdDUEphMTd3N2dfc05nLUFHN3VnZ3JXajladlJYbUFQSFFwY3BuOXJ4Q1dST2k2SlA3MkFQV2xCaFJsSlhvMGtQZndf0gGmAUFVX3lxTE40U3VaVWhZOHdZTmlyUlBpWG9WTjdCcGd4Z09MMXNyWG1waDU0SnBhYUhQUjhkbWxLSWNRSmVsMXNKQXRQejVJWXdITThDMmo2cGoyVTdmNTk0S0JncFdZeUR5bFN2b0p5LWU2SW5ndHYzdG5EVWIxS2RmZE1xZ3A3TzJzSHFYa29aekVGZDU1RU93NVE5ODZ5Z2NlR1hmUzlBMzR2UGc?oc=5",
+      "source": "Daily Movies",
+      "language": "fr",
+      "published": "2026-11-11",
+      "verified": false
+    },
+    {
+      "id": "dcd59ffe967bd823c7",
+      "name": "Grand concours de décembre 2026 — CHF 2'000.- de bons à gagner - UCOM Martigny",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yOFJ5aXYzN3NwLWNuWXFDbnhBUGlXODk1RmdrZEYxZEEtSjhLMFhBd2VMbmpiU0NLV2dZT25YMGdGY3pPTTNicDZiQVRSZw?oc=5",
+      "source": "UCOM Martigny",
+      "language": "fr",
+      "published": "2026-11-11",
       "verified": false
     },
     {
@@ -291,6 +327,15 @@
       "verified": false
     },
     {
+      "id": "7f9c9a3e685b2a1b6c",
+      "name": "Le Black Friday One FM: CHF 2’000.- de cadeaux à gagner! - One FM Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0NrNmtxNXVwdndCQTN0bG50clNJeS1zVTFVZ3RxOEdSTDl2MDYtWFc0QWlvTWI4T0UzYlg2M3hSUHdqbnJGZTZCSWZtOFJTWVBaMVJwVUFXMzA5TjFUOEhob0JMVE5LSWxwVzJXYXJHc3hDRjlUYVBMQkdCbjRLWVE0X3pBLUxyVlE?oc=5",
+      "source": "One FM Actualités",
+      "language": "fr",
+      "published": "2026-11-06",
+      "verified": false
+    },
+    {
       "id": "3ada5382f80a6926a2",
       "name": "EVZ vs. HC Ajoie: Stehplatz-Tickets zu gewinnen - Appenzeller Zeitung",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0s0anhCaUNEbUE5ZUx3Vlo4dmREVS1ZZkRNR0hLVlhxdS1FbUFiQ0hXbzVmQjFuOW1HaXZXemNwQ1hxUFNJdV9GTG1VU0dxOGZWcHdvLWZLemZpZ3BsVGliWlRWd2xOQ1I1dzFaRldRdU1RaW1rbnBjdU5kcWdheVZxWjFVcmhMVW1VQmN0ZFpadTUyaVlOQkpKZW1IN2ZlcnI2SjR1WDVzSEVWWnhsWWZUNm5jYkI1?oc=5",
@@ -304,6 +349,15 @@
       "name": "Vos places pour FOREVER - THE BEST SHOW ABOUT THE KING OF POP à gagner - TF1+",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONVRUamlSSEx5aExtWGV4SkdPVXNZc1pNSUl5c0xTUHBpV3Z2WlB6SDIxbjFsRmRPOXE0R0pzOTZvTDUyNUlXckt4aUR3ZXBOeWRnMmR0ZG5pZ3RXekdtZWdlYUdJNVhPMzNyLWI4ei1MM3FZcVV1ejl5WWpKZW02S01pVnQ3cXBydHhNMGFOck1RU0dtbnQyVERPU3A0OFQwMjlhYWFranlSNV9aclFrVUdXamNrQTFWdUJaRTRPOHpDMDNDYUtnbUZRY1dBUU9zWFlfS0RPZkk2UzdybWVVazQxMXZLWHhN?oc=5",
       "source": "TF1+",
+      "language": "fr",
+      "published": "2026-11-05",
+      "verified": false
+    },
+    {
+      "id": "8879420a742d43d037",
+      "name": "Concours l’Agenda du Mois : Décembre 2026 - www.loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNWpXTG5RVkwzS0NmRVoyYk9vejVnaHZoRmYtMlU4a0I1MnJUQ1E2dWlUUXh4cWd3dW1LeVEtZkp3aTZIT1pnV3NqaXFucld4clBzeWZuYkU1LVctNmpXU1NtSFZTV2M?oc=5",
+      "source": "www.loisirs.ch",
       "language": "fr",
       "published": "2026-11-05",
       "verified": false
