@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:12:31+00:00",
+  "updated": "2026-11-26T04:22:04+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -57,6 +57,15 @@
       "verified": false
     },
     {
+      "id": "b7b0f0d783a5cf90b9",
+      "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
+      "source": "www.gaultmillau.ch",
+      "language": "fr",
+      "published": "2026-11-22",
+      "verified": false
+    },
+    {
       "id": "beb9294c82ad10aece",
       "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
@@ -90,15 +99,6 @@
       "source": "Albinfo",
       "language": "de",
       "published": "2026-11-21",
-      "verified": false
-    },
-    {
-      "id": "6b7bbfdd87caae8bc3",
-      "name": "Au Concours de Genève, Unsuk Chin porte un regard sur les nouvelles générations - Classicagenda",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3ZlUi1tOW9vMldxb3loaDVpY29SZ3JKUVFMLUwyb04td05RY00wMEFiakdlaEZScG42bVNYRjQ1aVpfYS1VMHNadnBZNHdIbi1HNDdJSm45V2o5eVdnY2I4ZlFtaDdSSGY4bDJGcEpKd2RHMmk3bDlGTFF0YXk0SnlpSzdnZDR1c0ZhZS1OdkpWMXltOGNzU3dnTXUycVFhX1FTUGhCYw?oc=5",
-      "source": "Classicagenda",
-      "language": "fr",
-      "published": "2026-11-20",
       "verified": false
     },
     {
@@ -273,15 +273,6 @@
       "verified": false
     },
     {
-      "id": "ba65fc0f77c90fcafd",
-      "name": "80e Concours de Genève – Finale 2 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0VXanVhUUNpLUJtdmdnSVc0RXdkWC1WMmQ2b2NMcXdDLU1Mb3BkQ01kR05UbF9EVlBENG04QzN6WmRBWTFKLTlNcHE5UnI2bFBHQk53M2dVbmpwN1Y1aUFRcnJTaHpDUk1GSkp1ZndtYXU2NTYzZnh5YmNPd2hlSFlHMnJvUmlNTzBUVUM5c0lrVGNpOHNWcG9OUWVtWlozbmZ4VDFIU0E4MFI3elV0NHE2Y1UtSmI0TG5sNEpXd2x3NkVGODZFQ2NUVmlvUQ?oc=5",
-      "source": "Unidivers",
-      "language": "fr",
-      "published": "2026-11-13",
-      "verified": false
-    },
-    {
       "id": "c410e96637b7a5f986",
       "name": "EVZ vs. EHC Kloten: Stehplatz-Tickets zu gewinnen - Urner Zeitung",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LSlFILXhGd2V4OHE2NmRkM0R0bDlhV3hwQTEyRUs2YjNMVU9McGFCREpNZ19YcHNsdEZPMlNTelg1czhudVRmanctTzFZTDNBRFUtNkYtVUVzdHBOQS01ZkxGbkpCbzRROGZBLXo5WUhKemNr?oc=5",
@@ -376,6 +367,15 @@
       "name": "Vos places pour FOREVER - THE BEST SHOW ABOUT THE KING OF POP à gagner - TF1+",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONVRUamlSSEx5aExtWGV4SkdPVXNZc1pNSUl5c0xTUHBpV3Z2WlB6SDIxbjFsRmRPOXE0R0pzOTZvTDUyNUlXckt4aUR3ZXBOeWRnMmR0ZG5pZ3RXekdtZWdlYUdJNVhPMzNyLWI4ei1MM3FZcVV1ejl5WWpKZW02S01pVnQ3cXBydHhNMGFOck1RU0dtbnQyVERPU3A0OFQwMjlhYWFranlSNV9aclFrVUdXamNrQTFWdUJaRTRPOHpDMDNDYUtnbUZRY1dBUU9zWFlfS0RPZkk2UzdybWVVazQxMXZLWHhN?oc=5",
       "source": "TF1+",
+      "language": "fr",
+      "published": "2026-11-05",
+      "verified": false
+    },
+    {
+      "id": "8879420a742d43d037",
+      "name": "Concours l’Agenda du Mois : Décembre 2026 - www.loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNWpXTG5RVkwzS0NmRVoyYk9vejVnaHZoRmYtMlU4a0I1MnJUQ1E2dWlUUXh4cWd3dW1LeVEtZkp3aTZIT1pnV3NqaXFucld4clBzeWZuYkU1LVctNmpXU1NtSFZTV2M?oc=5",
+      "source": "www.loisirs.ch",
       "language": "fr",
       "published": "2026-11-05",
       "verified": false
