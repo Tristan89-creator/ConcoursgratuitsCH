@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-26T04:22:04+00:00",
+  "updated": "2026-11-26T07:41:40+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
+    {
+      "id": "7010820fd04c577f68",
+      "name": "Jetzt Tickets für MUSIKTHEATER Wil gewinnen! - Appenzeller Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZm1VTWFkRTRIaGI5VVYxWGhEbXlVeFY1aTAyTHJWdTVxOE1CNzJOSVRGVEF1enZEWWFMSW5MRVAyekZzcEFBMmVTQVZnQkpRSFFXZEpSWjh4bzkxWDBXVUxLZ0lSUHkyanYxUXp1NC05N3JPZEZySVRNUHMwa1pfRjdBc2ZFYlVqbHdkMmh3RlRoVGNNRHd1Snd5MmdRR1c0RjV2TndzSng5QXJt?oc=5",
+      "source": "Appenzeller Zeitung",
+      "language": "de",
+      "published": "2026-11-26",
+      "verified": false
+    },
     {
       "id": "20eed426fe12864ae9",
       "name": "Jetzt Tickets für MUSIKTHEATER Wil gewinnen! - St. Galler Tagblatt",
@@ -12,10 +21,10 @@
       "verified": false
     },
     {
-      "id": "92ecd53a323b9477cd",
-      "name": "Jetzt Tickets für MUSIKTHEATER Wil gewinnen! - Thurgauer Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmlUbTFHV2UwUllOa1NfelFHQ01kWHFocld5bDdaMVZHaTFFbGtEVjY3bzBnbDJWSUpEMjg1RkhNUTRSb0UzT04wbWZ4THNUQ2hTVkJrcEFnNXRWMjlKTVcyQ2RrTTBZWXF3dTF6a3BQcEcyUl9VSVN4VEZzNWpmczlZWWJJVjZyNGZzR19HNzgwOXBSU29KRE5MNDNXbkRPZzVhc3ZuRmRuUQ?oc=5",
-      "source": "Thurgauer Zeitung",
+      "id": "91830148d8f31ab098",
+      "name": "Jetzt Tickets für MUSIKTHEATER Wil gewinnen! - Aargauer Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWI4aFBTLXBOTGNVZ3ltN3RmMmNfNFRYRFFmUkpBNGFENHk0N1pxeTZGRG5ZX2pEQm9YUDlSSXRGTXZTMUNkUjZRNWtfVThOXzdZQ1QxdHRScjl0bE1mSWV3WTdsOWxnNjRtWDRNeXRXN1p6LWtiYS1vanp0aGJGa2lheklfN1VtSGlfSVFQc2JGWXBOQnRTeG9RZDNURGk0VlhDOFVlQ2Jfdw?oc=5",
+      "source": "Aargauer Zeitung",
       "language": "de",
       "published": "2026-11-26",
       "verified": false
@@ -183,6 +192,15 @@
       "verified": false
     },
     {
+      "id": "68bca2ab801ee9b71c",
+      "name": "Jeu King Jouet KPop Demon Hunters : 11 box de cadeaux à gagner - EchantillonsClub.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0pKVlJ0TTVQWEZTNW1TUnBTSktsaG9RMDFDZW1Xa3dnSTE2YUQ3dTRYTzFmLWNPc0VNVERtanVabTlCR243WmR3N25LbHpSdkVEYXhseV8zVGpEek9NNllLcGI0Zzc3ZFhNc3pSZFFpcXV4SnBBLXltdHExLVhEeUx5UzJUdjhzWUVaUGplWWFralRzMXN4WWU3LTlNcVpldzlHQW1fTG4?oc=5",
+      "source": "EchantillonsClub.com",
+      "language": "fr",
+      "published": "2026-11-17",
+      "verified": false
+    },
+    {
       "id": "bda6dd6adaf912f9c9",
       "name": "Schweizer Genussmomente: Aufenthalt & RAUSCH-Verwöhnpakete gewinnen! - weekend.at",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU091dWhENkdhSmV0eTlrRXJDUU15c1BKcGVVWW10bXRXTW5Ycm1Zb28zUnpyUjc0dTBnYmNfVzdfbE1OQjc4dTAtUmNDbjVfOC1YVF9mRFN0VVJvZU9SUTB4NGtQZEZnMldVdnJraHVFeExfTFZ4U0hB?oc=5",
@@ -198,15 +216,6 @@
       "source": "Vaterland online",
       "language": "de",
       "published": "2026-11-17",
-      "verified": false
-    },
-    {
-      "id": "dd54a3b164c3ab08fe",
-      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
-      "source": "Loisirs.ch",
-      "language": "fr",
-      "published": "2026-11-16",
       "verified": false
     },
     {
@@ -432,6 +441,15 @@
       "source": "Presseportal",
       "language": "de",
       "published": "2026-11-02",
+      "verified": false
+    },
+    {
+      "id": "c8f7d0200e880d5920",
+      "name": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16ZGNkcjEwWHJfd1U2cldvZEwyaDIxZnc3dFozUkw2MDluVng2Ym9nT2FrYlo1eFdPQ0ZnMExIcXBJRnI3eFZzSEhiUHI0RlQ4eU9IUXdoWUU3SXlXZGpTRFJhazJxTE1yMTJTY010ZEsxbnowbXRGWnVn0gF_QVVfeXFMUFJGeXl6T05rMTBpd1RmamlaOU5jbWNqeHBRcGVRa1RzOTMxTlFINWotTnQtZUpBNXlEUkhmVDk5WGVjLVJBSkprUzZOVlhqTWtOQm1KanRzZzhUb2J3U1BrLXJPUnE4NFJPc2JlLVYzc1hxVDk1ZFVmZV9CRjZYSQ?oc=5",
+      "source": "Naturschutz.ch",
+      "language": "de",
+      "published": "2026-11-01",
       "verified": false
     },
     {
