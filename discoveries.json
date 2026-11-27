@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:38:37+00:00",
+  "updated": "2026-11-27T10:23:07+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -120,12 +120,30 @@
       "verified": false
     },
     {
+      "id": "f1f224a77535a8bfdc",
+      "name": "5 x 2 Sitzplatztickets für FC St. Gallen 1879 vs. FC Vaduz zu gewinnen! - Aargauer Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VdTlhMkswQnNBdkNrS1FTVm83Q09xdENlZmRVNXd6by1melBlUXI0SVE0X0VRRzNnMGlNbTBPUjI0cm0yQ21SUmdhcUwyNXBDNDlLeHUzc3h5bWJBc09OZFcxRHkxSHpjQnZLbDVZOGlpeUNWaGtxMg?oc=5",
+      "source": "Aargauer Zeitung",
+      "language": "de",
+      "published": "2026-11-23",
+      "verified": false
+    },
+    {
       "id": "b7b0f0d783a5cf90b9",
       "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
       "source": "www.gaultmillau.ch",
       "language": "fr",
       "published": "2026-11-22",
+      "verified": false
+    },
+    {
+      "id": "beb9294c82ad10aece",
+      "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
+      "source": "Touring Club Schweiz",
+      "language": "fr",
+      "published": "2026-11-21",
       "verified": false
     },
     {
@@ -228,24 +246,6 @@
       "verified": false
     },
     {
-      "id": "deaaba49457e800853",
-      "name": "Evening Standard: Nations League schwerer zu gewinnen als WM und EM - AllFootball",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVVPNmRyR1FyMzFHNHNsWDF5NGN4T0diS2JQeVB2TWd1dFFQdWU1bl93bEFYanhBd1pMT2V2TUhQYnppZWdqZUtyemJiTHByRWw2V3lBUmJXSklXV294OWRvOWxGb3JYVjI0aXM5TU9yM2h0Q05QaTYtVk9fQ2g3WlFZbExVR0VHRnlLT3JfZ0t5V1BFc0dzYk1n?oc=5",
-      "source": "AllFootball",
-      "language": "de",
-      "published": "2026-11-18",
-      "verified": false
-    },
-    {
-      "id": "68bca2ab801ee9b71c",
-      "name": "Jeu King Jouet KPop Demon Hunters : 11 box de cadeaux à gagner - EchantillonsClub.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0pKVlJ0TTVQWEZTNW1TUnBTSktsaG9RMDFDZW1Xa3dnSTE2YUQ3dTRYTzFmLWNPc0VNVERtanVabTlCR243WmR3N25LbHpSdkVEYXhseV8zVGpEek9NNllLcGI0Zzc3ZFhNc3pSZFFpcXV4SnBBLXltdHExLVhEeUx5UzJUdjhzWUVaUGplWWFralRzMXN4WWU3LTlNcVpldzlHQW1fTG4?oc=5",
-      "source": "EchantillonsClub.com",
-      "language": "fr",
-      "published": "2026-11-17",
-      "verified": false
-    },
-    {
       "id": "15d25a170e485af848",
       "name": "Concours: Défi Cheat Meal par Aligro - Le Matin",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZXFDNnFHTzRLQ25DR2ZrN0dVb1dfQS1acmNOWUZ1LXM5b3Vnc0hDenhuYUFnbWt3VGE3Q2VnN0xlSEJnOHUzeXNFOW52ak5RVGlsdDVxN2JJNlhDc2gxRVhzTjRNOFc4Sm1md1J5REhwZzhnZGd0NHQwc1VsT0E?oc=5",
@@ -261,6 +261,15 @@
       "source": "Vaterland online",
       "language": "de",
       "published": "2026-11-17",
+      "verified": false
+    },
+    {
+      "id": "dd54a3b164c3ab08fe",
+      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
+      "source": "Loisirs.ch",
+      "language": "fr",
+      "published": "2026-11-16",
       "verified": false
     },
     {
@@ -435,6 +444,15 @@
       "verified": false
     },
     {
+      "id": "4f5a1942a60ecdd73c",
+      "name": "Buchner Bründler gewinnen Wettbewerb für Riehens grösstes Entwicklungsgebiet - Architektur Basel",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdkhRZFRzbjNzR2VTaGo0QkdrT2RKOG04TEF6TDRobTR4YjctT1JHWm5wbFNYMFB1SzA2YjYyYlRSTU8zVVhucXZXZWxQeHRTbkI2YUE2bDA0WEZwdEdfSzdqeTJMVlAzY25CSGdJZ2s3TXpsNDhMbHFOMG9IYUlqTm5SV2UxcHU0Y3REZnJDc0FvQVRFY08zVWd0V2VNZnIxWWpFdjBzakhZa2R1V3pLdlBNdDV4dGRrazhZ?oc=5",
+      "source": "Architektur Basel",
+      "language": "de",
+      "published": "2026-11-09",
+      "verified": false
+    },
+    {
       "id": "1b1297f0a6677caa9c",
       "name": "Beweisen Sie Ihr Wissen im grossen Appenzeller Herbstquiz und gewinnen Sie tolle Preise - Appenzeller Zeitung",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdTgtMDdVMTBEX21aUUlhcjdweGFwSlVtOW1feDNBMVBtTlgzVENTNkJTMHMxeUtBVlAzTXprd0tyTDk0MHd6X3N3Zlg2eUdRd2NQUmFhUlRNZG5pLW9rNS1JQzVHbmIxSEtnQkVtbG01ekp1VVNKWHo2RlB5d0dNUmpJX2hjem5PUFZIazBkMlR1d0dTSEZhcXNzT0Y5OWpLSzRYS2M5U2JVb3lFMmpOX3BkaDBiaG1TVFZieFNYMnZpLUtBVEh1UlJ1dThVSmZiS0J3?oc=5",
@@ -540,6 +558,24 @@
       "source": "Presseportal",
       "language": "de",
       "published": "2026-11-02",
+      "verified": false
+    },
+    {
+      "id": "c8f7d0200e880d5920",
+      "name": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16ZGNkcjEwWHJfd1U2cldvZEwyaDIxZnc3dFozUkw2MDluVng2Ym9nT2FrYlo1eFdPQ0ZnMExIcXBJRnI3eFZzSEhiUHI0RlQ4eU9IUXdoWUU3SXlXZGpTRFJhazJxTE1yMTJTY010ZEsxbnowbXRGWnVn0gF_QVVfeXFMUFJGeXl6T05rMTBpd1RmamlaOU5jbWNqeHBRcGVRa1RzOTMxTlFINWotTnQtZUpBNXlEUkhmVDk5WGVjLVJBSkprUzZOVlhqTWtOQm1KanRzZzhUb2J3U1BrLXJPUnE4NFJPc2JlLVYzc1hxVDk1ZFVmZV9CRjZYSQ?oc=5",
+      "source": "Naturschutz.ch",
+      "language": "de",
+      "published": "2026-11-01",
+      "verified": false
+    },
+    {
+      "id": "6ccd46b4d40ff9df90",
+      "name": "Concours Ovomaltine: 1 des 50 paquets Ovo à gagner - Ovomaltine.ch",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwb2VkcnZVWTBHNkpXend4TjhkbVBkdkEzMkJ5Z3p6cGY4ZWxkd0RTNVVQRWF6YzF1VmwwNkVoUVhkX244Q2xYU3RjQUtGTlE?oc=5",
+      "source": "Ovomaltine.ch",
+      "language": "fr",
+      "published": "2026-10-31",
       "verified": false
     },
     {
