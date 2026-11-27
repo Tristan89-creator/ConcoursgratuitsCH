@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T03:16:04+00:00",
+  "updated": "2026-11-27T04:29:46+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -219,15 +219,6 @@
       "verified": false
     },
     {
-      "id": "68bca2ab801ee9b71c",
-      "name": "Jeu King Jouet KPop Demon Hunters : 11 box de cadeaux à gagner - EchantillonsClub.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0pKVlJ0TTVQWEZTNW1TUnBTSktsaG9RMDFDZW1Xa3dnSTE2YUQ3dTRYTzFmLWNPc0VNVERtanVabTlCR243WmR3N25LbHpSdkVEYXhseV8zVGpEek9NNllLcGI0Zzc3ZFhNc3pSZFFpcXV4SnBBLXltdHExLVhEeUx5UzJUdjhzWUVaUGplWWFralRzMXN4WWU3LTlNcVpldzlHQW1fTG4?oc=5",
-      "source": "EchantillonsClub.com",
-      "language": "fr",
-      "published": "2026-11-17",
-      "verified": false
-    },
-    {
       "id": "15d25a170e485af848",
       "name": "Concours: Défi Cheat Meal par Aligro - Le Matin",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZXFDNnFHTzRLQ25DR2ZrN0dVb1dfQS1acmNOWUZ1LXM5b3Vnc0hDenhuYUFnbWt3VGE3Q2VnN0xlSEJnOHUzeXNFOW52ak5RVGlsdDVxN2JJNlhDc2gxRVhzTjRNOFc4Sm1md1J5REhwZzhnZGd0NHQwc1VsT0E?oc=5",
@@ -243,6 +234,15 @@
       "source": "Vaterland online",
       "language": "de",
       "published": "2026-11-17",
+      "verified": false
+    },
+    {
+      "id": "dd54a3b164c3ab08fe",
+      "name": "Concours annuel Fondation Pierre Gianadda - Loisirs.ch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleFFwTXFHX21CVTdtM1h6RTlzc3VwdHhMNDZiZS0tdVhKelpVTnV2cnhBZzNJcnBiaFJMRzRBcmdoV00yc3pxZlhvZkVPQ2VLMFJqSloxNGM0YmJtTVRJbk91N1ZiSmVHVVE?oc=5",
+      "source": "Loisirs.ch",
+      "language": "fr",
+      "published": "2026-11-16",
       "verified": false
     },
     {
@@ -440,6 +440,15 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlYwRENpZjA1ZC1NSXktTlB5c1hmR2xZRjF1cjhrQ0dJUDFMZzczaXJZdElDcXZTbjcxQ1hYaVNETldJX044eUJMSEoxcDlsaDBzY3ZVSnlYZVZZSHdHQWtsUmVXUlNSZUFkRkRnU3B5UGl5WkJkeEFwWlRkQ05PWDkyR1lVVWlxeFJmUnl3LVMtRlRxWGlWTkxhYXFyQmJ3VjB4NHBoVmQyLVow?oc=5",
       "source": "Falstaff",
       "language": "de",
+      "published": "2026-11-04",
+      "verified": false
+    },
+    {
+      "id": "d112b701e8a817f044",
+      "name": "Vinci due biglietti premium, con viaggio e hotel inclusi, per la partita di Champions League Aston Villa-Dortmund - blue News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3EwQ0R3NHZLMkVYN2J5Vk43dHhHSzNhSUZGTDlleUlQUzQ4RElySkFLUVc1UlNJUnhlWmhxU0JzQVBWUzBmX3U2aVg4ZGhqTjBWOWFWZkZzZ1VOX01wTEQ4T20zc21TZ3NiWEpjTG1hM2phRHZtdHFXa3YzZzhwS3U1b1kycnc2VzZrR0hhUlhXblU4OFRSR1hCdmVvQnlQZWpObXZDVGJmNm1ETXRWUVBaWEZOb2dISy1sUlI5bWdxQQ?oc=5",
+      "source": "blue News",
+      "language": "it",
       "published": "2026-11-04",
       "verified": false
     },
