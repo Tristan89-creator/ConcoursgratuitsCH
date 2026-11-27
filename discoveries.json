@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-27T01:38:28+00:00",
+  "updated": "2026-11-27T03:16:04+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
+    {
+      "id": "c8f57c4352fcf44f90",
+      "name": "HC Kriens-Luzern: Tickets für Heimspiel zu gewinnen - Aargauer Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWW93R1lQblJxel9TWVkzTmV6YTdhOVVTbnBuaElDeVZCdlRKVWJVY05heldqSnZOaWdLaEtKUFNBWVc1a2tnSktmUUZ0R29uelNZYVIzVGdJTHdhajFCQjQ4WkROWWFiTjFRbEltSU9Qdlk2VEFUYXc4ZFJ4TFplQkw4VFF5U25KWjE4N1pYN0x3cWVRXzUzeWxIbw?oc=5",
+      "source": "Aargauer Zeitung",
+      "language": "de",
+      "published": "2026-11-27",
+      "verified": false
+    },
     {
       "id": "671c133207b02d3a91",
       "name": "Adventswettbewerb 2026 - TierWelt – Das Tier- und Naturmagazin",
@@ -246,19 +255,19 @@
       "verified": false
     },
     {
-      "id": "06c10be5c12f7ab66e",
-      "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. Grasshoppers zu gewinnen! - St. Galler Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZHV5SmpVZ0FVWlQ1anpfbEZWSzVzTnM4Q0ZnS0xwT2FHVW9jaWc3RWJoR2ZlNXJWVFZUN2FTa09zZnVnVmw0cHcyOTRrMmQtM1A2cWRSU0dnRUZZd0FRYi1DaVBMWk0taUhhVy1QUQ?oc=5",
-      "source": "St. Galler Tagblatt",
+      "id": "7ba9ba55805c87fa26",
+      "name": "Age Innovation Prize 2026: «Vireo» und «MusikSpitex» gewinnen Schweizer Altersinnovationspreis - www.wirtschaftszeit.ch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmRqX09tb2o5X0xpUjhaaU9leTI1UWxteUJzWlpsb1NUVUpJaTJFQ2h2WHdxQ3BuODlOUHR6aXEzR01qcnNRdjRCa1dRSk1zUXJaNmFMQzFUTzlCODAxMjBCdzVDaGxXbzhBZ2w5UUkzMlA4LWpERE9lYWplWE9CVU1lUGNDQnV6OHVpaUV6R3NJRVlBT3ZRWWFiWERrd1RKMnN5SS1qZ0lhRVVKVWozU2FUcDkxUFdDMVlIR3lvMmMwMmdj?oc=5",
+      "source": "www.wirtschaftszeit.ch",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
     },
     {
-      "id": "7ba9ba55805c87fa26",
-      "name": "Age Innovation Prize 2026: «Vireo» und «MusikSpitex» gewinnen Schweizer Altersinnovationspreis - www.wirtschaftszeit.ch",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmRqX09tb2o5X0xpUjhaaU9leTI1UWxteUJzWlpsb1NUVUpJaTJFQ2h2WHdxQ3BuODlOUHR6aXEzR01qcnNRdjRCa1dRSk1zUXJaNmFMQzFUTzlCODAxMjBCdzVDaGxXbzhBZ2w5UUkzMlA4LWpERE9lYWplWE9CVU1lUGNDQnV6OHVpaUV6R3NJRVlBT3ZRWWFiWERrd1RKMnN5SS1qZ0lhRVVKVWozU2FUcDkxUFdDMVlIR3lvMmMwMmdj?oc=5",
-      "source": "www.wirtschaftszeit.ch",
+      "id": "06c10be5c12f7ab66e",
+      "name": "5 x 2 Sitzplatztickets für FCSG 1879 vs. Grasshoppers zu gewinnen! - St. Galler Tagblatt",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZHV5SmpVZ0FVWlQ1anpfbEZWSzVzTnM4Q0ZnS0xwT2FHVW9jaWc3RWJoR2ZlNXJWVFZUN2FTa09zZnVnVmw0cHcyOTRrMmQtM1A2cWRSU0dnRUZZd0FRYi1DaVBMWk0taUhhVy1QUQ?oc=5",
+      "source": "St. Galler Tagblatt",
       "language": "de",
       "published": "2026-11-16",
       "verified": false
@@ -435,15 +444,6 @@
       "verified": false
     },
     {
-      "id": "d112b701e8a817f044",
-      "name": "Vinci due biglietti premium, con viaggio e hotel inclusi, per la partita di Champions League Aston Villa-Dortmund - blue News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3EwQ0R3NHZLMkVYN2J5Vk43dHhHSzNhSUZGTDlleUlQUzQ4RElySkFLUVc1UlNJUnhlWmhxU0JzQVBWUzBmX3U2aVg4ZGhqTjBWOWFWZkZzZ1VOX01wTEQ4T20zc21TZ3NiWEpjTG1hM2phRHZtdHFXa3YzZzhwS3U1b1kycnc2VzZrR0hhUlhXblU4OFRSR1hCdmVvQnlQZWpObXZDVGJmNm1ETXRWUVBaWEZOb2dISy1sUlI5bWdxQQ?oc=5",
-      "source": "blue News",
-      "language": "it",
-      "published": "2026-11-04",
-      "verified": false
-    },
-    {
       "id": "9f912acd76786336cf",
       "name": "Miles & More Gewinnspiel: 100 × 100.000 Meilen zum Lufthansa-Jubiläum - meilenoptimieren",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZngwSS01bUlOZjEyVFg3SUdLbXhZeDc5Yy1tdjUzbkVLSlM1S0xlakJZQWJ6bUVoQ3p2VHMybzl3bkVBd0otM1J0VlVBdXIzMlFDTGUxWnlBbWFMTVBmdktjVGQzLW5mbldYWk9PdHc1d2pnenpWMVRvd0p3SDhaVDNn?oc=5",
@@ -457,15 +457,6 @@
       "name": "Gewinnen Sie zwei Tickets für den Slalom am Chuenisbärgli - Plattform J",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRzBWMXMzNF9JSmxzUGZ1UENnZjdreGV4LXJYN3ZQRndjS0REOG5DeHhSLXRCMFY2Y0VNUVhMWDJ1ZFEtRWp3cFdjNnFWSHA3UEpz?oc=5",
       "source": "Plattform J",
-      "language": "de",
-      "published": "2026-11-02",
-      "verified": false
-    },
-    {
-      "id": "a22190bca2d75c168f",
-      "name": "FOTOS ANBEI: „Hitzehelfer Brandenburg“ gewinnen Landeswettbewerb für ein gesundes Miteinander - Presseportal",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGcXQ1djNnb3BmQzlZeHZSU0ozVXdkYURaUmQ1ZU1YUWxIVEtHZGhwcnFOeDUwQTJtMUJwa1lLeGZpNG1uSWVnM0JzOTJEQmxCcXlFdnNBcw?oc=5",
-      "source": "Presseportal",
       "language": "de",
       "published": "2026-11-02",
       "verified": false
@@ -486,15 +477,6 @@
       "source": "BauernZeitung",
       "language": "de",
       "published": "2026-10-30",
-      "verified": false
-    },
-    {
-      "id": "1cd81cbe74aeb6052f",
-      "name": "Herbst-Wettbewerb-Umfrage 2026 – N° 3 - freizeit.ch",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yamxfQk9NdzIxeFdTYmR4MjJHejh2V2hHLVJCY2xHWlhHV2h2eFNzdl9jMHJnUXl6WEhPM1pydGIxeFJJVlJ6ejRmTUY4RFlndldmdjBMMXFxTFprc0VxeGhYLVljcU1WZ3JwelBBYllqdF8wN0ZpS1Z3?oc=5",
-      "source": "freizeit.ch",
-      "language": "de",
-      "published": "2026-10-28",
       "verified": false
     }
   ]
