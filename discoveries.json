@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:08:47+00:00",
+  "updated": "2026-11-28T04:13:50+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -129,12 +129,12 @@
       "verified": false
     },
     {
-      "id": "b7b0f0d783a5cf90b9",
-      "name": "Concours: gagnez l'afternoon tea du Beau-Rivage Palace pour deux personnes à emporter - www.gaultmillau.ch",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktqVlN3dE1welFtb1ZyM0Z2UENJMTdrNkhWaTdHUks1bFIyV29JNzNoVnhIay1fNlVwSzgtdnQ1TFpuNS1XWVpFY1pvQ1c5UE1Sbnh2emkyNnM0ZDJKWTZpQ2MyUzN4bXRFbnBORnNTUEtieG5YZW9FZmZ5UFJEeUQ0WlJFb1k0?oc=5",
-      "source": "www.gaultmillau.ch",
+      "id": "beb9294c82ad10aece",
+      "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
+      "source": "Touring Club Schweiz",
       "language": "fr",
-      "published": "2026-11-22",
+      "published": "2026-11-21",
       "verified": false
     },
     {
@@ -291,6 +291,15 @@
       "verified": false
     },
     {
+      "id": "ba65fc0f77c90fcafd",
+      "name": "80e Concours de Genève – Finale 2 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0VXanVhUUNpLUJtdmdnSVc0RXdkWC1WMmQ2b2NMcXdDLU1Mb3BkQ01kR05UbF9EVlBENG04QzN6WmRBWTFKLTlNcHE5UnI2bFBHQk53M2dVbmpwN1Y1aUFRcnJTaHpDUk1GSkp1ZndtYXU2NTYzZnh5YmNPd2hlSFlHMnJvUmlNTzBUVUM5c0lrVGNpOHNWcG9OUWVtWlozbmZ4VDFIU0E4MFI3elV0NHE2Y1UtSmI0TG5sNEpXd2x3NkVGODZFQ2NUVmlvUQ?oc=5",
+      "source": "Unidivers",
+      "language": "fr",
+      "published": "2026-11-13",
+      "verified": false
+    },
+    {
       "id": "2fcd9e9bb18552c93a",
       "name": "EVZ vs. EHC Kloten: Stehplatz-Tickets zu gewinnen - St. Galler Tagblatt",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGM2RLOC05b1A1TGMyajFsNFlVU3Q1UkNyZUtxYkVSZktmR1ZuaXRLM1hEbE0xaHRLSkVOUThLZm1nZ01tTlMzTDhYRDd5TjQzS1JFRUZjdHFMSWN2bXRjZ2MxU1I0cGw0ZGZrTFUyaw?oc=5",
@@ -315,6 +324,15 @@
       "source": "Radio LFM",
       "language": "fr",
       "published": "2026-11-12",
+      "verified": false
+    },
+    {
+      "id": "f961cfc4f21f8b04d5",
+      "name": "80e Concours de Genève – Finale 1 – Orchestre de la Suisse Romande, Victoria Hall, Genève - Unidivers",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalFxcTRQVDIxbEtHTGtfYnF3Mjlab0F1U0dOTzlTUnRjQ0QtREpaeVlIX0RSQlQ4RGtuek5LTmVjYXZJYzVkcENVVkx4aTV3RHhNZC1wT2dwU29Ma216YVNYSXp0TWY1c0pKWXVNcUZWb25RWEV2R0ZOS3hYYXV6TmRwM0ppVEZrR240azFsRTFJSzEtMzVZNVlKMEJONlJjcTVJcjNIQjVqTTZGcUNUZXBRajRiaW83dkU3Wmhjb1Y3azd2TmFzNVZYVkpDUQ?oc=5",
+      "source": "Unidivers",
+      "language": "fr",
+      "published": "2026-11-11",
       "verified": false
     },
     {
