@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T09:06:19+00:00",
+  "updated": "2026-11-28T10:06:01+00:00",
   "source": "Public RSS search candidates; NOT verified free Swiss contests",
   "items": [
     {
@@ -57,6 +57,24 @@
       "verified": false
     },
     {
+      "id": "36f86a85131fc4656e",
+      "name": "Concours & Shopping - carteb.ch",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16Sk0xak5mdjcweWN2ZVEwMVlFbWpJeU5Kdkd5enVfODRlZ1NzaFUyWUFkRFo3RzFCVEZjOWZHZjdpWXhI?oc=5",
+      "source": "carteb.ch",
+      "language": "fr",
+      "published": "2026-11-25",
+      "verified": false
+    },
+    {
+      "id": "f4c451aad74a1ecee2",
+      "name": "Mission 10.12 : une PS5 et GTA 6 à gagner avec Kito - Kito Publicité",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE80Nmk5V1d2VGI5TjNuRndLbzd2eXEzbzhKbWdJNEtXS1ZPdUV5cEJ4NFJMNUtLWUZzS3dzdVFn?oc=5",
+      "source": "Kito Publicité",
+      "language": "fr",
+      "published": "2026-11-25",
+      "verified": false
+    },
+    {
       "id": "9cf4fc98830230d4cd",
       "name": "Vos places pour FOREVER - THE BEST SHOW ABOUT THE KING OF POP à gagner - TF1+",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONVRUamlSSEx5aExtWGV4SkdPVXNZc1pNSUl5c0xTUHBpV3Z2WlB6SDIxbjFsRmRPOXE0R0pzOTZvTDUyNUlXckt4aUR3ZXBOeWRnMmR0ZG5pZ3RXekdtZWdlYUdJNVhPMzNyLWI4ei1MM3FZcVV1ejl5WWpKZW02S01pVnQ3cXBydHhNMGFOck1RU0dtbnQyVERPU3A0OFQwMjlhYWFranlSNV9aclFrVUdXamNrQTFWdUJaRTRPOHpDMDNDYUtnbUZRY1dBUU9zWFlfS0RPZkk2UzdybWVVazQxMXZLWHhN?oc=5",
@@ -84,6 +102,15 @@
       "verified": false
     },
     {
+      "id": "0a47ab5c0958659266",
+      "name": "Concours Gottéron: gagne tes places! - Frapp",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16Ny1WdDJuNUY4Mkx2cDdQTHBYWjBreHF6MGtNc1QtVW9WNVBLQlJlS1pfTEpBUm56OHNxQkRwWWROMkJGdDhraU00MjJ6Nk9jSmFUcXFqMTdtM1JCTG5RaGZ3N1RXTDh3b1ZJRDd3RlZ6c3YtM2k5ejNaYi0?oc=5",
+      "source": "Frapp",
+      "language": "fr",
+      "published": "2026-11-23",
+      "verified": false
+    },
+    {
       "id": "c428e444b5dbb6283a",
       "name": "Wettbewerb: Preise für 3690 Franken zu gewinnen! | - aboutFLEET",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnVsQzN6bkhrTDZWRl9LMGFsajVWcXdMS0VPRk1NODhJNkhYX0I0eF9EeTdJLTNKV1BuS3M5XzlEcUN5dFJFRF9iWjNWTUNCaXd5Z1F1eXhlUHVfcWwwQ2FFWWJMU05ZeVprSV9wSEEtSFNzZlBkZzk0azNEVkkyOA?oc=5",
@@ -102,15 +129,6 @@
       "verified": false
     },
     {
-      "id": "beb9294c82ad10aece",
-      "name": "Concours TCS : le quiz des informations touristiques - Touring Club Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDdJdUtfYXpTcmtpQlR2MnAyMjBmS3V3VFRjY0tDSTJDSGpuRC1RV08zZ2QxNWEyUGFCcC12bGhpWXNIVE0wejVMcDE5LU9NOGV1U2xTUk8wRTh1YnJNSkE4NUhXXy1JaGJ6UUFzbHdibVlhd3ZQTVViZGIwVTlmVG1vT0p6anFCT19OUDB1OXNDQlZXZ0Nsbk54U3dOZFVybE5z?oc=5",
-      "source": "Touring Club Schweiz",
-      "language": "fr",
-      "published": "2026-11-21",
-      "verified": false
-    },
-    {
       "id": "55b47d1f16c52db66b",
       "name": "Des congés à gagner en se vaccinant contre la grippe: le tirage au sort de l’Hôpital du Valais vous fait réagir - Le Nouvelliste",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTk5GNXFSaVVuYWdKNGVBNC1FRy13Tm9GN2kyVVlIM29OVERReHBuYWZYb3dqeEd5WGt2Vms1TnZBNDAzRVBleS02MnptRmkyQ29aeld5RklvbkpUQXNEVWhQNk1GX1JHZjQ4ajMyNlJrSUdEOXZuWTBPeTNQb2dEMjN0LU9IVUdiMkVNLW42UXVyN1h3aFdLdi0tRnlQbkdvaENZbzdJN0liTDhkREctdS02U29vcklEVGZBdTZVNWF4U0JWQkdybnZEMUhhRW5sQU92RjFzWGxMendqOXVUczAwdFpzeXk4?oc=5",
@@ -126,15 +144,6 @@
       "source": "Albinfo",
       "language": "de",
       "published": "2026-11-21",
-      "verified": false
-    },
-    {
-      "id": "2ab9619bf0fc5e9bfa",
-      "name": "Concours Goûts et Terroirs 2026 : gagnez 5 × 2 entrées pour le salon à Bulle ! - Avantages Familles",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVU9Ga3FrZ1p4UFVaQUp4bm1obFQwR09pRGd3VGVrSmREZk5KSExJZFdRUGZCa2t3UEk0QWtmRlgyLWxOdUFYR3Jpd2U0Mm9KRE0zY21Qd1Zvc0tJTmsxNk5nRUxnSGlHQWN1aDlyZ19KUExyd1kwckhIbHZtaVVndkxYWlBaSUFQZHBqaVNGU2xKWlVheDF3a2ptNUUxME12ZjduOFMxWmZPOTRrMFI4SVc5NEM?oc=5",
-      "source": "Avantages Familles",
-      "language": "fr",
-      "published": "2026-11-20",
       "verified": false
     },
     {
@@ -198,6 +207,24 @@
       "source": "weekend.at",
       "language": "de",
       "published": "2026-11-18",
+      "verified": false
+    },
+    {
+      "id": "68bca2ab801ee9b71c",
+      "name": "Jeu King Jouet KPop Demon Hunters : 11 box de cadeaux à gagner - EchantillonsClub.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0pKVlJ0TTVQWEZTNW1TUnBTSktsaG9RMDFDZW1Xa3dnSTE2YUQ3dTRYTzFmLWNPc0VNVERtanVabTlCR243WmR3N25LbHpSdkVEYXhseV8zVGpEek9NNllLcGI0Zzc3ZFhNc3pSZFFpcXV4SnBBLXltdHExLVhEeUx5UzJUdjhzWUVaUGplWWFralRzMXN4WWU3LTlNcVpldzlHQW1fTG4?oc=5",
+      "source": "EchantillonsClub.com",
+      "language": "fr",
+      "published": "2026-11-17",
+      "verified": false
+    },
+    {
+      "id": "15d25a170e485af848",
+      "name": "Concours: Défi Cheat Meal par Aligro - Le Matin",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZXFDNnFHTzRLQ25DR2ZrN0dVb1dfQS1acmNOWUZ1LXM5b3Vnc0hDenhuYUFnbWt3VGE3Q2VnN0xlSEJnOHUzeXNFOW52ak5RVGlsdDVxN2JJNlhDc2gxRVhzTjRNOFc4Sm1md1J5REhwZzhnZGd0NHQwc1VsT0E?oc=5",
+      "source": "Le Matin",
+      "language": "fr",
+      "published": "2026-11-17",
       "verified": false
     },
     {
@@ -318,6 +345,15 @@
       "verified": false
     },
     {
+      "id": "40171c4b0d93c1b212",
+      "name": "Jeu-concours Black November - Swiss Bankers",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QQXYyQXVKMGh2aU56S3c2Z1ZjaVU5bFJLLTU2MWZIVHhReE5BWUt2MkV2R2xNZDE0SmhFVngzQXQtTFU3alNTQWxZRjBZR3E4ZERmMGpINnY?oc=5",
+      "source": "Swiss Bankers",
+      "language": "fr",
+      "published": "2026-11-10",
+      "verified": false
+    },
+    {
       "id": "6699198d4bd1dbd9d7",
       "name": "Tickets fürs Drummeli gewinnen: 5x 2 Tickets für den 30. Januar 2027 - St. Galler Tagblatt",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGZUQXdfSUFvSFdFM1l6N2dNdy1Ga2o4N2N0Z1AwUjJBSENiWTV6c2ZsU1pHNldBVHNsT3RiTzhJd1ZieXFiZHpDQ21YbW9IcTNmdDQzUVkzS1BsNW9uMTBpSzF1SFdFRFBIcjJ0RldSeHFjc0s0U19XX1B6bFdOMkkzRXBvQVExeVp1ZUluNmJjQmpBN2NvOGF6eEJpelJC?oc=5",
@@ -351,6 +387,15 @@
       "source": "Architektur Basel",
       "language": "de",
       "published": "2026-11-09",
+      "verified": false
+    },
+    {
+      "id": "7f9c9a3e685b2a1b6c",
+      "name": "Le Black Friday One FM: CHF 2’000.- de cadeaux à gagner! - One FM Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0NrNmtxNXVwdndCQTN0bG50clNJeS1zVTFVZ3RxOEdSTDl2MDYtWFc0QWlvTWI4T0UzYlg2M3hSUHdqbnJGZTZCSWZtOFJTWVBaMVJwVUFXMzA5TjFUOEhob0JMVE5LSWxwVzJXYXJHc3hDRjlUYVBMQkdCbjRLWVE0X3pBLUxyVlE?oc=5",
+      "source": "One FM Actualités",
+      "language": "fr",
+      "published": "2026-11-06",
       "verified": false
     },
     {
